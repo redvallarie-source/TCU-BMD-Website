@@ -1,0 +1,1426 @@
+{
+  "unique_source_keys": 199,
+  "mapped": 202,
+  "downloaded": 153,
+  "failures": [
+    {
+      "key": "http://acc.tccn.edu.tw/ezcatfiles/acc/download/attach/6/DSC00717.JPG",
+      "error": "HTTP Error 503: Service Unavailable",
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-15635,r1.php?Lang=en"
+    },
+    {
+      "key": "http://acc.tccn.edu.tw/ezcatfiles/acc/download/attach/6/DSC00734.JPG",
+      "error": "HTTP Error 503: Service Unavailable",
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-15635,r1.php?Lang=en"
+    },
+    {
+      "key": "http://acc.tccn.edu.tw/ezcatfiles/acc/download/attach/7/DSC00738OK.JPG",
+      "error": "HTTP Error 503: Service Unavailable",
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-15635,r1.php?Lang=en"
+    }
+  ],
+  "skipped": [
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/DownloadButton2.jpg",
+      "reason": "Interface icon/logo already represented or not needed in source archive"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/DownloadButton1.jpg",
+      "reason": "Interface icon/logo already represented or not needed in source archive"
+    }
+  ],
+  "results": [
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/426/m/mcen800x800_small65682_262250780121.png",
+      "path": "assets/source-images/f263f6daa418a5f1.webp",
+      "width": 800,
+      "height": 566,
+      "bytes": 90056,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/679/m/mcen800x800_small65256_630126456362.png",
+      "path": "assets/source-images/aa69cbab2d7a7305.webp",
+      "width": 566,
+      "height": 800,
+      "bytes": 72754,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/597/m/mcen800x800_small65248_276531474060.png",
+      "path": "assets/source-images/6efc2fdbb02fc4a4.webp",
+      "width": 566,
+      "height": 800,
+      "bytes": 63800,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/239/m/mcen800x800_small65164_471192906957.jpg",
+      "path": "assets/source-images/af70cd5907c9a2c9.webp",
+      "width": 800,
+      "height": 602,
+      "bytes": 120374,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1659/ThehistoryoftheDepartment.png",
+      "path": "assets/source-images/7064632babf15c0e.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 194690,
+      "used_local_asset": true,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1659/ThehistoryoftheDepartment(1).png",
+      "path": "assets/source-images/887471d058e28d80.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 235988,
+      "used_local_asset": true,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1659/departmentofbusinessadministration.png",
+      "path": "assets/source-images/c033ae6de0d3ab8c.webp",
+      "width": 1337,
+      "height": 1080,
+      "bytes": 73076,
+      "used_local_asset": true,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1659/SocialInnovation&SustainableManagementConcept.png",
+      "path": "assets/source-images/73f8cdea8dfe89bd.webp",
+      "width": 666,
+      "height": 529,
+      "bytes": 38782,
+      "used_local_asset": true,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1659/cultivativefourdistinctivetalents.png",
+      "path": "assets/source-images/8045d96655e5c951.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 100730,
+      "used_local_asset": true,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1659/Sixessentialofmanagement.png",
+      "path": "assets/source-images/db98ffc68da6681b.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 174300,
+      "used_local_asset": true,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1659/StudentDevelopment.png",
+      "path": "assets/source-images/66cd17e547bc78de.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 73768,
+      "used_local_asset": true,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1659/FutureVision.png",
+      "path": "assets/source-images/5415e7757c30a278.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 85186,
+      "used_local_asset": true,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/760127409.jpg",
+      "path": "assets/source-images/d855a8513314dd62.webp",
+      "width": 1600,
+      "height": 804,
+      "bytes": 47112,
+      "used_local_asset": true,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/535/JingSi.gif",
+      "path": "assets/source-images/6052e1cea28e1896.webp",
+      "width": 980,
+      "height": 230,
+      "bytes": 89758,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-66.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1512/1.png",
+      "path": "assets/source-images/fbd9c503713b4f44.webp",
+      "width": 267,
+      "height": 300,
+      "bytes": 15040,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-66.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1512/2.png",
+      "path": "assets/source-images/815cfdbf192910e7.webp",
+      "width": 267,
+      "height": 300,
+      "bytes": 8750,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-66.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1512/3.png",
+      "path": "assets/source-images/fabc52b75c8c7910.webp",
+      "width": 267,
+      "height": 300,
+      "bytes": 15640,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-66.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1512/4.png",
+      "path": "assets/source-images/263778c9ca056f94.webp",
+      "width": 267,
+      "height": 299,
+      "bytes": 14680,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-66.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1512/5.png",
+      "path": "assets/source-images/ac8ec896b7ded510.webp",
+      "width": 267,
+      "height": 300,
+      "bytes": 6906,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-66.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1512/9.png",
+      "path": "assets/source-images/632b21282828cce6.webp",
+      "width": 267,
+      "height": 300,
+      "bytes": 10748,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-66.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/a.jpg",
+      "path": "assets/source-images/a6299e7a78b3ec96.webp",
+      "width": 1440,
+      "height": 900,
+      "bytes": 95126,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/ad1.png",
+      "path": "assets/source-images/b766424ecaff34d0.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 41360,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/2as.png",
+      "path": "assets/source-images/8ea40ec26ea08c83.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 32748,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/2ad.png",
+      "path": "assets/source-images/1f4efb43f1d91f35.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 30550,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/3as.png",
+      "path": "assets/source-images/2845b392ad8f3456.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 344224,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/ad3.png",
+      "path": "assets/source-images/c932aeb5b55acfd4.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 215650,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/4as.png",
+      "path": "assets/source-images/ee089730f7b40d83.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 70602,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/ad4.png",
+      "path": "assets/source-images/8cd84b163082b12d.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 32796,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/5as1.png",
+      "path": "assets/source-images/f45c517f773eb6cc.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 50926,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/ad5.png",
+      "path": "assets/source-images/29f29c8a8deb6e2c.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 60278,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/IMG_0952.jpg",
+      "path": "assets/source-images/07b0e73bcc8b770d.webp",
+      "width": 800,
+      "height": 600,
+      "bytes": 76714,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/IMG_0844.jpg",
+      "path": "assets/source-images/910c98c3da9980c6.webp",
+      "width": 800,
+      "height": 600,
+      "bytes": 97852,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/IMG_0360s.jpg",
+      "path": "assets/source-images/ae02aabda135e6f9.webp",
+      "width": 350,
+      "height": 262,
+      "bytes": 22538,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/IMG_0262s.jpg",
+      "path": "assets/source-images/c17c772e21cf2c7c.webp",
+      "width": 350,
+      "height": 262,
+      "bytes": 25752,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/200268758.jpg",
+      "path": "assets/source-images/cbdd3aa489da3c77.webp",
+      "width": 960,
+      "height": 542,
+      "bytes": 147136,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/896917434.jpg",
+      "path": "assets/source-images/1e1098e26a14d71d.webp",
+      "width": 1262,
+      "height": 668,
+      "bytes": 40202,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/119446725.jpg",
+      "path": "assets/source-images/10919b8ee00fb026.webp",
+      "width": 1270,
+      "height": 674,
+      "bytes": 115188,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/Whyyouneedagrihubbers.jpg",
+      "path": "assets/source-images/9ca6155b26914ddc.webp",
+      "width": 1252,
+      "height": 668,
+      "bytes": 46568,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/816489554.jpg",
+      "path": "assets/source-images/0beeedfcc4a084c0.webp",
+      "width": 1262,
+      "height": 670,
+      "bytes": 122438,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/335664347.jpg",
+      "path": "assets/source-images/de6685f2443e85de.webp",
+      "width": 1274,
+      "height": 672,
+      "bytes": 65068,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/Whyyouneedagrihubbers2.jpg",
+      "path": "assets/source-images/4915b816888005ec.webp",
+      "width": 1276,
+      "height": 708,
+      "bytes": 127734,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/535/herm01.png",
+      "path": "assets/source-images/8fbbfc09368a3302.webp",
+      "width": 815,
+      "height": 574,
+      "bytes": 87596,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-64.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/535/herm02.png",
+      "path": "assets/source-images/8e7e8592370dd235.webp",
+      "width": 851,
+      "height": 547,
+      "bytes": 51934,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-64.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/535/herm03.png",
+      "path": "assets/source-images/0d52d475c13d65ae.webp",
+      "width": 858,
+      "height": 549,
+      "bytes": 71962,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-64.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/535/herm04.png",
+      "path": "assets/source-images/d7e80375e4b7da8a.webp",
+      "width": 859,
+      "height": 547,
+      "bytes": 75430,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-64.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/535/herm05.png",
+      "path": "assets/source-images/030dd58ef251a6ca.webp",
+      "width": 860,
+      "height": 549,
+      "bytes": 65732,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-64.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/535/herm06.png",
+      "path": "assets/source-images/63ea619b1c199dc0.webp",
+      "width": 863,
+      "height": 551,
+      "bytes": 68438,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-64.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/426/m/mcen700x700_large6578_909608480992.png",
+      "path": "assets/source-images/620a7a8aab1701d2.webp",
+      "width": 495,
+      "height": 700,
+      "bytes": 72068,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65682,r1.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/679/m/mcen700x700_large6576_944556156361.png",
+      "path": "assets/source-images/d761b87f78de2e97.webp",
+      "width": 495,
+      "height": 700,
+      "bytes": 60058,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65256,r1.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/597/m/mcen700x700_large6577_568077174060.png",
+      "path": "assets/source-images/d2665d1c607c7407.webp",
+      "width": 495,
+      "height": 700,
+      "bytes": 53792,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65248,r1.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/489/m/mcen700x700_large6378_752874269753.jpg",
+      "path": "assets/source-images/e664e00f14632338.webp",
+      "width": 525,
+      "height": 700,
+      "bytes": 32918,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-58487,r914.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/330/m/mcen700x700_large6379_982606070593.jpg",
+      "path": "assets/source-images/6a1553bdd99a7178.webp",
+      "width": 525,
+      "height": 700,
+      "bytes": 27044,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-64747,r914.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/612/m/mcen700x700_large6377_179445869267.jpg",
+      "path": "assets/source-images/a47ce187c136a60a.webp",
+      "width": 525,
+      "height": 700,
+      "bytes": 22920,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-64748,r914.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/183/m/mcen700x700_large6380_23120871025.jpg",
+      "path": "assets/source-images/6dd4f9f347990497.webp",
+      "width": 465,
+      "height": 700,
+      "bytes": 18502,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65201,r914.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/975/m/mcen700x700_large6383_700708655676.png",
+      "path": "assets/source-images/bf451083bb02b27d.webp",
+      "width": 525,
+      "height": 700,
+      "bytes": 25638,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65210,r914.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/173/m/mcen700x700_large6384_430393156024.png",
+      "path": "assets/source-images/a128bdf6a67f80a3.webp",
+      "width": 626,
+      "height": 700,
+      "bytes": 22666,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65211,r914.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/423/m/mcen700x700_large6385_30131057911.jpg",
+      "path": "assets/source-images/767dcff0c2e4cc26.webp",
+      "width": 525,
+      "height": 700,
+      "bytes": 25802,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65212,r914.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/497/m/mcen700x700_large6386_844475658084.jpg",
+      "path": "assets/source-images/75bc25a09c8a8865.webp",
+      "width": 467,
+      "height": 700,
+      "bytes": 30310,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65213,r914.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/760/m/mcen700x700_large6391_734197384968.jpg",
+      "path": "assets/source-images/c746735c165073ac.webp",
+      "width": 461,
+      "height": 700,
+      "bytes": 15838,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65219,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/125/m/mcen700x700_large6412_821503088931.jpeg",
+      "path": "assets/source-images/f1b034847a561371.webp",
+      "width": 241,
+      "height": 300,
+      "bytes": 8598,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65263,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/716/m/mcen700x700_large6413_207337100047.png",
+      "path": "assets/source-images/18538ffa825a9621.webp",
+      "width": 485,
+      "height": 700,
+      "bytes": 51260,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65264,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/171/m/mcen700x700_large6414_140338900181.jpg",
+      "path": "assets/source-images/be55d558671b8bf2.webp",
+      "width": 93,
+      "height": 124,
+      "bytes": 2206,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65265,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/333/m/mcen700x700_large6415_333837473183.jpeg",
+      "path": "assets/source-images/76923ebd092a3ef8.webp",
+      "width": 107,
+      "height": 144,
+      "bytes": 2322,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65275,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/950/m/mcen700x700_large6416_37120973488.jpg",
+      "path": "assets/source-images/87b8e3b219012242.webp",
+      "width": 64,
+      "height": 96,
+      "bytes": 1966,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65276,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/538/m/mcen700x700_large6417_726352873651.jpg",
+      "path": "assets/source-images/d517d37c7e784410.webp",
+      "width": 179,
+      "height": 238,
+      "bytes": 9238,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65277,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/304/m/mcen700x700_large6418_404239475539.jpg",
+      "path": "assets/source-images/a397154369a76fed.webp",
+      "width": 501,
+      "height": 700,
+      "bytes": 34116,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65278,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/927/m/mcen700x700_large6420_86764776078.jpg",
+      "path": "assets/source-images/38c1e0bb916ca8be.webp",
+      "width": 177,
+      "height": 228,
+      "bytes": 5668,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65280,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/608/m/mcen700x700_large6419_499121375903.jpg",
+      "path": "assets/source-images/32ee6370a9e418e1.webp",
+      "width": 317,
+      "height": 428,
+      "bytes": 8618,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65279,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/808/m/mcen700x700_large6421_139916580233.png",
+      "path": "assets/source-images/da30705fbe0473c7.webp",
+      "width": 120,
+      "height": 156,
+      "bytes": 3394,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65282,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/377/m/mcen700x700_large6422_109608080348.png",
+      "path": "assets/source-images/ccb9663275e5cade.webp",
+      "width": 180,
+      "height": 233,
+      "bytes": 6864,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65283,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/465/m/mcen700x700_large6423_144816580695.png",
+      "path": "assets/source-images/3489ada0e18abed4.webp",
+      "width": 120,
+      "height": 153,
+      "bytes": 2810,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65284,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/996/m/mcen700x700_large6424_278673980817.png",
+      "path": "assets/source-images/5c122509e17b4736.webp",
+      "width": 120,
+      "height": 160,
+      "bytes": 3858,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65285,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/565/m/mcen700x700_large6425_125635481537.jpg",
+      "path": "assets/source-images/286d23ad134d37bc.webp",
+      "width": 120,
+      "height": 151,
+      "bytes": 3350,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65286,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/581/m/mcen700x700_large6426_929003882159.png",
+      "path": "assets/source-images/3209280a48b52e71.webp",
+      "width": 120,
+      "height": 154,
+      "bytes": 2592,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65287,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/685/m/mcen700x700_large6427_19563682263.jpg",
+      "path": "assets/source-images/5da8111826d267fa.webp",
+      "width": 256,
+      "height": 328,
+      "bytes": 7896,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65288,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/678/m/mcen700x700_large6428_415566382391.png",
+      "path": "assets/source-images/78524cca92edbca7.webp",
+      "width": 120,
+      "height": 160,
+      "bytes": 3016,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65289,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/764/m/mcen700x700_large6429_38297082546.jpg",
+      "path": "assets/source-images/a4acf98c8178a464.webp",
+      "width": 120,
+      "height": 148,
+      "bytes": 6258,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65290,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/121/m/mcen700x700_large6430_437514482620.png",
+      "path": "assets/source-images/c1d00eeffecc10a2.webp",
+      "width": 120,
+      "height": 158,
+      "bytes": 3122,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65291,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/959/m/mcen700x700_large6431_180141782725.png",
+      "path": "assets/source-images/58fcebf3f042fbad.webp",
+      "width": 120,
+      "height": 120,
+      "bytes": 3748,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65292,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/902/m/mcen700x700_large6432_348379182795.png",
+      "path": "assets/source-images/be809252f77a1b3d.webp",
+      "width": 120,
+      "height": 154,
+      "bytes": 2738,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65293,r1045.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/935/m/mcen700x700_large6343_874848100310.jpg",
+      "path": "assets/source-images/52ce46551af3fd49.webp",
+      "width": 348,
+      "height": 700,
+      "bytes": 30894,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65106,r1.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/115/m/mcen700x700_large6344_298757700420.jpg",
+      "path": "assets/source-images/532348ab7c8e5000.webp",
+      "width": 380,
+      "height": 700,
+      "bytes": 30158,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65107,r1.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/451/m/mcen700x700_large6340_895320894152.png",
+      "path": "assets/source-images/d488a8027ca7054f.webp",
+      "width": 495,
+      "height": 700,
+      "bytes": 42934,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-65103,r1.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/750/m/mcen700x700_large6094_720196900457.png",
+      "path": "assets/source-images/7e6c4b402149c7d9.webp",
+      "width": 498,
+      "height": 700,
+      "bytes": 48454,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-64571,r1.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/907/m/mcen700x700_large6093_110462643733.png",
+      "path": "assets/source-images/7b9b87b771468848.webp",
+      "width": 495,
+      "height": 700,
+      "bytes": 66276,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-64554,r1.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/626/herm.jpg",
+      "path": "assets/source-images/afa28e490e05551e.webp",
+      "width": 550,
+      "height": 353,
+      "bytes": 32778,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-15640,r1.php?Lang=en"
+    },
+    {
+      "key": "http://acc.tccn.edu.tw/ezcatfiles/acc/download/attach/6/DSC00717.JPG",
+      "error": "HTTP Error 503: Service Unavailable",
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-15635,r1.php?Lang=en"
+    },
+    {
+      "key": "http://acc.tccn.edu.tw/ezcatfiles/acc/download/attach/6/DSC00734.JPG",
+      "error": "HTTP Error 503: Service Unavailable",
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-15635,r1.php?Lang=en"
+    },
+    {
+      "key": "http://acc.tccn.edu.tw/ezcatfiles/acc/download/attach/7/DSC00738OK.JPG",
+      "error": "HTTP Error 503: Service Unavailable",
+      "page_url": "https://mdm.tcu.edu.tw/p/406-1021-15635,r1.php?Lang=en"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1739796077098.jpg",
+      "path": "assets/source-images/3d0cfa5fb38f8b91.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 257992,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/843541138.jpg",
+      "path": "assets/source-images/c4ae8563761ec7fb.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 146002,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1739796073464.jpg",
+      "path": "assets/source-images/8300213a6797df4a.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 207270,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/699225129.jpg",
+      "path": "assets/source-images/efadb98c3a9afad8.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 231802,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "/workspace/scratch/e2f63bada1d9/research/official-zh/inline-assets/375db10a4d9d.png",
+      "path": "assets/source-images/1a3fe98157b3d757.webp",
+      "width": 1484,
+      "height": 485,
+      "bytes": 33630,
+      "used_local_asset": true,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/messageImage_1654743200246.jpeg",
+      "path": "assets/source-images/3d754d8929b03b47.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 160088,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/1.jpeg",
+      "path": "assets/source-images/11bae30338b4cab8.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 160088,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/3a.jpeg",
+      "path": "assets/source-images/d1217ca14536acca.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 34272,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/4a.jpeg",
+      "path": "assets/source-images/85af19a03727cad8.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 155458,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/5a.jpeg",
+      "path": "assets/source-images/f17c9a553294b21b.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 47242,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/6a.jpg",
+      "path": "assets/source-images/bcad9c06747c7e0c.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 175696,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/588031220.jpg",
+      "path": "assets/source-images/094d843c440e2545.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 112244,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/833135391.jpg",
+      "path": "assets/source-images/3a1df86b5b8c7928.webp",
+      "width": 1600,
+      "height": 602,
+      "bytes": 138064,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/185465888.jpg",
+      "path": "assets/source-images/dc1a730534b50d79.webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 139098,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/37089A.jpg",
+      "path": "assets/source-images/c2cd294c3d48048e.webp",
+      "width": 390,
+      "height": 216,
+      "bytes": 19184,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/37067A.jpg",
+      "path": "assets/source-images/a692d77a5e2e88a4.webp",
+      "width": 390,
+      "height": 216,
+      "bytes": 25410,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/P_20191213_112229s.jpg",
+      "path": "assets/source-images/1f798f434d92a0e0.webp",
+      "width": 390,
+      "height": 260,
+      "bytes": 24076,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/P_20191213_112234s.jpg",
+      "path": "assets/source-images/63e4ca99eee3bdb7.webp",
+      "width": 390,
+      "height": 260,
+      "bytes": 22848,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/961582302.jpg",
+      "path": "assets/source-images/4f41826aa7f5818c.webp",
+      "width": 960,
+      "height": 542,
+      "bytes": 82742,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/970/1588127549342.jpeg",
+      "path": "assets/source-images/00ace239cf5b7967.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 76804,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/1.jpg",
+      "path": "assets/source-images/00fcb840fd07c12d.webp",
+      "width": 350,
+      "height": 262,
+      "bytes": 32698,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/970/2.jpg",
+      "path": "assets/source-images/9444e4e5f68328fa.webp",
+      "width": 350,
+      "height": 262,
+      "bytes": 37306,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/132179s.jpg",
+      "path": "assets/source-images/6fa067b24fcc11b0.webp",
+      "width": 350,
+      "height": 196,
+      "bytes": 23194,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/4.jpg",
+      "path": "assets/source-images/d8e8194a92c331fa.webp",
+      "width": 350,
+      "height": 197,
+      "bytes": 17548,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/970/20200427_224335.jpg",
+      "path": "assets/source-images/8e8ccf33b7cbcb79.webp",
+      "width": 1600,
+      "height": 907,
+      "bytes": 137498,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/970/20200427_224247.jpg",
+      "path": "assets/source-images/cf10f06aef7e05be.webp",
+      "width": 1600,
+      "height": 907,
+      "bytes": 146774,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/104948986.jpg",
+      "path": "assets/source-images/4a7badfffe1bcd5a.webp",
+      "width": 1138,
+      "height": 644,
+      "bytes": 80622,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/195081012.jpg",
+      "path": "assets/source-images/438dea62dff20fbb.webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 116538,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/217025152.jpg",
+      "path": "assets/source-images/15d74e619ede6fa6.webp",
+      "width": 1600,
+      "height": 846,
+      "bytes": 102982,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/639812922.jpg",
+      "path": "assets/source-images/edbb031f76a83ea0.webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 57952,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/DBF79793-0947-4DCB-85D4-BA13652B6F09.png",
+      "path": "assets/source-images/c60c12d1452fde4c.webp",
+      "width": 540,
+      "height": 540,
+      "bytes": 33842,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/659734822.jpg",
+      "path": "assets/source-images/c965dd2dfcc3e2cf.webp",
+      "width": 783,
+      "height": 524,
+      "bytes": 26762,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=zh-tw"
+    },
+    {
+      "key": "/workspace/scratch/e2f63bada1d9/research/official-zh/inline-assets/4ae8ee42a365.png",
+      "path": "assets/source-images/918c5e212f0abb00.webp",
+      "width": 473,
+      "height": 254,
+      "bytes": 21876,
+      "used_local_asset": true,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/305260979.jpg",
+      "path": "assets/source-images/c38bd5982c3067a9.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 111136,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/170607444.jpg",
+      "path": "assets/source-images/547ccaa567c0c7cc.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 91154,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1490/545925675.jpg",
+      "path": "assets/source-images/05fa0b0dae3bd953.webp",
+      "width": 1264,
+      "height": 714,
+      "bytes": 59522,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/970/1.jpg",
+      "path": "assets/source-images/f2697ffe4365b50e.webp",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 158668,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/FluenceArt.jpg",
+      "path": "assets/source-images/f38646c5ed36c5a7.webp",
+      "width": 1000,
+      "height": 500,
+      "bytes": 103146,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/123.jpg",
+      "path": "assets/source-images/9d3be78025f8b95f.webp",
+      "width": 470,
+      "height": 235,
+      "bytes": 19386,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/112478243.jpg",
+      "path": "assets/source-images/def75c51ba47e60f.webp",
+      "width": 746,
+      "height": 354,
+      "bytes": 12912,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/621580674.jpg",
+      "path": "assets/source-images/47657abc584d5d6e.webp",
+      "width": 1600,
+      "height": 886,
+      "bytes": 203372,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/692406532.jpg",
+      "path": "assets/source-images/bb6e4ed92ba68d7e.webp",
+      "width": 935,
+      "height": 521,
+      "bytes": 96046,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/part_15817_9086361_67380.jpg",
+      "path": "assets/source-images/87a44b25ef3a9e67.webp",
+      "width": 960,
+      "height": 720,
+      "bytes": 88336,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/part_15817_8015691_67380.jpg",
+      "path": "assets/source-images/5d914f834d686a11.webp",
+      "width": 960,
+      "height": 720,
+      "bytes": 108206,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/part_15817_5497393_67380.jpg",
+      "path": "assets/source-images/42eb52d11ff5eebd.webp",
+      "width": 960,
+      "height": 720,
+      "bytes": 134632,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/part_15817_6656111_67380.jpg",
+      "path": "assets/source-images/511a6a66bc306f7d.webp",
+      "width": 960,
+      "height": 720,
+      "bytes": 107212,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/part_15817_4872272_67381.jpg",
+      "path": "assets/source-images/7dcd1e0b0c568a08.webp",
+      "width": 960,
+      "height": 720,
+      "bytes": 106728,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/part_15817_295797_67380.jpg",
+      "path": "assets/source-images/6a357d805859324c.webp",
+      "width": 960,
+      "height": 720,
+      "bytes": 87902,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/2022OnlineSeminaronBusinessLearningPoster_20220714.png",
+      "path": "assets/source-images/b920ed4fc9c489f2.webp",
+      "width": 1131,
+      "height": 1600,
+      "bytes": 226908,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/ForIndonesia2.jpg",
+      "path": "assets/source-images/ac40d1a1342d7b0e.webp",
+      "width": 1440,
+      "height": 900,
+      "bytes": 76142,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/OneDayInHualien.jpg",
+      "path": "assets/source-images/89227b6758ed5f4b.webp",
+      "width": 1424,
+      "height": 772,
+      "bytes": 67546,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/412-1021-64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/187/m/mczh-tw700x700_large6520_166143007905.png",
+      "path": "assets/source-images/dc05dcd239137738.webp",
+      "width": 495,
+      "height": 700,
+      "bytes": 83984,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-65601,c3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/187/m/mczh-tw700x700_large6521_474691007905.png",
+      "path": "assets/source-images/b4b6af19242ce37b.webp",
+      "width": 495,
+      "height": 700,
+      "bytes": 71406,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-65601,c3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/187/m/mczh-tw700x700_large6517_756303607732.png",
+      "path": "assets/source-images/e2cca060306b559f.webp",
+      "width": 495,
+      "height": 700,
+      "bytes": 83984,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-65601,c3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/pictures/187/m/mczh-tw700x700_large6518_678829207804.png",
+      "path": "assets/source-images/7765bd01de83a6de.webp",
+      "width": 495,
+      "height": 700,
+      "bytes": 71406,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-65601,c3692.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/ApplicationForm2.jpg",
+      "path": "assets/source-images/62aeb0f669dfe111.webp",
+      "width": 1022,
+      "height": 282,
+      "bytes": 11636,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-44332,c64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1490/image2.jpg",
+      "path": "assets/source-images/fdb542e3311a4043.webp",
+      "width": 1156,
+      "height": 1144,
+      "bytes": 136416,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-44332,c64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1508/Threemodules.jpg",
+      "path": "assets/source-images/0b55179cce3effd1.webp",
+      "width": 986,
+      "height": 744,
+      "bytes": 125370,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-44332,c64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/SinarMas01.jpg",
+      "path": "assets/source-images/6b6dd6b8c55d0ff0.webp",
+      "width": 637,
+      "height": 442,
+      "bytes": 174040,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-44230,c64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/SinarMas02.jpg",
+      "path": "assets/source-images/5cb937023993f0d2.webp",
+      "width": 635,
+      "height": 382,
+      "bytes": 90200,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-44230,c64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/SinarMas03.jpg",
+      "path": "assets/source-images/569fd55940ea19c6.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 34844,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-44230,c64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/SinarMas04.jpg",
+      "path": "assets/source-images/501186b24c3adcda.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 201088,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-44230,c64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/SinarMas05.jpg",
+      "path": "assets/source-images/562b39718c7e184a.webp",
+      "width": 694,
+      "height": 546,
+      "bytes": 22006,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-44230,c64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/SinarMas06.jpg",
+      "path": "assets/source-images/193124e56aec6f97.webp",
+      "width": 935,
+      "height": 521,
+      "bytes": 96046,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-44230,c64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/SinarMas07.jpg",
+      "path": "assets/source-images/ddd19ec7b5d3c04a.webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 79396,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-44230,c64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/MDMD108A.jpg",
+      "path": "assets/source-images/b8f6b506f4c6fc81.webp",
+      "width": 1458,
+      "height": 737,
+      "bytes": 275340,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-44331,c64.php?Lang=zh-tw"
+    },
+    {
+      "key": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/MDMD108B.jpg",
+      "path": "assets/source-images/031b44cb4c170699.webp",
+      "width": 1477,
+      "height": 1108,
+      "bytes": 185744,
+      "used_local_asset": false,
+      "page_url": "https://mdm.tcu.edu.tw/p/405-1021-44331,c64.php?Lang=zh-tw"
+    }
+  ]
+}

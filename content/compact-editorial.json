@@ -1,0 +1,444 @@
+{
+  "leads": {
+    "introduction": null,
+    "vision": null,
+    "history": null,
+    "academics": null,
+    "curriculum": "Select your entry year.",
+    "requirements": null,
+    "faculty": null,
+    "careers": null,
+    "admissions": null,
+    "news": null,
+    "events": "2026–2027 · Taiwan time",
+    "resources": null,
+    "regulations": null,
+    "contact": null
+  },
+  "replacements": {
+    "A closer look at Tzu Chi.": "A film from TCU",
+    "Interested in BMD?": "Study at BMD",
+    "Programmes & pathways.": "Experiences",
+    "Learning howorganisations work.": "In class.",
+    "Learning how organisations work.": "In class.",
+    "Projects with an audience.": "Student projects.",
+    "Here,and further afield.": "Beyond campus.",
+    "Selling for a cause.": "For a cause.",
+    "Accounting, management, sustainability—and plenty of chances to put them into practice. Student life here includes presentations, creative projects, internships, and working with others.": "Accounting, management, and sustainability through presentations, projects, internships, and service.",
+    "Frequent class presentations build confidence and clear speaking. Preparing together also means organising research, dividing the work, and explaining an idea when others ask questions.": "Presentations practise clear speaking, research, teamwork, and answering questions with confidence.",
+    "Podcast projects bring communication and marketing into the same assignment: choosing a subject, shaping a message, and presenting it for an audience. The department publishes a student podcast-branding collection.": "Podcast projects combine topic research, communication, and marketing for a real audience.",
+    "The final project (zhuanti) is a chance to develop an idea, work as a team, and present a considered result. It draws on the planning, research, and communication practised throughout the degree.": "The final project brings an idea, research, teamwork, and presentation into one piece of work.",
+    "Humanistic education and NPO classes connect business skills with care for others. At the 2025 Myanmar-relief fair, food stalls and a BMD student-run photo booth turned teamwork and small-business planning into support for earthquake relief.": "At the 2025 Myanmar-relief fair, food stalls and a BMD student photo booth raised funds for earthquake relief.",
+    "The published department regulation requires at least 30 certificate points before graduation. Read the original rules and point tables for accepted certifications.": "Graduation requires at least 30 certificate points. See the official point tables below.",
+    "Explore the department’s latest published recruitment presentations. Confirm admission routes, dates, and eligibility through the university’s official admissions service.": "Application routes, dates, and eligibility are published by the university’s admissions service.",
+    "The official department page identifies opportunities in marketing and logistics, retail, tourism, hospitality, local SMEs, and related industries.": "Career areas include accounting, marketing, logistics, hospitality, and project management.",
+    "At Tzu Chi Japan, office work sat alongside translation, volunteer activities, and community care. This 2026 placement shows how management skills take shape in an NPO setting.": "Office work, Japanese translation, and community service in a non-profit organisation.",
+    "A usual office day ran from 09:00 to 17:00. Assignments changed with the day’s activities and service needs; this schedule describes the featured Tokyo placement.": "Usual office hours for this Tokyo placement; tasks varied with service activities.",
+    "A receipt needs the right category. A subtitle needs the right timing. Everyday assignments made accuracy, communication, and teamwork tangible.": "Receipt records, subtitles, and service activities made accuracy and teamwork part of each day.",
+    "Service put management into a human setting: prepare supplies, coordinate a team, keep the activity moving, and pay attention to the person in front of you.": "Prepare supplies, coordinate roles, and serve each person with respect.",
+    "Interns helped prepare ingredients, transport supplies, serve meals, and collect plates. Working alongside local volunteers meant balancing an orderly service with a warm, respectful welcome.": "Interns prepared ingredients, served meals, and collected plates alongside local volunteers.",
+    "A community visit involved dividing indoor cleaning and outdoor gardening tasks. Preparing tools, helping another team finish, and restoring the space made cooperation practical.": "Teams shared indoor cleaning and outdoor gardening, prepared tools, and helped one another finish.",
+    "Disaster-prevention practice, tea culture, and activities with volunteers added another side to the placement. Students took part in unfamiliar routines, listened, asked questions, and practised doing things for themselves.": "Disaster-prevention practice, tea culture, and volunteer activities built confidence in a new setting.",
+    "Receipts were sorted by date and item category, then entered into records. Other assignments included counting coins, preparing mail, organising files, and making presentation materials.": "Sort and enter receipts, count coins, prepare mail, organise files, and make presentations.",
+    "Mandarin talks by Master Cheng Yen were transcribed, translated into Japanese, and prepared as subtitles. Editing included separating video topics, adjusting subtitle timing, and reviewing meaning and readability. Interviews also became material for posters.": "Transcribe Master Cheng Yen’s talks, translate into Japanese, edit subtitles, and turn interviews into posters.",
+    "Meal preparation, bento packing, activity setup, and community visits called for clear roles and shared effort. Interns worked with volunteers, adjusted to the needs of the day, and helped put the space back in order.": "Prepare meals, pack bento, set up activities, and support community visits with volunteers.",
+    "Tea ceremony, omamori making, disaster-prevention activities, and health sessions brought students into everyday Japanese and volunteer-community life. New tasks became opportunities to ask for guidance, practise, and gradually work more independently.": "Tea ceremony, omamori making, safety practice, and health activities offered experience beyond office work.",
+    "Understand operations and industries, and connect management knowledge with real business practice.": "Understand operations, industries, and management in practice.",
+    "Small tasks. Real responsibility.": "The work",
+    "A rhythm of work and service.": "Office hours",
+    "A different place. A broader understanding.": "Culture & everyday life",
+    "From preparation to a shared meal.": "Yoyogi & community visits",
+    "Find your voice in front of a room.": "Presenting in class.",
+    "Turn a topic into a programme.": "Making a podcast.",
+    "Bring your learning together.": "The final project."
+  },
+  "translations": {
+    "View details": "查看內容",
+    "Close story": "關閉內容",
+    "Official source": "官方來源",
+    "Fields of study": "學習領域",
+    "Internship forms": "實習表單",
+    "32 files": "32 份文件",
+    "Official internship resources": "官方實習資源",
+    "Volunteer roles": "志工工作",
+    "Published examples": "官方職涯範例",
+    "Official faculty profile": "官方師資資料",
+    "News": "最新消息",
+    "A film from TCU": "慈大的影像紀錄",
+    "Study at BMD": "在經管系學習",
+    "Experiences": "學習現場",
+    "Source": "資料來源",
+    "Courses": "課程資訊",
+    "Learning directions": "學習方向",
+    "Department record": "系所原始資料",
+    "Academics": "課程學習",
+    "Student projects": "學生專題",
+    "Community": "社區參與",
+    "Select your entry year.": "請選擇入學學年度。",
+    "2026–2027 · Taiwan time": "2026–2027・臺灣時間",
+    "In class.": "課堂裡。",
+    "Student projects.": "學生的作品。",
+    "Beyond campus.": "走出校園。",
+    "For a cause.": "為了幫助他人。",
+    "Accounting, management, and sustainability through presentations, projects, internships, and service.": "透過簡報、專題、實習與服務，把會計、管理和永續放進實際經驗。",
+    "Presentations practise clear speaking, research, teamwork, and answering questions with confidence.": "在課堂簡報中練習清楚表達、研究分工，也學著有自信地回應問題。",
+    "Podcast projects combine topic research, communication, and marketing for a real audience.": "Podcast 專案把主題研究、溝通與行銷結合，為聽眾製作節目。",
+    "The final project brings an idea, research, teamwork, and presentation into one piece of work.": "畢業專題把想法、研究、團隊合作與成果發表，整合成一份作品。",
+    "At the 2025 Myanmar-relief fair, food stalls and a BMD student photo booth raised funds for earthquake relief.": "2025 年緬甸賑災義賣中，學生透過餐飲攤位與經管系拍照攤位，為地震災民募款。",
+    "Graduation requires at least 30 certificate points. See the official point tables below.": "畢業須至少取得 30 點證照點數，採計項目請見下方官方點數表。",
+    "Application routes, dates, and eligibility are published by the university’s admissions service.": "招生管道、申請時間與資格，請見學校招生資訊。",
+    "Career areas include accounting, marketing, logistics, hospitality, and project management.": "職涯領域包含會計、行銷、物流、餐旅與專案管理。",
+    "Office work, Japanese translation, and community service in a non-profit organisation.": "在非營利組織中，參與行政、日文翻譯與社區服務。",
+    "Usual office hours for this Tokyo placement; tasks varied with service activities.": "本次東京實習的平日作息，工作隨服務活動調整。",
+    "Receipt records, subtitles, and service activities made accuracy and teamwork part of each day.": "從收據、字幕到活動支援，每一天都在練習細心與合作。",
+    "Prepare supplies, coordinate roles, and serve each person with respect.": "準備物資、協調分工，也尊重每一位服務對象。",
+    "Interns prepared ingredients, served meals, and collected plates alongside local volunteers.": "和當地志工一起備料、發餐、回收餐盤。",
+    "Teams shared indoor cleaning and outdoor gardening, prepared tools, and helped one another finish.": "分組清潔室內、整理庭院，從備妥工具到收拾環境互相支援。",
+    "Disaster-prevention practice, tea culture, and volunteer activities built confidence in a new setting.": "透過防災、茶道與志工活動，在新環境中累積自信。",
+    "Sort and enter receipts, count coins, prepare mail, organise files, and make presentations.": "分類登錄收據、清點硬幣、準備郵件、整理檔案與製作簡報。",
+    "Transcribe Master Cheng Yen’s talks, translate into Japanese, edit subtitles, and turn interviews into posters.": "整理證嚴上人開示逐字稿、翻譯日文與製作字幕，也將訪談內容做成海報。",
+    "Prepare meals, pack bento, set up activities, and support community visits with volunteers.": "與志工一起備餐、分裝便當、布置活動，並參與社區關懷。",
+    "Tea ceremony, omamori making, safety practice, and health activities offered experience beyond office work.": "茶道、御守製作、防災與健康活動，讓學習延伸到辦公室之外。",
+    "Management, digital business, sustainability, teamwork, and professional ethics shape the department’s teaching.": "系所教學結合管理、數位商務、永續、團隊合作與職場倫理。",
+    "Use management concepts to understand how organisations plan work, coordinate resources, and serve people.": "運用管理概念，理解組織如何安排工作、協調資源與提供服務。",
+    "Student project presentation": "學生專題簡報",
+    "Design-thinking workshop": "設計思考工作坊",
+    "Connect business thinking with digital tools, data, and information for decisions.": "把商業思考與數位工具、資料及決策資訊結合。",
+    "Digital-learning classroom": "數位學習教室",
+    "Consider social innovation, environmental responsibility, and the way organisations contribute to their communities.": "思考社會創新、環境責任，以及組織對社區的貢獻。",
+    "Myanmar-relief fair · 2025": "2025 年緬甸賑災義賣",
+    "BMD student photo booth · 2025": "2025 年經管系學生拍照攤位",
+    "Bring food, service, and management together through the department’s applied learning direction.": "透過系所實務學習方向，結合餐飲、服務與管理。",
+    "Restaurant kitchen · Illustrative photo": "餐廳廚房・示意照片",
+    "Meal preparation · Japan internship": "日本實習・共同備餐",
+    "Presentations and workshops give students space to practise research, communication, and teamwork.": "透過簡報與工作坊，練習研究、溝通與團隊合作。",
+    "At the 2025 Myanmar-relief fair, student stalls and a BMD photo booth supported earthquake relief.": "2025 年緬甸賑災義賣中，學生攤位與經管系拍照攤位共同支援賑災。",
+    "Learning together": "一起學習",
+    "Business & community": "商業與社區",
+    "Department examples include accounting, project management, procurement, and hospitality. Published graduate destinations also include further study and military service.": "系所職涯範例包含會計、專案管理、採購與餐旅。畢業流向統計也包含升學及服役。",
+    "Workplace collaboration · Illustrative photo": "職場合作・示意照片",
+    "Tzu Chi University · Hualien": "慈濟大學・花蓮",
+    "Placement guidance": "實習準備",
+    "ViTrox internship · Department archive": "ViTrox 實習・系所紀錄",
+    "Department archive": "系所紀錄",
+    "2025 · Archive": "2025・歷年公告",
+    "Nottingham Trent summer study · Department archive": "諾丁漢特倫特大學暑期學習・系所紀錄",
+    "Tokyo internship · 2026": "2026 年東京實習",
+    "Tea culture · Japan, 2026": "2026 年日本・茶文化體驗",
+    "2026 · Archive": "2026・歷年公告",
+    "Visiting international educators · Department archive": "國際學者到訪・系所紀錄",
+    "Career pathways": "職涯發展",
+    "Workplace learning": "職場實習",
+    "Arrange an approved placement with a learning plan, supervision, and assessment. Official forms are listed below.": "依系所規定確認實習單位、個別計畫、輔導與評量，下方提供官方表單。",
+    "Taiwan · Workplace placements": "臺灣・職場實習",
+    "ViTrox": "ViTrox",
+    "A department film records students’ workplace experience at ViTrox in Malaysia.": "系所影片記錄學生在馬來西亞 ViTrox 公司的職場實習。",
+    "Malaysia · Overseas internship": "馬來西亞・海外實習",
+    "New York & New Jersey": "紐約與紐澤西",
+    "The 2025 notice outlined management and service learning focused on non-profit operations and branding.": "2025 年公告介紹經營管理與服務實習，著重非營利組織營運及品牌策略。",
+    "United States · Overseas internship": "美國・海外實習",
+    "Nottingham Trent": "諾丁漢特倫特大學",
+    "A department film documents students’ summer study at Nottingham Trent University.": "系所影片記錄學生在諾丁漢特倫特大學的暑期學習。",
+    "United Kingdom · Summer study": "英國・暑期學習",
+    "Tzu Chi Japan": "慈濟日本分會",
+    "The 2026 Japan programme combined office work, translation, and community service. A participant journal is available below.": "2026 年日本實習結合行政、翻譯與社區服務，下方可閱讀參與者紀錄。",
+    "Japan · Overseas internship": "日本・海外實習",
+    "Branding workshop": "品牌工作坊",
+    "Professor Shan Fan of Hamburg’s Brand Academy visited BMD to share branding, design, and communication.": "德國漢堡品牌學院單凡教授到訪經管系，分享品牌、設計與傳播。",
+    "International connections · Academic exchange at BMD": "國際學術連結・系上國際學術交流",
+    "Understand operations, industries, and management in practice.": "理解營運、產業與管理實務。",
+    "Use data and digital tools for business decisions.": "運用資料與數位工具進行商業決策。",
+    "Connect social innovation with sustainable management.": "結合社會創新與永續管理。",
+    "Combine food, service, and management practice.": "結合餐飲、服務與管理實務。",
+    "The work": "實習工作",
+    "Office hours": "辦公時間",
+    "Culture & everyday life": "文化與日常",
+    "Yoyogi & community visits": "代代木與社區關懷",
+    "Presenting in class.": "課堂簡報。",
+    "Making a podcast.": "製作 Podcast。",
+    "The final project.": "畢業專題。",
+    "Receipts, records & files.": "收據、紀錄與檔案。",
+    "From Mandarin to Japanese.": "從中文到日文。",
+    "Preparing, serving, organising.": "準備、服務與協調。",
+    "Tea, crafts & safety.": "茶道、手作與防災。",
+    "Illustrative photo": "示意照片",
+    "Department quick links": "系所常用連結",
+    "Students & faculty · Department archive": "師生合影・系所紀錄",
+    "members": "位成員",
+    "Official learning directions": "官方學習方向",
+    "Internship students arranging portions of food into meal trays": "實習學生一起將餐點分裝到餐盒中",
+    "Packing meals together · Japan internship, 2026": "一起分裝餐點・2026 年日本實習",
+    "An internship participant portioning food into meal trays in Japan": "實習學生在日本協助將餐點分裝至餐盒",
+    "Preparing meal trays · Japan internship, 2026": "分裝餐盒・2026 年日本實習",
+    "Internship students mixing food together in the Tzu Chi Japan kitchen": "實習學生在慈濟日本分會廚房一起拌製餐點",
+    "Preparing meals as a team · Tzu Chi Japan, 2026": "團隊備餐・2026 年慈濟日本分會",
+    "Internship participants in a team briefing at Tzu Chi Japan": "實習學生在慈濟日本分會參與團隊說明會",
+    "Team briefing · Japan internship, 2026": "團隊說明會・2026 年日本實習",
+    "Students holding tea bowls during a Japanese tea-culture activity": "學生在日本茶文化活動中體驗以茶碗飲茶",
+    "Japanese tea activity · Tokyo internship, 2026": "日本茶文化體驗・2026 年東京實習",
+    "Students practising with an emergency-exit exhibit during disaster-prevention training": "學生在防災體驗中操作緊急出口體驗設施",
+    "Emergency-exit practice · Tokyo internship, 2026": "緊急出口體驗・2026 年東京實習",
+    "Internship participants and volunteers behind a table of prepared meals": "實習學生與志工在備妥餐點的桌子後方合影",
+    "With the kitchen team · Tzu Chi Japan, 2026": "與廚房團隊合影・2026 年慈濟日本分會",
+    "Students working together in a baking class": "學生在烘焙課程中一起實作",
+    "Baking class · Participant photograph": "烘焙課程・參與者提供",
+    "Participants together at a Yide Ri gathering": "懿德日活動合影",
+    "Yide Ri gathering · Participant photograph": "懿德日・參與者提供",
+    "Volunteers and hospital staff together at Taipei Tzu Chi Hospital": "臺北慈濟醫院志工活動合影",
+    "Volunteering · Taipei Tzu Chi Hospital": "臺北慈濟醫院・志工活動",
+    "A flower arrangement from a flower-arranging activity": "花道活動中的插花作品",
+    "Hua dao · Flower-arranging practice": "花道練習",
+    "Tea bowls and refreshments on a table during tea practice": "茶道練習時桌上的茶碗與茶點",
+    "Cha dao · Tea practice": "茶道練習",
+    "Creative practice": "創意實作",
+    "From arranging flowers to preparing tea: two moments from student life.": "從花道到茶道，記錄學生生活中的兩個片刻。",
+    "Additional campus photographs: participant-provided collection.": "其他校園活動照片由參與者提供。"
+  },
+  "intro_body": "Management, digital business, sustainability, teamwork, and professional ethics shape the department’s teaching.",
+  "learning_stories": [
+    {
+      "id": "study-operations",
+      "label": "Academics",
+      "title": "Operations Management",
+      "body": "Use management concepts to understand how organisations plan work, coordinate resources, and serve people.",
+      "images": [
+        {
+          "src": "assets/photos/cafe-project.webp",
+          "caption": "Student project presentation",
+          "alt": "Student project presentation"
+        },
+        {
+          "src": "assets/photos/design-workshop.webp",
+          "caption": "Design-thinking workshop",
+          "alt": "Design-thinking workshop"
+        }
+      ],
+      "links": [
+        {
+          "href": "curriculum.html",
+          "label": "Courses"
+        },
+        {
+          "href": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en",
+          "label": "Official source"
+        }
+      ]
+    },
+    {
+      "id": "study-smart",
+      "label": "Academics",
+      "title": "Smart Business",
+      "body": "Connect business thinking with digital tools, data, and information for decisions.",
+      "images": [
+        {
+          "src": "assets/life/podcast-project.webp",
+          "caption": "Digital-learning classroom",
+          "alt": "Digital-learning classroom"
+        },
+        {
+          "src": "assets/photos/cafe-project.webp",
+          "caption": "Student project presentation",
+          "alt": "Student project presentation"
+        }
+      ],
+      "links": [
+        {
+          "href": "curriculum.html",
+          "label": "Courses"
+        },
+        {
+          "href": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en",
+          "label": "Official source"
+        }
+      ]
+    },
+    {
+      "id": "study-sustainability",
+      "label": "Academics",
+      "title": "Sustainable Innovation",
+      "body": "Consider social innovation, environmental responsibility, and the way organisations contribute to their communities.",
+      "images": [
+        {
+          "src": "assets/life/charity-stalls.webp",
+          "caption": "Myanmar-relief fair · 2025",
+          "alt": "Myanmar-relief fair · 2025"
+        }
+      ],
+      "links": [
+        {
+          "href": "curriculum.html",
+          "label": "Courses"
+        },
+        {
+          "href": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en",
+          "label": "Official source"
+        }
+      ]
+    },
+    {
+      "id": "study-culinary",
+      "label": "Academics",
+      "title": "Culinary Management",
+      "body": "Bring food, service, and management together through the department’s applied learning direction.",
+      "images": [
+        {
+          "src": "assets/international-student-campus-visit.webp",
+          "alt": "Students working together in a baking class",
+          "caption": "Baking class · Participant photograph"
+        }
+      ],
+      "links": [
+        {
+          "href": "curriculum.html",
+          "label": "Courses"
+        },
+        {
+          "href": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en",
+          "label": "Official source"
+        }
+      ]
+    }
+  ],
+  "intro_stories": [
+    {
+      "id": "intro-learning",
+      "label": "Student life",
+      "title": "Creative practice",
+      "body": "From arranging flowers to preparing tea: two moments from student life.",
+      "images": [
+        {
+          "src": "assets/life/final-project.webp",
+          "alt": "A flower arrangement from a flower-arranging activity",
+          "caption": "Hua dao · Flower-arranging practice"
+        },
+        {
+          "src": "assets/life/presentations.webp",
+          "alt": "Tea bowls and refreshments on a table during tea practice",
+          "caption": "Cha dao · Tea practice"
+        }
+      ],
+      "links": [
+        {
+          "href": "student-life.html",
+          "label": "Student life"
+        }
+      ]
+    },
+    {
+      "id": "intro-community",
+      "label": "Community",
+      "title": "Business & community",
+      "body": "At the 2025 Myanmar-relief fair, student stalls and a BMD photo booth supported earthquake relief.",
+      "images": [
+        {
+          "src": "assets/life/charity-stalls.webp",
+          "caption": "Myanmar-relief fair · 2025",
+          "alt": "Myanmar-relief fair · 2025"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://newsletter.tcu.edu.tw/?p=19322",
+          "label": "Official source"
+        }
+      ]
+    }
+  ],
+  "career_story": {
+    "id": "career-field",
+    "label": "Career pathways",
+    "title": "Career pathways",
+    "body": "Department examples include accounting, project management, procurement, and hospitality. Published graduate destinations also include further study and military service.",
+    "images": [
+      {
+        "src": "assets/photos/career-collaboration.webp",
+        "caption": "Workplace collaboration · Illustrative photo",
+        "alt": "Workplace collaboration · Illustrative photo"
+      },
+      {
+        "src": "assets/photos/career-hospitality.webp",
+        "caption": "Restaurant kitchen · Illustrative photo",
+        "alt": "Restaurant kitchen · Illustrative photo"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://mdm.tcu.edu.tw/p/412-1021-66.php?Lang=zh-tw",
+        "label": "Official source"
+      }
+    ]
+  },
+  "programme_images": {
+    "taiwan": {
+      "images": [
+        {
+          "src": "assets/campus-main-building.webp",
+          "caption": "Tzu Chi University · Hualien",
+          "alt": "Tzu Chi University · Hualien"
+        }
+      ],
+      "status": "Placement guidance"
+    },
+    "malaysia": {
+      "images": [
+        {
+          "src": "assets/beyond-campus/malaysia-internship.webp",
+          "caption": "ViTrox internship · Department archive",
+          "alt": "ViTrox internship · Department archive"
+        }
+      ],
+      "status": "Department archive"
+    },
+    "usa": {
+      "images": [
+        {
+          "src": "assets/photos/career-collaboration.webp",
+          "caption": "Workplace collaboration · Illustrative photo",
+          "alt": "Workplace collaboration · Illustrative photo"
+        }
+      ],
+      "status": "2025 · Archive"
+    },
+    "uk": {
+      "images": [
+        {
+          "src": "assets/beyond-campus/nottingham-summer.webp",
+          "caption": "Nottingham Trent summer study · Department archive",
+          "alt": "Nottingham Trent summer study · Department archive"
+        }
+      ],
+      "status": "Department archive"
+    },
+    "japan": {
+      "images": [
+        {
+          "src": "assets/internships/meal-trays-programme.webp",
+          "alt": "An internship participant portioning food into meal trays in Japan",
+          "caption": "Preparing meal trays · Japan internship, 2026"
+        }
+      ],
+      "status": "2026 · Archive"
+    },
+    "academic": {
+      "images": [
+        {
+          "src": "assets/photos/international-visit.webp",
+          "caption": "Visiting international educators · Department archive",
+          "alt": "Visiting international educators · Department archive"
+        }
+      ],
+      "status": "Department archive"
+    }
+  },
+  "photo_credits": {
+    "assets/photos/career-collaboration.webp": {
+      "credit": "Annie Spratt / Unsplash",
+      "credit_href": "https://unsplash.com/photos/QckxruozjRg"
+    },
+    "assets/photos/career-hospitality.webp": {
+      "credit": "Flavio Mori / Unsplash",
+      "credit_href": "https://unsplash.com/photos/chef-working-in-a-busy-restaurant-kitchen-ilTlHqGFNQc"
+    }
+  },
+  "intent": "Concise curated copy and image-led detail views. Original published source bodies, teacher credentials, document URLs, and calendar records remain unchanged."
+}

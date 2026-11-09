@@ -1,0 +1,22 @@
+{
+  "source_version": 15,
+  "source_commit": "2dda18ff696e5c9df7512c1ff78fc8c62e3a7b59",
+  "portable_build": "passed",
+  "checks": [
+    "verify_refinement.py",
+    "verify_faculty_life.py",
+    "verify_global_learning.py",
+    "verify_internships.py",
+    "verify_compact_editorial.py"
+  ],
+  "all_checks": "passed",
+  "http_preview": {
+    "homepage": 200,
+    "traditional_chinese_internships": 200,
+    "stylesheet": 200,
+    "chinese_search_index": 200,
+    "self_hosted_font": 200
+  },
+  "pages": 326,
+  "notes": "The original Git metadata and hosting credentials are not included. Local edits need a separate deployment to update the live website."
+}

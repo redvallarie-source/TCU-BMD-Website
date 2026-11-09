@@ -1,0 +1,248 @@
+{
+  "copy": {
+    "eyebrow": "Internships & International Learning",
+    "title_first": "Beyond",
+    "title_second": "campus.",
+    "intro": "Work in an organisation, join a summer course, or exchange ideas with international educators. Find department-documented experiences here, with practical guidance for planning your own.",
+    "nav_programmes": "Programmes & pathways",
+    "nav_prepare": "Planning & forms",
+    "nav_story": "A Tokyo field journal",
+    "note_first": "Workplace experience",
+    "note_second": "Summer study & academic exchange",
+    "view_photo": "View photograph",
+    "programmes_eyebrow": "Taiwan & abroad",
+    "programmes_title": "Programmes & pathways.",
+    "programmes_intro": "Workplace placements, summer courses, and international academic connections, listed with their original department sources.",
+    "filter_label": "Filter experiences by type",
+    "availability": "Year-labelled notices are archives. Ask the department about current places, dates, and requirements.",
+    "empty": "No experiences match this selection."
+  },
+  "translations": {
+    "Internships & International Learning": "實習與國際學習",
+    "Beyond": "走出",
+    "campus.": "校園。",
+    "Work in an organisation, join a summer course, or exchange ideas with international educators. Find department-documented experiences here, with practical guidance for planning your own.": "走進組織實習、參與暑期課程，或和國際學者交流。本頁整理系所發布的學習經驗，也提供規劃下一步所需的實習資訊。",
+    "Programmes & pathways": "實習與交流機會",
+    "Planning & forms": "準備與表單",
+    "A Tokyo field journal": "東京實習紀錄",
+    "Workplace experience": "職場實務",
+    "Summer study & academic exchange": "暑期學習與學術交流",
+    "View photograph": "查看照片",
+    "Taiwan & abroad": "臺灣與海外",
+    "Programmes & pathways.": "實習與交流機會。",
+    "Workplace placements, summer courses, and international academic connections, listed with their original department sources.": "從職場實習、暑期課程到國際學術交流，每項資料都附上系所原始來源。",
+    "Filter experiences by type": "依學習類型篩選",
+    "Year-labelled notices are archives. Ask the department about current places, dates, and requirements.": "標示年度的甄選公告為歷年資料；目前名額、申請時間與條件，請向系辦確認。",
+    "No experiences match this selection.": "此分類目前沒有符合的資料。",
+    "Beyond Campus": "走出校園",
+    "This page has moved.": "此頁內容已移動。",
+    "Use the updated page to continue.": "請前往更新後的頁面繼續瀏覽。",
+    "Continue to Beyond Campus": "前往走出校園",
+    "Continue to Life at BMD": "前往經管系的日常",
+    "Continue to Admissions": "前往入學資訊",
+    "Department information": "系所資訊",
+    "All pathways": "全部類型",
+    "Internships": "校外實習",
+    "Summer study": "暑期學習",
+    "Academic exchange": "學術交流",
+    "Taiwan": "臺灣",
+    "Workplace placements": "職場實習",
+    "Plan an approved placement.": "規劃經系所審核的實習。",
+    "The department’s internship framework covers host review, individual learning plans, supervision, and evaluation. Start with the official resource centre for the arrangements that apply to your course.": "系所實習制度涵蓋機構評估、個別計畫、輔導與評量。請從官方實習專區確認自己課程適用的安排。",
+    "Planning guidance": "實習準備資訊",
+    "Internship resource centre": "官方實習專區",
+    "Preparation guide": "實習準備指引",
+    "Malaysia": "馬來西亞",
+    "Overseas internship": "海外實習",
+    "ViTrox workplace experience": "ViTrox 職場實習",
+    "A department film documents an overseas internship at ViTrox, offering a look at workplace learning in Malaysia.": "系所影片記錄學生赴馬來西亞 ViTrox 公司實習的經驗，呈現海外職場中的實務學習。",
+    "Department experience archive": "系所經驗紀錄",
+    "Department record": "系所原始資料",
+    "Watch the internship film": "觀看實習影片",
+    "United States": "美國",
+    "New York & New Jersey": "紐約與紐澤西",
+    "The 2025 selection notice describes management and service learning, with non-profit operations and branding as its focus.": "2025 年甄選公告介紹紐約與紐澤西的經營管理與服務實習，著重非營利組織營運與品牌策略。",
+    "2025 selection archive": "2025 年甄選公告",
+    "Read the selection notice": "閱讀官方甄選公告",
+    "United Kingdom": "英國",
+    "Nottingham Trent University": "諾丁漢特倫特大學",
+    "The department’s published summer-course film records students’ study experience at Nottingham Trent University.": "系所發布的暑期課程影片，記錄學生在英國諾丁漢特倫特大學的學習經驗。",
+    "Watch the summer-course film": "觀看暑期課程影片",
+    "Japan": "日本",
+    "Tzu Chi Japan": "慈濟日本分會",
+    "A 2026 selection notice documents the Japan programme. The participant field journal below offers a closer view of office assignments, translation, and community service.": "系所 2026 年公告提供日本實習甄選資訊。下方參與者的實習紀錄，進一步呈現行政、翻譯與社區服務的日常。",
+    "2026 notice & field journal": "2026 年公告與實習紀錄",
+    "Open the Tokyo journal": "打開東京實習紀錄",
+    "International connections": "國際學術連結",
+    "Academic exchange at BMD": "系上國際學術交流",
+    "Branding, design & communication": "品牌、設計與傳播",
+    "The department records a visit by Professor Shan Fan of the Brand Academy in Hamburg, with branding and communication shared through an academic workshop at BMD.": "系所記錄德國漢堡品牌學院單凡教授到訪，透過品牌設計與傳播工作坊，讓學生在系上與國際學者交流。",
+    "Published workshop record": "已發布的工作坊紀錄",
+    "Read the workshop record": "閱讀系所工作坊紀錄",
+    "Students together during the Nottingham Trent summer-learning experience": "學生參與諾丁漢特倫特大學暑期學習的合影",
+    "UK summer study · Department archive": "英國暑期學習・系所紀錄",
+    "Group photograph published with the department’s ViTrox internship film": "系所 ViTrox 實習影片旁發布的團體合影",
+    "Malaysia internship · Department archive": "馬來西亞實習・系所紀錄",
+    "for current routes and requirements.": "確認最新招生管道與申請條件。"
+  },
+  "filters": [
+    [
+      "all",
+      "All pathways"
+    ],
+    [
+      "internship",
+      "Internships"
+    ],
+    [
+      "short-course",
+      "Summer study"
+    ],
+    [
+      "exchange",
+      "Academic exchange"
+    ]
+  ],
+  "programmes": [
+    {
+      "id": "taiwan",
+      "type": "internship",
+      "place": "Taiwan",
+      "kind": "Workplace placements",
+      "title": "Workplace learning",
+      "body": "Arrange an approved placement with a learning plan, supervision, and assessment. Official forms are listed below.",
+      "status": "Planning guidance",
+      "links": [
+        {
+          "url": "https://mdm.tcu.edu.tw/p/412-1021-5007.php?Lang=zh-tw",
+          "label": "Internship resource centre"
+        },
+        {
+          "url": "#intern-preparation",
+          "label": "Preparation guide"
+        }
+      ]
+    },
+    {
+      "id": "malaysia",
+      "type": "internship",
+      "place": "Malaysia",
+      "kind": "Overseas internship",
+      "title": "ViTrox",
+      "body": "A department film records students’ workplace experience at ViTrox in Malaysia.",
+      "status": "Department experience archive",
+      "links": [
+        {
+          "url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw",
+          "label": "Department record"
+        },
+        {
+          "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/126739396.mp4",
+          "label": "Watch the internship film"
+        }
+      ]
+    },
+    {
+      "id": "usa",
+      "type": "internship",
+      "place": "United States",
+      "kind": "Overseas internship",
+      "title": "New York & New Jersey",
+      "body": "The 2025 notice outlined management and service learning focused on non-profit operations and branding.",
+      "status": "2025 selection archive",
+      "links": [
+        {
+          "url": "https://mdm.tcu.edu.tw/p/406-1021-65043,r930.php?Lang=zh-tw",
+          "label": "Read the selection notice"
+        }
+      ]
+    },
+    {
+      "id": "uk",
+      "type": "short-course",
+      "place": "United Kingdom",
+      "kind": "Summer study",
+      "title": "Nottingham Trent",
+      "body": "A department film documents students’ summer study at Nottingham Trent University.",
+      "status": "Department experience archive",
+      "links": [
+        {
+          "url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw",
+          "label": "Department record"
+        },
+        {
+          "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/838246904.mp4",
+          "label": "Watch the summer-course film"
+        }
+      ]
+    },
+    {
+      "id": "japan",
+      "type": "internship",
+      "place": "Japan",
+      "kind": "Overseas internship",
+      "title": "Tzu Chi Japan",
+      "body": "The 2026 Japan programme combined office work, translation, and community service. A participant journal is available below.",
+      "status": "2026 notice & field journal",
+      "links": [
+        {
+          "url": "https://mdm.tcu.edu.tw/p/406-1021-65596,r930.php?Lang=zh-tw",
+          "label": "Read the selection notice"
+        },
+        {
+          "url": "#japan-field-journal",
+          "label": "Open the Tokyo journal"
+        }
+      ]
+    },
+    {
+      "id": "academic",
+      "type": "exchange",
+      "place": "International connections",
+      "kind": "Academic exchange at BMD",
+      "title": "Branding workshop",
+      "body": "Professor Shan Fan of Hamburg’s Brand Academy visited BMD to share branding, design, and communication.",
+      "status": "Published workshop record",
+      "links": [
+        {
+          "url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw",
+          "label": "Read the workshop record"
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "uk": {
+      "path": "assets/beyond-campus/nottingham-summer.webp",
+      "alt": "Students together during the Nottingham Trent summer-learning experience",
+      "caption": "UK summer study · Department archive",
+      "width": 1200,
+      "height": 705,
+      "source_page": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw"
+    },
+    "malaysia": {
+      "path": "assets/beyond-campus/malaysia-internship.webp",
+      "alt": "Group photograph published with the department’s ViTrox internship film",
+      "caption": "Malaysia internship · Department archive",
+      "width": 1600,
+      "height": 886,
+      "source_page": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw"
+    }
+  },
+  "provenance": {
+    "checked_on": "2026-11-08",
+    "scope": "Published experiences and archived notices, not a list of currently open applications.",
+    "sources": [
+      "https://mdm.tcu.edu.tw/p/412-1021-5007.php?Lang=zh-tw",
+      "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw",
+      "https://mdm.tcu.edu.tw/p/406-1021-65043,r930.php?Lang=zh-tw",
+      "https://mdm.tcu.edu.tw/p/406-1021-65596,r930.php?Lang=zh-tw",
+      "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=zh-tw"
+    ],
+    "limits": [
+      "No guaranteed placements, current deadlines, funding amounts, or inferred years for undated films.",
+      "The Hamburg example describes a visiting educator and workshop at BMD, not a promised student placement in Germany.",
+      "No Thailand placement added without an official department source."
+    ]
+  }
+}

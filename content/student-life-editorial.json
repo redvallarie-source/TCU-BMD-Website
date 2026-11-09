@@ -1,0 +1,25 @@
+{
+  "brief_basis": "Site owner supplied student-life material; edited into institutional page copy, not a testimonial.",
+  "themes": [
+    "Accounting, management, sustainability, time and money management",
+    "Leadership, organisations and repeated class presentations",
+    "Internships, overseas experience, podcasts and final project",
+    "Humanistic education, NPO classes, volunteering and Myanmar-relief fundraising"
+  ],
+  "sources": {
+    "myanmar_fair": {
+      "url": "https://newsletter.tcu.edu.tw/?p=19322",
+      "event_date": "2025-05-22 / 2025-05-23",
+      "facts": "University fair; food stalls, BMD Indonesian students running a photo booth; Myanmar earthquake relief."
+    },
+    "japan_service": {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-66149,r8.php?Lang=zh-tw",
+      "facts": "BMD students at Yoyogi Park, food preparation, distribution and service learning."
+    },
+    "japan_programme": "https://mdm.tcu.edu.tw/p/406-1021-65596,r930.php?Lang=zh-tw",
+    "us_programme": "https://mdm.tcu.edu.tw/p/16-1021-64534.php?Lang=zh-tw",
+    "podcast": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw"
+  },
+  "thailand_note": "Country supplied by the site owner. No placement host, date or guaranteed availability is claimed; the page directs current programme questions to the department.",
+  "volunteering_examples": "Suggested ways to apply business skills, not claims of individual students having performed every role."
+}

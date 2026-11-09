@@ -1,0 +1,14 @@
+{
+  "desktop": {
+    "home_and_careers_layout": "visually checked",
+    "language_switch": "English to Traditional Chinese and back on the same route",
+    "mandarin_search": "職涯 returns Chinese careers and student life routes",
+    "news_filter": "Student achievements shows 3 stories",
+    "photo_sequence": "Projects scene changes image and matching caption",
+    "history": "2024 tab displays the August 1, 2024 merger in Traditional Chinese",
+    "academic_tabs": "Smart Business updates title, description and image in Traditional Chinese",
+    "calendar": "Next month renders December 2026 and translated event descriptions"
+  },
+  "responsive": "CSS breakpoint review only; browser viewport resizing unavailable",
+  "video": "Correct YouTube player and controls render; stream remained at 0:00 in cloud browser, so playback not verified. Direct YouTube link retained."
+}

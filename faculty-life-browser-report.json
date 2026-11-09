@@ -1,0 +1,19 @@
+{
+  "faculty_names": "All 37 official Chinese names checked statically against the authority file, including cards, profile headings and search indices.",
+  "faculty_filter_browser": [
+    "Chinese query 羅玟甄 returns one person",
+    "English query Wen-Chen on Chinese directory also returns one person"
+  ],
+  "profile_browser": "羅玟甄 opens a profile with a Chinese heading and image alt text.",
+  "global_search_browser": "游崑慈 returns the Chinese profile and faculty directory.",
+  "student_life_browser": [
+    "English cover and collage inspected",
+    "Podcasts tab changes title, body, picture and caption",
+    "Traditional Chinese final-project tab updates fully in Chinese",
+    "Photo viewer opens with the selected project picture and Chinese caption",
+    "Volunteer anchor reaches the Myanmar-relief collage; all three fair photographs loaded",
+    "Community motion is running; no horizontal overflow at desktop width"
+  ],
+  "responsive": "Desktop browser checked. Responsive rules reviewed in source; no phone-device test claimed.",
+  "content_basis": "Institutional copy from the owner brief, with original TCU photos and sources; no testimonial attribution or invented statistics."
+}

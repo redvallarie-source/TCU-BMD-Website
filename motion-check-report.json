@@ -1,0 +1,58 @@
+{
+  "checked_on": "2026-11-01",
+  "scope": "Existing Green Campus site, focused motion refinement",
+  "responsive_viewports": [
+    375,
+    753,
+    915,
+    1333
+  ],
+  "preserved": [
+    "Green Campus palette and local font families",
+    "navigation groups",
+    "homepage section order",
+    "quick links and news carousels",
+    "news category filters",
+    "clickable history years",
+    "course explorer and documents",
+    "global search",
+    "Taiwan-date academic calendar",
+    "legacy record exclusion"
+  ],
+  "browser_checks": [
+    "photo opening renders at desktop and phone sizes",
+    "hero pause and previous/next photo controls",
+    "automatic vertical word changes observed",
+    "word, selected scene and caption remain synchronized",
+    "pause and explicit resume work with the play button focused",
+    "manual scene selection",
+    "six refined interior pages at phone and tablet sizes without overflow",
+    "narrow desktop header fits",
+    "global curriculum search result",
+    "history year 2024",
+    "news carousel scroll and achievements filter",
+    "November 2026 calendar",
+    "no new app errors after final reload"
+  ],
+  "motion_accessibility": [
+    "device reduced-motion preference disables automatic motion",
+    "static content stays readable without JavaScript",
+    "separate hero and section pause controls",
+    "offscreen and hidden-tab motion stops",
+    "image drift uses passive scrolling and one requested animation frame",
+    "changing visual words have a stable accessible heading"
+  ],
+  "opening_media": "Existing authentic campus photographs with slow pan/zoom. No third-party video player is loaded. Reviewed department archive videos were not used as the background because their old branding and embedded news/graphic text were unsuitable.",
+  "payload": "No frontend animation dependency and no new large media download.",
+  "source_integrity": "159 pages retained; excluded legacy access record absent from public pages and search.",
+  "asset_delivery": "CSS and JavaScript URLs carry content hashes so returning visitors receive the matching scripts and styles.",
+  "references": [
+    "https://wpcarey.asu.edu/",
+    "https://haas.berkeley.edu/",
+    "https://www.rotman.utoronto.ca/"
+  ],
+  "reference_access": "ASU and Haas inspected directly. Rotman was unavailable in the browser; supplied screenshots and retrieved public page informed the visual direction.",
+  "html_pages": 159,
+  "integrity_errors": [],
+  "asset_content_hashes": "passed"
+}

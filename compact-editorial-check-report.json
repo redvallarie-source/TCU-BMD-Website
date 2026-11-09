@@ -1,0 +1,77 @@
+{
+  "previous_paragraph_words": 1884,
+  "current_paragraph_words": 963,
+  "visible_paragraph_reduction_percent": 48.9,
+  "bilingual_stories_checked": 26,
+  "curated_pages": {
+    "index.html": {
+      "before": 270,
+      "after": 73
+    },
+    "introduction.html": {
+      "before": 92,
+      "after": 12
+    },
+    "vision.html": {
+      "before": 29,
+      "after": 22
+    },
+    "history.html": {
+      "before": 21,
+      "after": 14
+    },
+    "academics.html": {
+      "before": 54,
+      "after": 24
+    },
+    "student-life.html": {
+      "before": 140,
+      "after": 39
+    },
+    "internships.html": {
+      "before": 223,
+      "after": 18
+    },
+    "careers.html": {
+      "before": 67,
+      "after": 26
+    },
+    "faculty.html": {
+      "before": 552,
+      "after": 537
+    },
+    "admissions.html": {
+      "before": 25,
+      "after": 62
+    },
+    "curriculum.html": {
+      "before": 26,
+      "after": 10
+    },
+    "requirements.html": {
+      "before": 31,
+      "after": 60
+    },
+    "resources.html": {
+      "before": 21,
+      "after": 5
+    },
+    "regulations.html": {
+      "before": 32,
+      "after": 5
+    },
+    "news.html": {
+      "before": 234,
+      "after": 20
+    },
+    "events.html": {
+      "before": 55,
+      "after": 36
+    },
+    "contact.html": {
+      "before": 12,
+      "after": 0
+    }
+  },
+  "errors": []
+}

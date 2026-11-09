@@ -1,0 +1,61 @@
+/* Less ornament; the established Green Campus typography and colour stay intact. */
+.kicker:before{display:none}
+.learning-panel:after,.interior-page .resource-link:before{content:none;display:none}
+.interior-page .resource-link{padding-left:0;padding-right:0}
+.text-link{border-bottom:0;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:5px;text-decoration-color:#a6b89a;gap:8px}
+.text-link:hover,.text-link:focus-visible{text-decoration-color:currentColor}
+.cinema-hero .campus-actions .button{gap:0;padding:14px 23px}
+.cinema-hero .campus-secondary{gap:0;padding:5px 0;border-bottom:1px solid #c6d7b6}
+.primary-nav>.nav-apply{font-weight:550}
+/* The quick carousel reads as a small directory, without a repeated icon system. */
+.quick-card{display:block;padding:12px 21px;border-radius:0}
+.quick-card h2{font-size:14px;line-height:1.35;margin-bottom:7px}
+.quick-card p{font-size:11px;max-width:195px;line-height:1.65}
+.quick-card:hover{background:transparent}
+.quick-card:hover h2,.quick-card:focus-visible h2{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
+.story-image{border:0;border-radius:3px}
+.story-category{gap:0}
+/* Simple text links leave the headline and photography as the focus. */
+.editorial-motion .life-routes{display:flex;flex-wrap:wrap;column-gap:24px;row-gap:2px;border:0;max-width:350px;margin-top:25px}
+.editorial-motion .life-routes a{position:static;display:inline-flex;border:0;padding:8px 0}
+.editorial-motion .life-routes span{font-size:14px;text-decoration:underline;text-decoration-color:#9fb48f;text-decoration-thickness:1px;text-underline-offset:5px}
+.editorial-motion .life-routes a:hover span{color:#244d32;text-decoration-color:currentColor}
+.life-motion-controls{margin-top:28px}
+/* Four teaching areas, presented as an academic index instead of four identical cards. */
+.pathways-grid{gap:0;border-top:1px solid #cbd9bf}
+.pathway-card{background:transparent!important;border:0;border-radius:0;padding:26px 25px 19px 0;min-height:0;overflow:visible}
+.pathway-card+.pathway-card{border-left:1px solid #d5e0cb;padding-left:25px}
+.pathway-card h3{font-size:23px;line-height:1.27;margin:0 0 15px;font-weight:550;letter-spacing:-.6px}
+.pathway-card p{max-width:215px;font-size:12px;line-height:1.8;color:#5f7454}
+.pathway-card:hover,.pathway-card.revealed:hover{background:transparent!important;transform:none;border-color:#d5e0cb}
+.pathway-card:hover h3,.pathway-card:focus-visible h3{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:5px}
+.resource-shortcuts>a{gap:0}
+.interior-next b{font-weight:550}
+.interior-next a:hover b{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:5px}
+.page-faculty .person-image{border-radius:4px}
+.page-faculty .person-link{justify-content:start}
+.page-faculty .person:hover h3{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
+.gallery-open>.gallery-action{position:absolute;inset:auto 12px 12px auto;display:block;width:auto;height:auto;border-radius:3px;padding:7px 10px;background:#f8fbf2eb;color:#385d35;font:500 11px/1.4 var(--sans);box-shadow:none;letter-spacing:0}
+.gallery-open:hover>.gallery-action{background:#fff}
+.cohort-ticket>span,.cohort-ticket>small{letter-spacing:0;text-transform:none}
+.cohort-ticket>div{font-size:12px;line-height:1.8}
+@media(max-width:900px){.pathway-card{padding-right:18px}.pathway-card+.pathway-card{padding-left:18px}.pathway-card h3{font-size:21px}}
+@media(max-width:650px){
+ .quick-card{padding:12px 16px}
+ .quick-card h2{font-size:14px}
+ .quick-card p{font-size:11px;max-width:190px}
+ .cinema-hero .campus-actions .button{padding:13px 18px}
+ .editorial-motion .life-routes{max-width:none;column-gap:25px;row-gap:0}
+ .editorial-motion .life-routes a{padding:9px 0}
+ .editorial-motion .life-routes span{font-size:14px}
+ .life-motion-controls{margin-top:22px}
+ .pathways-grid{row-gap:0;column-gap:0}
+ .pathway-card,.pathway-card+.pathway-card{padding:23px 17px 24px 0;min-height:0}
+ .pathway-card:nth-child(2n){padding-left:17px;border-left:1px solid #d5e0cb}
+ .pathway-card:nth-child(3){border-left:0}
+ .pathway-card:nth-child(n+3){border-top:1px solid #d5e0cb}
+ .pathway-card h3{font-size:22px;margin:0 0 13px}
+ .pathway-card p{font-size:12px;line-height:1.8}
+ .gallery-open>.gallery-action{inset:auto 9px 9px auto;font-size:10px;padding:7px 9px;width:auto;height:auto}
+ .interior-page .resource-link{padding-left:0;padding-right:0}
+}

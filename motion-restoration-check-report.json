@@ -1,0 +1,11 @@
+{
+  "header": "Upper strip removed on all routes; language switch in shared header beside Search. English to Traditional Chinese navigation verified in browser.",
+  "cinema": "Full content-viewport width: 1348 px; frame height 766.6875 px at desktop preview. No horizontal overflow. Stream playback not re-tested; the previous cloud-browser limitation remains.",
+  "student_life": "Existing photo and rotating-word feature retained; photograph measured 776.859375 × 430 px at desktop preview.",
+  "green_motion": "Restored on homepage student-life and closing admissions; added behind existing introduction and admissions FAQ.",
+  "pause_checks": {
+    "home": "Footer pause sets foreground and background controls to pressed and pauses line animation; resume restores running state.",
+    "mandarin_introduction": "Both background controls synchronize; line animation changes from paused to running."
+  },
+  "responsive": "Responsive rules reviewed in source, including compact language labels and a 320 px header guard; no device emulation claimed."
+}

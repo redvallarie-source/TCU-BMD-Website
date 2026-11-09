@@ -1,0 +1,1379 @@
+{
+  "source_version": 15,
+  "source_commit": "2dda18ff696e5c9df7512c1ff78fc8c62e3a7b59",
+  "publication_bodies": {
+    "faculty-091b4bdbc2.html": [],
+    "source-6d407ece1c23.html": [
+      "e54c0a1a1d871dda6378f8660b0b60e0366e46a862ac8ed3fcc1555f45e84a77"
+    ],
+    "zh-source-e7104bd8ba5e.html": [
+      "08e466eecd6149688eb868634b4d64aa71018808365bc9dc23cde9a3f6dcdda3"
+    ],
+    "zh-news-49fb6689fe10.html": [],
+    "zh-source-1ee76f7dbcf9.html": [
+      "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    ],
+    "zh-faculty-7291543a06.html": [],
+    "faculty-62bbd8a1ad.html": [],
+    "international.html": [],
+    "zh-student-life.html": [],
+    "zh-source-a498b7678fab.html": [
+      "79719ab06f90d10a3355841eaef5ba39b15b4afd2586554bf26a968c4b94484b"
+    ],
+    "faculty-029f85f20c.html": [],
+    "zh-academics.html": [],
+    "zh-faculty-6dcec49969.html": [],
+    "academics.html": [],
+    "source-a37bd8aefc0d.html": [
+      "a1964f913fff2af02e0727629dc97f15fae726166fe862959d13377372895e8d"
+    ],
+    "source-e884daf8b005.html": [
+      "55d05d485b5f2681adae531da78bb94f8cff5ba77893e2a0bfe34c3d9e724614"
+    ],
+    "news-f5476899374c.html": [],
+    "news-d9ebb466b934.html": [],
+    "zh-news-6a893bf1bd2e.html": [],
+    "news-f1eabd95d302.html": [],
+    "zh-source-01264718904c.html": [
+      "f066ea64c856b6b52e3984bbb42ceb378e85c26d80f40330a8e13cf78766e398"
+    ],
+    "source-0b3d95ffb9aa.html": [
+      "4599639386281d1a5595bf627aac72d5bb93e5427e7cb5c76157f143f66d887b"
+    ],
+    "source-c32918c65d8f.html": [
+      "21357fe12f902699e2bb369ef11261d5e8dcd09f55e41efbada6f49c4f7f85ea"
+    ],
+    "zh-source-0fa208cc5d6b.html": [
+      "f955fc66c0198bc3d679224ab829af1e53f6e9528d59c959302910e0f43f89bd"
+    ],
+    "source-7912f386dc2a.html": [
+      "7f3d958b64dd7a16ba3b965319bf707e6dcf5bea118d7bb545758e61dbde0068"
+    ],
+    "faculty-731fa3b517.html": [],
+    "zh-news-a37bd8aefc0d.html": [],
+    "source-567b51e4e24e.html": [
+      "72ca56fabec509e239fd36067707f275c2bdebc05770cd01bf4fe488328a078e"
+    ],
+    "zh-source-a31f07fa78e2.html": [
+      "8c2212aaa18e3cb542ef709a2dce60e9f1efc8fecf3d6af1447011dffe7a0e11"
+    ],
+    "zh-resources.html": [],
+    "careers.html": [],
+    "zh-source-4a263757400a.html": [
+      "bce00138b16777cdbfb6167e015c79b9880e3e161c94240afb96a6bdb68f4e55"
+    ],
+    "zh-faculty-e1dcabf583.html": [],
+    "admissions.html": [],
+    "source-aef5e8d72121.html": [
+      "b65691f3c9f34c48c6a6fd5cfcb6f1dfe71cc2f42f5a1256672faabcadfe0ebc"
+    ],
+    "zh-source-ad2d0cac2d6b.html": [
+      "461df72d03646f66fec4319fc1ef10e0b389cffca55e5d49dc8074a23f9124b2"
+    ],
+    "source-0fa208cc5d6b.html": [
+      "f955fc66c0198bc3d679224ab829af1e53f6e9528d59c959302910e0f43f89bd"
+    ],
+    "faculty-d36036feb6.html": [],
+    "zh-news-06ea159b91de.html": [],
+    "zh-faculty-8fb899bc67.html": [],
+    "zh-news-273e09e09049.html": [],
+    "zh-source-6163e6b6eeef.html": [
+      "a1964f913fff2af02e0727629dc97f15fae726166fe862959d13377372895e8d"
+    ],
+    "zh-source-c78f8d1e02c4.html": [
+      "030a9e2e280fe9ad15fca39adebc7253bc376a061aa6ba95cbec58d96fe34735"
+    ],
+    "news-e884daf8b005.html": [],
+    "zh-source-06ea159b91de.html": [
+      "e966a29c7bd4319d3091dbdf92b18cf2d4d3591a243c398f020ee848ad565b38"
+    ],
+    "source-2111151d2a20.html": [
+      "f955fc66c0198bc3d679224ab829af1e53f6e9528d59c959302910e0f43f89bd"
+    ],
+    "news.html": [],
+    "source-e1dcabf583df.html": [
+      "3a5c3a4f9c95f8bad486c6d2805bb78736c56e2c245e35a73999e08a56d45b26"
+    ],
+    "faculty-fc5fe8cf50.html": [],
+    "zh-faculty-90936c38ea.html": [],
+    "zh-source-688ac4a4bcea.html": [
+      "2e106f2f8e706a0e82facfd0d2d37bde93402480bea8588f87b38df93f1da730"
+    ],
+    "faculty-239f6d308f.html": [],
+    "vision.html": [],
+    "zh-source-e5acba674e3a.html": [
+      "c45d7f817e1fdb4d2b7147b66c63c5d1f690704ff5ab2de58449323a324b81d2"
+    ],
+    "source-493cac2a8887.html": [
+      "0d443f12a98e5e799f02225e644a22121133fd817c4991aea2f907bc011e17b9"
+    ],
+    "source-239f6d308f21.html": [
+      "61f4f31f7d53126181f4df7d0debb20cddeaaaca876aac604089b702faa49bf4"
+    ],
+    "zh-source-e1dcabf583df.html": [
+      "3a5c3a4f9c95f8bad486c6d2805bb78736c56e2c245e35a73999e08a56d45b26"
+    ],
+    "faculty-88641dab22.html": [],
+    "zh-source-731fa3b5171f.html": [
+      "7b65f20f7cca26d66ef8a865dc444019947ca487bdc316a39f3835890b3d1cb2"
+    ],
+    "zh-source-fc5fe8cf501f.html": [
+      "1ffd0abf60c4117ccd74f65caf54fb181db6bb4a10004254c4c05f5921b8f052"
+    ],
+    "source-70f6e983ae10.html": [
+      "fcb498cad4f9c72a4f235c16d7bb82dc260186c5534224b6c0ebbf3c19e7ceab"
+    ],
+    "zh-faculty-e5acba674e.html": [],
+    "faculty-6d407ece1c.html": [],
+    "zh-faculty-d36036feb6.html": [],
+    "zh-faculty-ad2d0cac2d.html": [],
+    "source-d5031f11aa32.html": [
+      "f203bd9aa7ad550e0e48e9609f76f2f3883fb925c81da3dcc319fc907912614b"
+    ],
+    "faculty-5fa4f79f96.html": [],
+    "zh-news-567b51e4e24e.html": [],
+    "source-273e09e09049.html": [
+      "a1964f913fff2af02e0727629dc97f15fae726166fe862959d13377372895e8d"
+    ],
+    "zh-content-review.html": [],
+    "source-688ac4a4bcea.html": [
+      "2e106f2f8e706a0e82facfd0d2d37bde93402480bea8588f87b38df93f1da730"
+    ],
+    "zh-source-49fb6689fe10.html": [
+      "9af6d840bf793e29700ced8ed1248262d21e7fe75c59e88e4cdc03ab21ae9c34"
+    ],
+    "source-8322917eedbd.html": [
+      "b7fa7c0ef7f0ef86b04e40597263301faa0c3ef82d8b02048e6c099d2fbab33e"
+    ],
+    "source-ab06123d41a5.html": [
+      "274a5b0def3fe97853ee40011d8baec7f77085ae54a9f8cd6b536db236245d40"
+    ],
+    "zh-faculty-731fa3b517.html": [],
+    "zh-source-d089f9978f0d.html": [
+      "4c510c6fd662b443b35d24a7f52b36c2ad4e395b1fc24335952a4f619ee91595"
+    ],
+    "zh-source-70f6e983ae10.html": [
+      "fcb498cad4f9c72a4f235c16d7bb82dc260186c5534224b6c0ebbf3c19e7ceab"
+    ],
+    "zh-curriculum.html": [],
+    "source-1f7bb88be1f2.html": [
+      "9494bd33250f41a836349d155bf371e22935b00e6b9930367bdbebc1ac344649"
+    ],
+    "zh-faculty-091b4bdbc2.html": [],
+    "news-a37bd8aefc0d.html": [],
+    "source-e06af449b956.html": [
+      "1b81eff7125d48d8bcebf646bb9b35382ec1bba64677fd786ae24e2b90e577ae"
+    ],
+    "zh-source-2b55f826de7a.html": [
+      "dfe49b357e0620a69ab750ab84bf8937d24c33ba39e16d82c0ee2d7eff51fef3"
+    ],
+    "source-5fa4f79f960f.html": [
+      "dc7cad8eab50e189031f26211916d0cf4f17ca510f1f8e4d393ab0a0c6645fd6"
+    ],
+    "zh-faculty-62bbd8a1ad.html": [],
+    "faculty-8322917eed.html": [],
+    "zh-contact.html": [],
+    "zh-news-acc490835db8.html": [],
+    "faculty-1f7bb88be1.html": [],
+    "source-90936c38ea93.html": [
+      "525bb903673b9b569998780a99299a3148750b15ea607d68642a7ef38eb4f9bd"
+    ],
+    "faculty-2a886671b0.html": [],
+    "zh-news-bfb1d52bc820.html": [],
+    "zh-source-578e4e48ac0b.html": [
+      "26163159b398a5f36b7ca3a9f5dfe849d15b93f85eb58f311c131e50c0ab9030"
+    ],
+    "faculty-c4c6a426e0.html": [],
+    "news-acc490835db8.html": [],
+    "zh-outcomes.html": [],
+    "zh-source-c4c6a426e0ad.html": [
+      "f19ca3f71a0579411626865cdf27f2e788441e89ca95b0075fea844005fb7142"
+    ],
+    "zh-source-7291543a069d.html": [
+      "3a9557e7d95ed8a8f4bfbe4bda7fb021a541545f2c525c12e501ae0f3da2fa10"
+    ],
+    "zh-source-67be87606102.html": [
+      "91507266318e6f27d4fb7e127d7d8c0f076b97b6924be69bb206448d52db365d"
+    ],
+    "faculty-c78f8d1e02.html": [],
+    "source-e51d2c9796cc.html": [
+      "7f78243078794d49b9f2021edc5ff3771057a87b2863d31c2b48e3cf424d6eac"
+    ],
+    "zh-source-aef5e8d72121.html": [
+      "b65691f3c9f34c48c6a6fd5cfcb6f1dfe71cc2f42f5a1256672faabcadfe0ebc"
+    ],
+    "zh-news-d9ebb466b934.html": [],
+    "zh-faculty-d5031f11aa.html": [],
+    "source-f1eabd95d302.html": [
+      "a1964f913fff2af02e0727629dc97f15fae726166fe862959d13377372895e8d"
+    ],
+    "faculty-2b55f826de.html": [],
+    "zh-internships.html": [],
+    "faculty-b2c726dc2f.html": [],
+    "zh-source-b2c726dc2f5e.html": [
+      "cfb20772ee5a29f1879bfa1ceef93dfbfb876b5716962586f28970d2ee4e5316"
+    ],
+    "zh-source-a4ac4921c361.html": [
+      "dc24c684de78d3b08bafa12ac2f7ca2c5ac8bdedb91378f7d35a4b11e8270049"
+    ],
+    "source-e5acba674e3a.html": [
+      "c45d7f817e1fdb4d2b7147b66c63c5d1f690704ff5ab2de58449323a324b81d2"
+    ],
+    "zh-source-90936c38ea93.html": [
+      "525bb903673b9b569998780a99299a3148750b15ea607d68642a7ef38eb4f9bd"
+    ],
+    "source-029f85f20cb9.html": [
+      "02be033dca0dbb43b8d5e4ea3cbd50131402fe7914f26f4096a9075bace9cd2e"
+    ],
+    "zh-source-6a893bf1bd2e.html": [
+      "602af9e9b06de2f0ac74c0230014f04ca036a80cb5e10a9dc0412b13640ab06b"
+    ],
+    "zh-source-6dcec49969d7.html": [
+      "0f6e7313db24b7392cd08e92e54bfca9d21469035b5cf8ae52a2d19389af52ff"
+    ],
+    "zh-introduction.html": [],
+    "faculty-90936c38ea.html": [],
+    "faculty-b51a084a11.html": [],
+    "requirements.html": [],
+    "news-11d1c0471778.html": [],
+    "source-e59be55a1f7d.html": [
+      "4102d504f08e1045dab7a0c63b2edfac7accc163b87828ae6b32e9807846737c"
+    ],
+    "source-11d1c0471778.html": [
+      "1376beb5cec8803df0dfd8069fbf0380314ebf3289af32f5102f670ddd8d2d91"
+    ],
+    "zh-faculty-6d37bf6e58.html": [],
+    "zh-source-cfea3c862e22.html": [
+      "f6ad912809231848e43c03caa03af464ba99924800bec6b85ee1b268cce6e600"
+    ],
+    "student-life.html": [],
+    "zh-exchange.html": [],
+    "source-0b659ad03a08.html": [
+      "f1fe91c1c26acc9e101c82f84ce9b10b2770e78d9f5847d50c8497d50ffd1c09"
+    ],
+    "faculty-b704e5ce65.html": [],
+    "zh-source-5576f6f319f3.html": [
+      "fda2b3db207763842928b52fe9078cabc8128ce0f6c8a8dfcbb61863fcf7ebf9"
+    ],
+    "faculty-688ac4a4bc.html": [],
+    "news-273e09e09049.html": [],
+    "zh-faculty.html": [],
+    "zh-source-c1b43ae3b734.html": [
+      "ef60382ff7a88987258d2f682844c2209c25ded1146701ca207c9b5365f33a45"
+    ],
+    "source-acc490835db8.html": [
+      "a7c9ad772f307412e68d09082968527f161ab2509ca93839cc221d12f6775ca0"
+    ],
+    "zh-faculty-2a886671b0.html": [],
+    "zh-faculty-68f6da50df.html": [],
+    "zh-faculty-fc5fe8cf50.html": [],
+    "zh-news-f1eabd95d302.html": [],
+    "source-67be87606102.html": [
+      "91507266318e6f27d4fb7e127d7d8c0f076b97b6924be69bb206448d52db365d"
+    ],
+    "zh-source-68f6da50df6a.html": [
+      "32662db76ac55beb8df0d17c913f41d904835830f68f3af4157b88089d592ffa"
+    ],
+    "faculty-6dcec49969.html": [],
+    "source-6163e6b6eeef.html": [
+      "a1964f913fff2af02e0727629dc97f15fae726166fe862959d13377372895e8d"
+    ],
+    "zh-faculty-67be876061.html": [],
+    "zh-news-e06af449b956.html": [],
+    "zh-faculty-c4c6a426e0.html": [],
+    "zh-news-ee50c5152004.html": [],
+    "source-60a1caaaf6a6.html": [
+      "516d31ea4dcb2bf3f508ca308294f51d89bd8cff053e0b43a68d2c303f0f3dcd"
+    ],
+    "source-e7104bd8ba5e.html": [
+      "08e466eecd6149688eb868634b4d64aa71018808365bc9dc23cde9a3f6dcdda3"
+    ],
+    "news-bfb1d52bc820.html": [],
+    "zh-source-08f4bceb3eb0.html": [
+      "67b8f7c1f03d3459e65c9773a8bc355997b816054e9d6b2616bbeab72bbb633d"
+    ],
+    "source-2a886671b0a2.html": [
+      "69ef7219cb074dbc9527bdcf67ac07bb1e90de220b271808fd9d8466f4598e5b"
+    ],
+    "zh-source-a37bd8aefc0d.html": [
+      "a1964f913fff2af02e0727629dc97f15fae726166fe862959d13377372895e8d"
+    ],
+    "source-655695c8f62a.html": [
+      "54cb39356dca468fd070ebb08bfd0302000a4009fe340900e590a740569e4f31"
+    ],
+    "zh-source-86e0b875d33a.html": [
+      "67c740a4b30ca1060c09570ea410d30db4eb1a065ad8a08d1e8cf1868ae275ac"
+    ],
+    "zh-source-7912f386dc2a.html": [
+      "7f3d958b64dd7a16ba3b965319bf707e6dcf5bea118d7bb545758e61dbde0068"
+    ],
+    "faculty-4b6d7bcc1d.html": [],
+    "zh-source-ee50c5152004.html": [
+      "698fb9bf07aa176467c89b4e52353649cd23ead1f9974b1c8ea573f194ca2b31"
+    ],
+    "faculty-493cac2a88.html": [],
+    "zh-faculty-688ac4a4bc.html": [],
+    "source-d9ebb466b934.html": [
+      "1668b10de908f572704a07a6a1e148647f149fe69900d3eb37af22a42dbbcf13"
+    ],
+    "zh-news.html": [],
+    "zh-source-b704e5ce6565.html": [
+      "90ce770992d300fdcadfb85f2f02bd039a7c733357d91407858856ee9efcca74"
+    ],
+    "zh-source-d9ebb466b934.html": [
+      "1668b10de908f572704a07a6a1e148647f149fe69900d3eb37af22a42dbbcf13"
+    ],
+    "zh-news-4a263757400a.html": [],
+    "source-731fa3b5171f.html": [
+      "7b65f20f7cca26d66ef8a865dc444019947ca487bdc316a39f3835890b3d1cb2"
+    ],
+    "source-1ee76f7dbcf9.html": [
+      "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    ],
+    "source-6dcec49969d7.html": [
+      "0f6e7313db24b7392cd08e92e54bfca9d21469035b5cf8ae52a2d19389af52ff"
+    ],
+    "zh-vision.html": [],
+    "zh-requirements.html": [],
+    "introduction.html": [],
+    "source-2b55f826de7a.html": [
+      "dfe49b357e0620a69ab750ab84bf8937d24c33ba39e16d82c0ee2d7eff51fef3"
+    ],
+    "faculty-8fb899bc67.html": [],
+    "zh-faculty-5fa4f79f96.html": [],
+    "zh-faculty-1c5a9505f1.html": [],
+    "zh-faculty-b704e5ce65.html": [],
+    "source-ad2d0cac2d6b.html": [
+      "461df72d03646f66fec4319fc1ef10e0b389cffca55e5d49dc8074a23f9124b2"
+    ],
+    "faculty-e5acba674e.html": [],
+    "news-6a893bf1bd2e.html": [],
+    "source-1c5a9505f1ea.html": [
+      "bef0150a5d8ef56afb706eb00f7bbc4d8f188844d0ccbc13760461bc6be7f97c"
+    ],
+    "zh-index.html": [],
+    "zh-faculty-ca955077f7.html": [],
+    "events.html": [],
+    "faculty-68f6da50df.html": [],
+    "source-201cb27a7027.html": [
+      "a1964f913fff2af02e0727629dc97f15fae726166fe862959d13377372895e8d"
+    ],
+    "zh-source-567b51e4e24e.html": [
+      "72ca56fabec509e239fd36067707f275c2bdebc05770cd01bf4fe488328a078e"
+    ],
+    "zh-source-f94397d73e3b.html": [
+      "06fb5147c5be7c67d7aaecf7eb547c8224f784ca21cf1eaa1ab6b497212a0a95"
+    ],
+    "zh-source-f1eabd95d302.html": [
+      "a1964f913fff2af02e0727629dc97f15fae726166fe862959d13377372895e8d"
+    ],
+    "zh-faculty-1f7bb88be1.html": [],
+    "source-68f6da50df6a.html": [
+      "32662db76ac55beb8df0d17c913f41d904835830f68f3af4157b88089d592ffa"
+    ],
+    "news-655695c8f62a.html": [],
+    "source-4a263757400a.html": [
+      "bce00138b16777cdbfb6167e015c79b9880e3e161c94240afb96a6bdb68f4e55"
+    ],
+    "zh-faculty-029f85f20c.html": [],
+    "faculty-ad2d0cac2d.html": [],
+    "source-ca955077f72d.html": [
+      "90e23c675ed289bea0e0c9d5597a2061cc6ea17fe1fc013012cc26fccdb80c9e"
+    ],
+    "regulations.html": [],
+    "faculty-ca955077f7.html": [],
+    "zh-faculty-88641dab22.html": [],
+    "zh-source-0b3d95ffb9aa.html": [
+      "4599639386281d1a5595bf627aac72d5bb93e5427e7cb5c76157f143f66d887b"
+    ],
+    "news-201cb27a7027.html": [],
+    "zh-source-b448455f871d.html": [
+      "274a5b0def3fe97853ee40011d8baec7f77085ae54a9f8cd6b536db236245d40"
+    ],
+    "news-6163e6b6eeef.html": [],
+    "source-a498b7678fab.html": [
+      "79719ab06f90d10a3355841eaef5ba39b15b4afd2586554bf26a968c4b94484b"
+    ],
+    "source-7291543a069d.html": [
+      "3a9557e7d95ed8a8f4bfbe4bda7fb021a541545f2c525c12e501ae0f3da2fa10"
+    ],
+    "zh-faculty-3c3464e86e.html": [],
+    "zh-history.html": [],
+    "source-6d37bf6e58eb.html": [
+      "76b005a7781a4ffb0f13d033ab727281cf91aeafdb901d5602194e171d05e8aa"
+    ],
+    "zh-news-6163e6b6eeef.html": [],
+    "zh-source-655695c8f62a.html": [
+      "54cb39356dca468fd070ebb08bfd0302000a4009fe340900e590a740569e4f31"
+    ],
+    "zh-source-6ec97970ff59.html": [
+      "949b732aad4cfc421a4b6fd19b61f3aa5d5352fa3c2df914525486baad28ee14"
+    ],
+    "source-49fb6689fe10.html": [
+      "9af6d840bf793e29700ced8ed1248262d21e7fe75c59e88e4cdc03ab21ae9c34"
+    ],
+    "zh-source-fd0af0c6ffdf.html": [
+      "8cffec3aa4966db7600d752a7ebe0bcccfb4393fce79efcfa9dfbc38ca00f950"
+    ],
+    "source-f5476899374c.html": [
+      "4aba1ce9bd7f9077ad60d2850582fc19ee98beac1efc4fbdad790dc8018e2e40"
+    ],
+    "zh-source-e59be55a1f7d.html": [
+      "4102d504f08e1045dab7a0c63b2edfac7accc163b87828ae6b32e9807846737c"
+    ],
+    "source-43502a082adb.html": [
+      "2ce3448892e436f585a61f76cdca95b87b8d377d37f9ffe4213afba84c4bac57"
+    ],
+    "zh-source-239f6d308f21.html": [
+      "61f4f31f7d53126181f4df7d0debb20cddeaaaca876aac604089b702faa49bf4"
+    ],
+    "source-f94397d73e3b.html": [
+      "06fb5147c5be7c67d7aaecf7eb547c8224f784ca21cf1eaa1ab6b497212a0a95"
+    ],
+    "zh-faculty-6d407ece1c.html": [],
+    "zh-source-e51d2c9796cc.html": [
+      "7f78243078794d49b9f2021edc5ff3771057a87b2863d31c2b48e3cf424d6eac"
+    ],
+    "outcomes.html": [],
+    "source-5576f6f319f3.html": [
+      "fda2b3db207763842928b52fe9078cabc8128ce0f6c8a8dfcbb61863fcf7ebf9"
+    ],
+    "zh-faculty-8322917eed.html": [],
+    "zh-source-b51a084a1182.html": [
+      "f088d8ec592fc80e846e38e466c735ded404fb54ce29b357ad7dfff4acd4204b"
+    ],
+    "source-b51a084a1182.html": [
+      "f088d8ec592fc80e846e38e466c735ded404fb54ce29b357ad7dfff4acd4204b"
+    ],
+    "source-c4c6a426e0ad.html": [
+      "f19ca3f71a0579411626865cdf27f2e788441e89ca95b0075fea844005fb7142"
+    ],
+    "faculty-eca97c59d9.html": [],
+    "internships.html": [],
+    "zh-source-bfb1d52bc820.html": [
+      "704a6c18377f0140dc75cf9a2dbc3c1c70cbb5975e10af9da96aa10315c19036"
+    ],
+    "zh-news-201cb27a7027.html": [],
+    "zh-faculty-b51a084a11.html": [],
+    "zh-source-427f1fe48d15.html": [
+      "0483528d0a350ce219a50f49fec5d163b91e1b14075f9482c0550015a28fd219"
+    ],
+    "zh-source-d5031f11aa32.html": [
+      "f203bd9aa7ad550e0e48e9609f76f2f3883fb925c81da3dcc319fc907912614b"
+    ],
+    "news-ee50c5152004.html": [],
+    "zh-source-60a1caaaf6a6.html": [
+      "516d31ea4dcb2bf3f508ca308294f51d89bd8cff053e0b43a68d2c303f0f3dcd"
+    ],
+    "zh-source-eca97c59d959.html": [
+      "1888ce0416af71516ee4d74d45473509e7aa2c8bb4b19df46742cb3758ae688b"
+    ],
+    "zh-faculty-c78f8d1e02.html": [],
+    "source-6ec97970ff59.html": [
+      "949b732aad4cfc421a4b6fd19b61f3aa5d5352fa3c2df914525486baad28ee14"
+    ],
+    "zh-faculty-eca97c59d9.html": [],
+    "source-d089f9978f0d.html": [
+      "4c510c6fd662b443b35d24a7f52b36c2ad4e395b1fc24335952a4f619ee91595"
+    ],
+    "contact.html": [],
+    "zh-source-88641dab2250.html": [
+      "e92627a65439fa1117ea0e17db9664ec25e59dbeee2fffd0b689f49bc18dcff2"
+    ],
+    "history.html": [],
+    "news-06ea159b91de.html": [],
+    "zh-source-201cb27a7027.html": [
+      "a1964f913fff2af02e0727629dc97f15fae726166fe862959d13377372895e8d"
+    ],
+    "zh-source-1f7bb88be1f2.html": [
+      "9494bd33250f41a836349d155bf371e22935b00e6b9930367bdbebc1ac344649"
+    ],
+    "zh-source-0b659ad03a08.html": [
+      "f1fe91c1c26acc9e101c82f84ce9b10b2770e78d9f5847d50c8497d50ffd1c09"
+    ],
+    "zh-careers.html": [],
+    "news-567b51e4e24e.html": [],
+    "source-06ea159b91de.html": [
+      "e966a29c7bd4319d3091dbdf92b18cf2d4d3591a243c398f020ee848ad565b38"
+    ],
+    "source-fd0af0c6ffdf.html": [
+      "8cffec3aa4966db7600d752a7ebe0bcccfb4393fce79efcfa9dfbc38ca00f950"
+    ],
+    "source-c1b43ae3b734.html": [
+      "ef60382ff7a88987258d2f682844c2209c25ded1146701ca207c9b5365f33a45"
+    ],
+    "zh-404.html": [],
+    "source-88641dab2250.html": [
+      "e92627a65439fa1117ea0e17db9664ec25e59dbeee2fffd0b689f49bc18dcff2"
+    ],
+    "faculty-e1dcabf583.html": [],
+    "zh-source-2111151d2a20.html": [
+      "f955fc66c0198bc3d679224ab829af1e53f6e9528d59c959302910e0f43f89bd"
+    ],
+    "content-review.html": [],
+    "zh-news-f5476899374c.html": [],
+    "source-427f1fe48d15.html": [
+      "0483528d0a350ce219a50f49fec5d163b91e1b14075f9482c0550015a28fd219"
+    ],
+    "zh-source-091b4bdbc26b.html": [
+      "defb502b6ae751ce583ec0a6a3c8558832180265e0c7e4910ecbd79f34b4b580"
+    ],
+    "source-b2c726dc2f5e.html": [
+      "cfb20772ee5a29f1879bfa1ceef93dfbfb876b5716962586f28970d2ee4e5316"
+    ],
+    "curriculum.html": [],
+    "source-c78f8d1e02c4.html": [
+      "030a9e2e280fe9ad15fca39adebc7253bc376a061aa6ba95cbec58d96fe34735"
+    ],
+    "zh-source-43502a082adb.html": [
+      "2ce3448892e436f585a61f76cdca95b87b8d377d37f9ffe4213afba84c4bac57"
+    ],
+    "news-49fb6689fe10.html": [],
+    "zh-source-f5476899374c.html": [
+      "4aba1ce9bd7f9077ad60d2850582fc19ee98beac1efc4fbdad790dc8018e2e40"
+    ],
+    "source-a4ac4921c361.html": [
+      "dc24c684de78d3b08bafa12ac2f7ca2c5ac8bdedb91378f7d35a4b11e8270049"
+    ],
+    "zh-source-273e09e09049.html": [
+      "a1964f913fff2af02e0727629dc97f15fae726166fe862959d13377372895e8d"
+    ],
+    "zh-source-acc490835db8.html": [
+      "a7c9ad772f307412e68d09082968527f161ab2509ca93839cc221d12f6775ca0"
+    ],
+    "faculty-d5031f11aa.html": [],
+    "zh-source-ab06123d41a5.html": [
+      "274a5b0def3fe97853ee40011d8baec7f77085ae54a9f8cd6b536db236245d40"
+    ],
+    "resources.html": [],
+    "zh-faculty-2b55f826de.html": [],
+    "zh-source-db41554a8052.html": [
+      "08b9b47e6af485467acda06c4c164c9c497c264afec08f9d6afdae7b40e12542"
+    ],
+    "zh-international.html": [],
+    "zh-faculty-493cac2a88.html": [],
+    "zh-faculty-239f6d308f.html": [],
+    "exchange.html": [],
+    "source-a31f07fa78e2.html": [
+      "8c2212aaa18e3cb542ef709a2dce60e9f1efc8fecf3d6af1447011dffe7a0e11"
+    ],
+    "zh-source-1c5a9505f1ea.html": [
+      "bef0150a5d8ef56afb706eb00f7bbc4d8f188844d0ccbc13760461bc6be7f97c"
+    ],
+    "zh-news-655695c8f62a.html": [],
+    "zh-source-2a886671b0a2.html": [
+      "69ef7219cb074dbc9527bdcf67ac07bb1e90de220b271808fd9d8466f4598e5b"
+    ],
+    "source-01264718904c.html": [
+      "f066ea64c856b6b52e3984bbb42ceb378e85c26d80f40330a8e13cf78766e398"
+    ],
+    "faculty-7291543a06.html": [],
+    "zh-events.html": [],
+    "zh-source-c32918c65d8f.html": [
+      "21357fe12f902699e2bb369ef11261d5e8dcd09f55e41efbada6f49c4f7f85ea"
+    ],
+    "zh-source-029f85f20cb9.html": [
+      "02be033dca0dbb43b8d5e4ea3cbd50131402fe7914f26f4096a9075bace9cd2e"
+    ],
+    "zh-faculty-4b6d7bcc1d.html": [],
+    "source-86e0b875d33a.html": [
+      "67c740a4b30ca1060c09570ea410d30db4eb1a065ad8a08d1e8cf1868ae275ac"
+    ],
+    "news-4a263757400a.html": [],
+    "zh-source-e06af449b956.html": [
+      "1b81eff7125d48d8bcebf646bb9b35382ec1bba64677fd786ae24e2b90e577ae"
+    ],
+    "zh-news-e884daf8b005.html": [],
+    "zh-source-e884daf8b005.html": [
+      "55d05d485b5f2681adae531da78bb94f8cff5ba77893e2a0bfe34c3d9e724614"
+    ],
+    "source-b448455f871d.html": [
+      "274a5b0def3fe97853ee40011d8baec7f77085ae54a9f8cd6b536db236245d40"
+    ],
+    "source-091b4bdbc26b.html": [
+      "defb502b6ae751ce583ec0a6a3c8558832180265e0c7e4910ecbd79f34b4b580"
+    ],
+    "zh-admissions.html": [],
+    "source-b704e5ce6565.html": [
+      "90ce770992d300fdcadfb85f2f02bd039a7c733357d91407858856ee9efcca74"
+    ],
+    "faculty-6d37bf6e58.html": [],
+    "404.html": [],
+    "source-fc5fe8cf501f.html": [
+      "1ffd0abf60c4117ccd74f65caf54fb181db6bb4a10004254c4c05f5921b8f052"
+    ],
+    "zh-source-8322917eedbd.html": [
+      "b7fa7c0ef7f0ef86b04e40597263301faa0c3ef82d8b02048e6c099d2fbab33e"
+    ],
+    "zh-source-5fa4f79f960f.html": [
+      "dc7cad8eab50e189031f26211916d0cf4f17ca510f1f8e4d393ab0a0c6645fd6"
+    ],
+    "source-08f4bceb3eb0.html": [
+      "67b8f7c1f03d3459e65c9773a8bc355997b816054e9d6b2616bbeab72bbb633d"
+    ],
+    "source-578e4e48ac0b.html": [
+      "26163159b398a5f36b7ca3a9f5dfe849d15b93f85eb58f311c131e50c0ab9030"
+    ],
+    "zh-regulations.html": [],
+    "faculty-67be876061.html": [],
+    "zh-faculty-b2c726dc2f.html": [],
+    "index.html": [],
+    "zh-source-ca955077f72d.html": [
+      "90e23c675ed289bea0e0c9d5597a2061cc6ea17fe1fc013012cc26fccdb80c9e"
+    ],
+    "source-cfea3c862e22.html": [
+      "f6ad912809231848e43c03caa03af464ba99924800bec6b85ee1b268cce6e600"
+    ],
+    "faculty-1c5a9505f1.html": [],
+    "source-eca97c59d959.html": [
+      "1888ce0416af71516ee4d74d45473509e7aa2c8bb4b19df46742cb3758ae688b"
+    ],
+    "source-db41554a8052.html": [
+      "08b9b47e6af485467acda06c4c164c9c497c264afec08f9d6afdae7b40e12542"
+    ],
+    "zh-news-11d1c0471778.html": [],
+    "zh-source-6d37bf6e58eb.html": [
+      "76b005a7781a4ffb0f13d033ab727281cf91aeafdb901d5602194e171d05e8aa"
+    ],
+    "source-62bbd8a1ad38.html": [
+      "c50c7ad62da08bf0e25a734f388fef47416084492b083bee6e58011bfd2883bd"
+    ],
+    "faculty-3c3464e86e.html": [],
+    "news-e06af449b956.html": [],
+    "source-193bb6e11966.html": [
+      "14766893d4f1508646c58fc649d18ef325d69c72992a582fbc80b79693160dd9"
+    ],
+    "source-bfb1d52bc820.html": [
+      "704a6c18377f0140dc75cf9a2dbc3c1c70cbb5975e10af9da96aa10315c19036"
+    ],
+    "zh-source-62bbd8a1ad38.html": [
+      "c50c7ad62da08bf0e25a734f388fef47416084492b083bee6e58011bfd2883bd"
+    ],
+    "source-6a893bf1bd2e.html": [
+      "602af9e9b06de2f0ac74c0230014f04ca036a80cb5e10a9dc0412b13640ab06b"
+    ],
+    "zh-source-493cac2a8887.html": [
+      "0d443f12a98e5e799f02225e644a22121133fd817c4991aea2f907bc011e17b9"
+    ],
+    "zh-source-11d1c0471778.html": [
+      "1376beb5cec8803df0dfd8069fbf0380314ebf3289af32f5102f670ddd8d2d91"
+    ],
+    "faculty.html": [],
+    "zh-source-193bb6e11966.html": [
+      "14766893d4f1508646c58fc649d18ef325d69c72992a582fbc80b79693160dd9"
+    ],
+    "zh-source-6d407ece1c23.html": [
+      "e54c0a1a1d871dda6378f8660b0b60e0366e46a862ac8ed3fcc1555f45e84a77"
+    ],
+    "source-ee50c5152004.html": [
+      "698fb9bf07aa176467c89b4e52353649cd23ead1f9974b1c8ea573f194ca2b31"
+    ]
+  },
+  "tables": {
+    "faculty-091b4bdbc2.html": [],
+    "source-6d407ece1c23.html": [
+      "cce79192a78f998efabea9f7fd381327363a93adaf3a389ec03c3e0823029b43"
+    ],
+    "zh-source-e7104bd8ba5e.html": [
+      "1ebc73da20bc10de608e33f0ba932949e94756bd19669310ba7afafdd6787c8b",
+      "f1eb347f7d83c5653d98354f29cacbd0499f7eadd997bd63378c5e9b3684cdb2",
+      "e66e9c5d3a6cec329ecc82d66dc6593999327a612e4cd97ecfe45eea8e8ff217",
+      "bbe0e6bda286a179c0de3bcbe61960a4a620c808182eb4331bb548e60630ee60",
+      "f1f26a9f124e5550b407d65febaaadc916f562e64e3246062a6b90bd05b75547",
+      "8226f0affda4d6ce7f5bd3db01559a8e42b1cbc9f8900b5332dbdb55ddb605f7",
+      "f26f95abd793fed572c2e11527f8b386775cbc579c3eaed512ec896178104124",
+      "8da64035481c5969be4dfeba9e59913052e905692d24323811e4afabcccfd087"
+    ],
+    "zh-news-49fb6689fe10.html": [],
+    "zh-source-1ee76f7dbcf9.html": [],
+    "zh-faculty-7291543a06.html": [],
+    "faculty-62bbd8a1ad.html": [],
+    "international.html": [],
+    "zh-student-life.html": [],
+    "zh-source-a498b7678fab.html": [],
+    "faculty-029f85f20c.html": [],
+    "zh-academics.html": [],
+    "zh-faculty-6dcec49969.html": [],
+    "academics.html": [],
+    "source-a37bd8aefc0d.html": [],
+    "source-e884daf8b005.html": [],
+    "news-f5476899374c.html": [],
+    "news-d9ebb466b934.html": [],
+    "zh-news-6a893bf1bd2e.html": [],
+    "news-f1eabd95d302.html": [],
+    "zh-source-01264718904c.html": [],
+    "source-0b3d95ffb9aa.html": [
+      "8632086867b864ceabe52529c8118a09e22dafbf40533da47252f0944b6b931b"
+    ],
+    "source-c32918c65d8f.html": [
+      "aa4222ce0a3867a8ca1801bd6629f5a57683d8303d1820e3b85068f1b54ecc52",
+      "55d90cf71a3dd0aad2e72edb6c9f3bff79966e33f2d73a6b19732fd3513a81cc"
+    ],
+    "zh-source-0fa208cc5d6b.html": [
+      "604e932df252dc52dd34a8a0f4783df0939bfe33d8881daace76cc9e27623ea8",
+      "2ba0f066f5cd7787f8a9963689d40551f349f8d9bd93eb1a6752ff6b57821d9f",
+      "f63c47ba088bba0cd643f977152e0297c8423e9005e6e3db441d473747fc4262",
+      "4a1f0cc82c36fcf8fc055d35f26711f2679a033dbe13832fe73c8f4c2a815ad0"
+    ],
+    "source-7912f386dc2a.html": [
+      "e9ab998f8a5108ed3435a43dab0bc9d64356dfdf4728a7b3c4627670e10f3137"
+    ],
+    "faculty-731fa3b517.html": [],
+    "zh-news-a37bd8aefc0d.html": [],
+    "source-567b51e4e24e.html": [],
+    "zh-source-a31f07fa78e2.html": [],
+    "zh-resources.html": [],
+    "careers.html": [
+      "389a3b4999407b2639e065639961d73382a38ceeb33b7c2e4fdcfebbe5bec35f",
+      "9fd4e8b7f5690bc5b2407ead44ae050dc49143566210f5fb808b959bd185d471"
+    ],
+    "zh-source-4a263757400a.html": [],
+    "zh-faculty-e1dcabf583.html": [],
+    "admissions.html": [],
+    "source-aef5e8d72121.html": [],
+    "zh-source-ad2d0cac2d6b.html": [],
+    "source-0fa208cc5d6b.html": [
+      "604e932df252dc52dd34a8a0f4783df0939bfe33d8881daace76cc9e27623ea8",
+      "2ba0f066f5cd7787f8a9963689d40551f349f8d9bd93eb1a6752ff6b57821d9f",
+      "f63c47ba088bba0cd643f977152e0297c8423e9005e6e3db441d473747fc4262",
+      "4a1f0cc82c36fcf8fc055d35f26711f2679a033dbe13832fe73c8f4c2a815ad0"
+    ],
+    "faculty-d36036feb6.html": [],
+    "zh-news-06ea159b91de.html": [],
+    "zh-faculty-8fb899bc67.html": [],
+    "zh-news-273e09e09049.html": [],
+    "zh-source-6163e6b6eeef.html": [],
+    "zh-source-c78f8d1e02c4.html": [
+      "cb5b69f0cc9b3771e953ed9f7cac9daeb2611f120867f792ad098513b23e111d"
+    ],
+    "news-e884daf8b005.html": [],
+    "zh-source-06ea159b91de.html": [],
+    "source-2111151d2a20.html": [
+      "604e932df252dc52dd34a8a0f4783df0939bfe33d8881daace76cc9e27623ea8",
+      "2ba0f066f5cd7787f8a9963689d40551f349f8d9bd93eb1a6752ff6b57821d9f",
+      "f63c47ba088bba0cd643f977152e0297c8423e9005e6e3db441d473747fc4262",
+      "4a1f0cc82c36fcf8fc055d35f26711f2679a033dbe13832fe73c8f4c2a815ad0"
+    ],
+    "news.html": [],
+    "source-e1dcabf583df.html": [
+      "5f9af51e4ff5fc34c665fd86ab3f906df52bd87719468c8429204557e7ca6ff1"
+    ],
+    "faculty-fc5fe8cf50.html": [],
+    "zh-faculty-90936c38ea.html": [],
+    "zh-source-688ac4a4bcea.html": [
+      "a078a1ce6e654edb226808e8b020325d2d174cc7b84342ed548498e09e7c2e02"
+    ],
+    "faculty-239f6d308f.html": [],
+    "vision.html": [],
+    "zh-source-e5acba674e3a.html": [
+      "5e99f3be6a0a1fd2bd300b4b58778e5b21bdd5a48ecd176b9dda6214918bd967"
+    ],
+    "source-493cac2a8887.html": [
+      "e0e2ee120342faf45785e6e04ba67c2ab5eb003f76256821ffb28ba2f9db5f13"
+    ],
+    "source-239f6d308f21.html": [
+      "16a6eadea382eae2159240062582f180a9e338e3fd93ef4ae9d065bbfa8eb13d"
+    ],
+    "zh-source-e1dcabf583df.html": [
+      "5f9af51e4ff5fc34c665fd86ab3f906df52bd87719468c8429204557e7ca6ff1"
+    ],
+    "faculty-88641dab22.html": [],
+    "zh-source-731fa3b5171f.html": [
+      "8eb69c793bbe84f079d543cfed039a9082a8d942dd9c3202daaf77f2c2ce9ab5"
+    ],
+    "zh-source-fc5fe8cf501f.html": [
+      "9cfae164d3f26dd465e47b34f678c6a2487f139ff7767f4c3b0809deab6683d1"
+    ],
+    "source-70f6e983ae10.html": [
+      "7169bb36474116ad511fb2ef17fc76d9b718aae8a63cfd8a2b37ac193505d5a2"
+    ],
+    "zh-faculty-e5acba674e.html": [],
+    "faculty-6d407ece1c.html": [],
+    "zh-faculty-d36036feb6.html": [],
+    "zh-faculty-ad2d0cac2d.html": [],
+    "source-d5031f11aa32.html": [
+      "4f7d03ef0c2489c86c29b79ed7af42b416ae3d10359835f25bd2c2a3d03df1a2"
+    ],
+    "faculty-5fa4f79f96.html": [],
+    "zh-news-567b51e4e24e.html": [],
+    "source-273e09e09049.html": [],
+    "zh-content-review.html": [],
+    "source-688ac4a4bcea.html": [
+      "a078a1ce6e654edb226808e8b020325d2d174cc7b84342ed548498e09e7c2e02"
+    ],
+    "zh-source-49fb6689fe10.html": [],
+    "source-8322917eedbd.html": [
+      "8cdc1a567936fd667c19ef1edd775733fc4bddaa231ab628e49e25388cab56c6"
+    ],
+    "source-ab06123d41a5.html": [
+      "617bb6fe93a5564a2a38e5645a2ba19acd5757fa2af67e09a88773f17fadace9",
+      "1ac65b9527fa43a9224ddbbeebf89d9818282c1f70d45e74f863db1ec62b9a1c"
+    ],
+    "zh-faculty-731fa3b517.html": [],
+    "zh-source-d089f9978f0d.html": [
+      "c6c8e8a9532d1cd87c776c962cc59df23ac3576a8f4dc71fa37a69c184b84098"
+    ],
+    "zh-source-70f6e983ae10.html": [
+      "7169bb36474116ad511fb2ef17fc76d9b718aae8a63cfd8a2b37ac193505d5a2"
+    ],
+    "zh-curriculum.html": [],
+    "source-1f7bb88be1f2.html": [
+      "5d5f6f08ba25386ade3b7c9b077cb633cdf06833ab629c7ab4ef6a1277a80e19"
+    ],
+    "zh-faculty-091b4bdbc2.html": [],
+    "news-a37bd8aefc0d.html": [],
+    "source-e06af449b956.html": [],
+    "zh-source-2b55f826de7a.html": [
+      "a0dfff2c2fd1b53b9aa479205335aac8ad54980aba5efa1f9abb33b3dfe7fda6"
+    ],
+    "source-5fa4f79f960f.html": [
+      "785387ba80d73d65baf57837fcfb752a395aee6c18a27170355ef3b060de4d2b"
+    ],
+    "zh-faculty-62bbd8a1ad.html": [],
+    "faculty-8322917eed.html": [],
+    "zh-contact.html": [],
+    "zh-news-acc490835db8.html": [],
+    "faculty-1f7bb88be1.html": [],
+    "source-90936c38ea93.html": [
+      "523ba1263cc5d3905596e5491f06265a03b8621bcfc35908c177f8a26d7a910d"
+    ],
+    "faculty-2a886671b0.html": [],
+    "zh-news-bfb1d52bc820.html": [],
+    "zh-source-578e4e48ac0b.html": [
+      "a9d5f74de45faa6d6e26f471af1611bf49094e1e6665b747a1f902a353375ffb",
+      "d995dcac617026768652415f439242b3131de6101c36739921912386d05fd928"
+    ],
+    "faculty-c4c6a426e0.html": [],
+    "news-acc490835db8.html": [],
+    "zh-outcomes.html": [],
+    "zh-source-c4c6a426e0ad.html": [
+      "6defbbcd58d377b7c230af16f1fa9027e21b2dd0c157acc18206c96ba97d7841"
+    ],
+    "zh-source-7291543a069d.html": [
+      "ccf8ba7dce3926a8cc0855ca8cb0aa13583af8ffb786fa4cc92fb6ed803c43cf"
+    ],
+    "zh-source-67be87606102.html": [
+      "78a35df17c4b1837d512e0547a480ab230341a77b7bbbb9abefd5c1500736a2d"
+    ],
+    "faculty-c78f8d1e02.html": [],
+    "source-e51d2c9796cc.html": [
+      "4bcd743ed06bf1416513313c9e3de590fcd0196940847e457a7ad014ab011240"
+    ],
+    "zh-source-aef5e8d72121.html": [],
+    "zh-news-d9ebb466b934.html": [],
+    "zh-faculty-d5031f11aa.html": [],
+    "source-f1eabd95d302.html": [],
+    "faculty-2b55f826de.html": [],
+    "zh-internships.html": [],
+    "faculty-b2c726dc2f.html": [],
+    "zh-source-b2c726dc2f5e.html": [
+      "cb63991d2e165d1c968ccba64c80d95b37c9ea35bf94df51185a23b938e9a521"
+    ],
+    "zh-source-a4ac4921c361.html": [
+      "1ef70e63f9b9557ad8de19978fffec209b8c4aae16e0074a596e29305b8a4024"
+    ],
+    "source-e5acba674e3a.html": [
+      "5e99f3be6a0a1fd2bd300b4b58778e5b21bdd5a48ecd176b9dda6214918bd967"
+    ],
+    "zh-source-90936c38ea93.html": [
+      "523ba1263cc5d3905596e5491f06265a03b8621bcfc35908c177f8a26d7a910d"
+    ],
+    "source-029f85f20cb9.html": [
+      "65e80b25cfb9907c6739405c7dddbb9f2e753649916af81e09c5aebe8519d84a"
+    ],
+    "zh-source-6a893bf1bd2e.html": [],
+    "zh-source-6dcec49969d7.html": [
+      "c850a2b02cef23c5917ec656bb3af8c1e3f382b7f2cea905da245ae7f576f2e9"
+    ],
+    "zh-introduction.html": [],
+    "faculty-90936c38ea.html": [],
+    "faculty-b51a084a11.html": [],
+    "requirements.html": [
+      "2b951143813659fc882cd6067fb6f355a0100c6e184ad50346bc436b994aec4d",
+      "03d90e6f002ca2e3ae045ff584f24c796e51e1f2d6f2a890a7c231749edd8f86"
+    ],
+    "news-11d1c0471778.html": [],
+    "source-e59be55a1f7d.html": [],
+    "source-11d1c0471778.html": [],
+    "zh-faculty-6d37bf6e58.html": [],
+    "zh-source-cfea3c862e22.html": [],
+    "student-life.html": [],
+    "zh-exchange.html": [],
+    "source-0b659ad03a08.html": [],
+    "faculty-b704e5ce65.html": [],
+    "zh-source-5576f6f319f3.html": [],
+    "faculty-688ac4a4bc.html": [],
+    "news-273e09e09049.html": [],
+    "zh-faculty.html": [],
+    "zh-source-c1b43ae3b734.html": [
+      "70ba57979ebb1bf9b06d9895d72a9cbec9120484c370317e41d63f46488f6338"
+    ],
+    "source-acc490835db8.html": [],
+    "zh-faculty-2a886671b0.html": [],
+    "zh-faculty-68f6da50df.html": [],
+    "zh-faculty-fc5fe8cf50.html": [],
+    "zh-news-f1eabd95d302.html": [],
+    "source-67be87606102.html": [
+      "78a35df17c4b1837d512e0547a480ab230341a77b7bbbb9abefd5c1500736a2d"
+    ],
+    "zh-source-68f6da50df6a.html": [
+      "ae10b597776864624a523b30ed0200571521eb7907187acdbe29024d73d8f330"
+    ],
+    "faculty-6dcec49969.html": [],
+    "source-6163e6b6eeef.html": [],
+    "zh-faculty-67be876061.html": [],
+    "zh-news-e06af449b956.html": [],
+    "zh-faculty-c4c6a426e0.html": [],
+    "zh-news-ee50c5152004.html": [],
+    "source-60a1caaaf6a6.html": [
+      "5900aa4059125320ba44bdac69ab4e6d0e8bd10271b0d6141e1c68e27c2f01e5",
+      "74cdf355834c5047a1a1f7b24e36ef0f5a83666faa7814640b4bbd49354c53cd",
+      "c1ae7145cb9703720e07b7b30997e15037cb852de470027e6eddf2b41687cf8e",
+      "f398d8a4785323df5eeadebf21b546b97dd37f31a9143b2e57f88b7c91c2277a",
+      "6ed0c3373d551438208140793e154bcdbb36aad283fee4907e07e21f2b7a91ed",
+      "11054261a08ef6daee627bacc0e4462b38052bea1f825ee1b6215a8797b48202",
+      "d0a3f5dc0db6bfc75a96ee4fcad038f3508afb2a918a6a6e4b07f78dbee8dd8e",
+      "59c53dc4d480e4e9fbb9c4c80235fd871f5e7bf720dc035f4fbd95eee098364c",
+      "fdfa3c3f4aead4d96972d796250ad68ee701215e9a09f161b15145c2b945eb1e",
+      "97395f32197ac7620dbb954968a9bc07b410569d459bd35922d9f7ba238f6113",
+      "c9d808d50dab375d3c9dd047f97685b12fca95002bffcc34ee2fe31b035908fb",
+      "9a3e877cd51fd8bd8acfbb59a5fe9612986b8eb18f3144abb96cdd0a40730e2d",
+      "db5aeead31a6c6c2697551268c52797104de1e619338baccf45a5ad36489e3fd",
+      "e177c42e7aabefbab50eca28627b799b7accc92f6c26d99aed634bb280038039",
+      "3372bc5bf280a43e98b45894cc27300522267d247d96f5400f9a44d200d16428",
+      "cf0694116c4977cbb014c11b8a477918cc694cc6a7d1c062fb0e2f5eda65dafe",
+      "6d120de6bd17361b1a4d0aa2489537b27afce4ff287ed379f18734de4025f9b0",
+      "5e8649fd51a20e116554127c33492b6c6c1bf17b518d960bd6f05d1caf6b0d74",
+      "3fb198e8d6e42c0e06c4e4683561d1b3da11a2f9280b8e7002e92389ccf178c7",
+      "1593401298d7ec689fc1a046f35c9b7fff1aed5b4341d8bcf32a4cf84eae5381",
+      "070e9858b1a42d0227e4a5a1573a757dafae1f478cd87d6de301446decc2aee1",
+      "770e6dc41af7ccde078002864453e3ef387a46a6d95a16ded5960333f1f32bd9",
+      "552fd8905cc998d23bc71d6d77fc0d0f7ddbb116b7ffd4a68fec4bd7ef445a50",
+      "1d1d57c74d766f77ba1b041c0b31bc211f2636f65aa51af2266304ad7ee6538b",
+      "05fac76850aba6e10e1b069702064ab0301fa48a4cd794daffd3d8b02ba4e7e1",
+      "36cc7723062f85136e57f0d21e2d75543fea713e54cc3af9138abf6af867dcc1",
+      "0775751fd886532b975f43bbb79e58c9f5047dd702092410a6825d3e9a3332d9",
+      "04b065c87118c9a01e33f1bc5fb9e107c740e8233f4c179252937c88eaa3b62c",
+      "0de83ee0a0ec8ae160557dd74cf6bccae6b52977aefc5fb8cdee08c37532e63b",
+      "2f821f6a9163d2a82fe4fb4127fd0e3e1ba0db6540b6110305f943931f5e0c19",
+      "a5ad23f78fed382351469c8cd4f68baa87e95f5ee4f7f0650b8fb58e1c83b4e9",
+      "06b4477cbe1c4fdaf2e4f5e92fc13d8b0747198d1db0182ac4b9c6b71f6928b5",
+      "38b11ed407923b7d31db7535518f00eb6f3ce97c5a9b5713a80ccb29c0c6ab7f"
+    ],
+    "source-e7104bd8ba5e.html": [
+      "1ebc73da20bc10de608e33f0ba932949e94756bd19669310ba7afafdd6787c8b",
+      "f1eb347f7d83c5653d98354f29cacbd0499f7eadd997bd63378c5e9b3684cdb2",
+      "e66e9c5d3a6cec329ecc82d66dc6593999327a612e4cd97ecfe45eea8e8ff217",
+      "bbe0e6bda286a179c0de3bcbe61960a4a620c808182eb4331bb548e60630ee60",
+      "f1f26a9f124e5550b407d65febaaadc916f562e64e3246062a6b90bd05b75547",
+      "8226f0affda4d6ce7f5bd3db01559a8e42b1cbc9f8900b5332dbdb55ddb605f7",
+      "f26f95abd793fed572c2e11527f8b386775cbc579c3eaed512ec896178104124",
+      "8da64035481c5969be4dfeba9e59913052e905692d24323811e4afabcccfd087"
+    ],
+    "news-bfb1d52bc820.html": [],
+    "zh-source-08f4bceb3eb0.html": [
+      "a783ff56ab744b8bc07cd0c7cb5dd86d3384b357b3172a02d03293e0b26cf41b"
+    ],
+    "source-2a886671b0a2.html": [
+      "e8d69cb78bf5de481986c4e26060f6e17ba2fd903a2b5d2db4fb535e0c816fea"
+    ],
+    "zh-source-a37bd8aefc0d.html": [],
+    "source-655695c8f62a.html": [],
+    "zh-source-86e0b875d33a.html": [
+      "c1ea07009122050a83686a900ae7f3e76871d46453a0442ce08c4afa86daec3c",
+      "a9d5f74de45faa6d6e26f471af1611bf49094e1e6665b747a1f902a353375ffb"
+    ],
+    "zh-source-7912f386dc2a.html": [
+      "e9ab998f8a5108ed3435a43dab0bc9d64356dfdf4728a7b3c4627670e10f3137"
+    ],
+    "faculty-4b6d7bcc1d.html": [],
+    "zh-source-ee50c5152004.html": [],
+    "faculty-493cac2a88.html": [],
+    "zh-faculty-688ac4a4bc.html": [],
+    "source-d9ebb466b934.html": [],
+    "zh-news.html": [],
+    "zh-source-b704e5ce6565.html": [
+      "486919aec81941e3dd880bafbb8021a4ca55341577cf1ac13b40e59e2308ffc8"
+    ],
+    "zh-source-d9ebb466b934.html": [],
+    "zh-news-4a263757400a.html": [],
+    "source-731fa3b5171f.html": [
+      "8eb69c793bbe84f079d543cfed039a9082a8d942dd9c3202daaf77f2c2ce9ab5"
+    ],
+    "source-1ee76f7dbcf9.html": [],
+    "source-6dcec49969d7.html": [
+      "c850a2b02cef23c5917ec656bb3af8c1e3f382b7f2cea905da245ae7f576f2e9"
+    ],
+    "zh-vision.html": [],
+    "zh-requirements.html": [
+      "2b951143813659fc882cd6067fb6f355a0100c6e184ad50346bc436b994aec4d",
+      "03d90e6f002ca2e3ae045ff584f24c796e51e1f2d6f2a890a7c231749edd8f86"
+    ],
+    "introduction.html": [],
+    "source-2b55f826de7a.html": [
+      "a0dfff2c2fd1b53b9aa479205335aac8ad54980aba5efa1f9abb33b3dfe7fda6"
+    ],
+    "faculty-8fb899bc67.html": [],
+    "zh-faculty-5fa4f79f96.html": [],
+    "zh-faculty-1c5a9505f1.html": [],
+    "zh-faculty-b704e5ce65.html": [],
+    "source-ad2d0cac2d6b.html": [],
+    "faculty-e5acba674e.html": [],
+    "news-6a893bf1bd2e.html": [],
+    "source-1c5a9505f1ea.html": [
+      "24a87db16aba0fefcd5aed9fc6524a607ae55d0da3926b845b211b1677fbe26d"
+    ],
+    "zh-index.html": [],
+    "zh-faculty-ca955077f7.html": [],
+    "events.html": [],
+    "faculty-68f6da50df.html": [],
+    "source-201cb27a7027.html": [],
+    "zh-source-567b51e4e24e.html": [],
+    "zh-source-f94397d73e3b.html": [],
+    "zh-source-f1eabd95d302.html": [],
+    "zh-faculty-1f7bb88be1.html": [],
+    "source-68f6da50df6a.html": [
+      "ae10b597776864624a523b30ed0200571521eb7907187acdbe29024d73d8f330"
+    ],
+    "news-655695c8f62a.html": [],
+    "source-4a263757400a.html": [],
+    "zh-faculty-029f85f20c.html": [],
+    "faculty-ad2d0cac2d.html": [],
+    "source-ca955077f72d.html": [
+      "5e6c976d69f119f8a02c522f34f8e60b627b0c97d0d3fd9b8459347f57ed6f76"
+    ],
+    "regulations.html": [],
+    "faculty-ca955077f7.html": [],
+    "zh-faculty-88641dab22.html": [],
+    "zh-source-0b3d95ffb9aa.html": [
+      "8632086867b864ceabe52529c8118a09e22dafbf40533da47252f0944b6b931b"
+    ],
+    "news-201cb27a7027.html": [],
+    "zh-source-b448455f871d.html": [
+      "617bb6fe93a5564a2a38e5645a2ba19acd5757fa2af67e09a88773f17fadace9",
+      "1ac65b9527fa43a9224ddbbeebf89d9818282c1f70d45e74f863db1ec62b9a1c"
+    ],
+    "news-6163e6b6eeef.html": [],
+    "source-a498b7678fab.html": [],
+    "source-7291543a069d.html": [
+      "ccf8ba7dce3926a8cc0855ca8cb0aa13583af8ffb786fa4cc92fb6ed803c43cf"
+    ],
+    "zh-faculty-3c3464e86e.html": [],
+    "zh-history.html": [],
+    "source-6d37bf6e58eb.html": [
+      "af2bc5a9005af9ccdbf3b157d0db1d398060900140dc41974f2c3ff2e29a5e1f"
+    ],
+    "zh-news-6163e6b6eeef.html": [],
+    "zh-source-655695c8f62a.html": [],
+    "zh-source-6ec97970ff59.html": [
+      "2f954e10ab4f24b3227fd2a5dcf641eaa11d71d92406c38cbe7771d8ade16e0b",
+      "47bb49cd2cc7d3597226e755f1b31dde9d830686d884a411fa576e654da8705b"
+    ],
+    "source-49fb6689fe10.html": [],
+    "zh-source-fd0af0c6ffdf.html": [],
+    "source-f5476899374c.html": [],
+    "zh-source-e59be55a1f7d.html": [],
+    "source-43502a082adb.html": [
+      "db79471cf9cbe0491f13dee05f6ff94e0edc3aafec1f884acd794ae67a5eae3e"
+    ],
+    "zh-source-239f6d308f21.html": [
+      "16a6eadea382eae2159240062582f180a9e338e3fd93ef4ae9d065bbfa8eb13d"
+    ],
+    "source-f94397d73e3b.html": [],
+    "zh-faculty-6d407ece1c.html": [],
+    "zh-source-e51d2c9796cc.html": [
+      "4bcd743ed06bf1416513313c9e3de590fcd0196940847e457a7ad014ab011240"
+    ],
+    "outcomes.html": [],
+    "source-5576f6f319f3.html": [],
+    "zh-faculty-8322917eed.html": [],
+    "zh-source-b51a084a1182.html": [
+      "2491049dd5a0556a711eb6a96867a555d40afa4482c5ae4ef17655d25128fde4"
+    ],
+    "source-b51a084a1182.html": [
+      "2491049dd5a0556a711eb6a96867a555d40afa4482c5ae4ef17655d25128fde4"
+    ],
+    "source-c4c6a426e0ad.html": [
+      "6defbbcd58d377b7c230af16f1fa9027e21b2dd0c157acc18206c96ba97d7841"
+    ],
+    "faculty-eca97c59d9.html": [],
+    "internships.html": [],
+    "zh-source-bfb1d52bc820.html": [],
+    "zh-news-201cb27a7027.html": [],
+    "zh-faculty-b51a084a11.html": [],
+    "zh-source-427f1fe48d15.html": [
+      "1361a802ffc9ea090060df8f408f216929c1bf33fb253fdd628b661e3ede9121"
+    ],
+    "zh-source-d5031f11aa32.html": [
+      "4f7d03ef0c2489c86c29b79ed7af42b416ae3d10359835f25bd2c2a3d03df1a2"
+    ],
+    "news-ee50c5152004.html": [],
+    "zh-source-60a1caaaf6a6.html": [
+      "5900aa4059125320ba44bdac69ab4e6d0e8bd10271b0d6141e1c68e27c2f01e5",
+      "74cdf355834c5047a1a1f7b24e36ef0f5a83666faa7814640b4bbd49354c53cd",
+      "c1ae7145cb9703720e07b7b30997e15037cb852de470027e6eddf2b41687cf8e",
+      "f398d8a4785323df5eeadebf21b546b97dd37f31a9143b2e57f88b7c91c2277a",
+      "6ed0c3373d551438208140793e154bcdbb36aad283fee4907e07e21f2b7a91ed",
+      "11054261a08ef6daee627bacc0e4462b38052bea1f825ee1b6215a8797b48202",
+      "d0a3f5dc0db6bfc75a96ee4fcad038f3508afb2a918a6a6e4b07f78dbee8dd8e",
+      "59c53dc4d480e4e9fbb9c4c80235fd871f5e7bf720dc035f4fbd95eee098364c",
+      "fdfa3c3f4aead4d96972d796250ad68ee701215e9a09f161b15145c2b945eb1e",
+      "97395f32197ac7620dbb954968a9bc07b410569d459bd35922d9f7ba238f6113",
+      "c9d808d50dab375d3c9dd047f97685b12fca95002bffcc34ee2fe31b035908fb",
+      "9a3e877cd51fd8bd8acfbb59a5fe9612986b8eb18f3144abb96cdd0a40730e2d",
+      "db5aeead31a6c6c2697551268c52797104de1e619338baccf45a5ad36489e3fd",
+      "e177c42e7aabefbab50eca28627b799b7accc92f6c26d99aed634bb280038039",
+      "3372bc5bf280a43e98b45894cc27300522267d247d96f5400f9a44d200d16428",
+      "cf0694116c4977cbb014c11b8a477918cc694cc6a7d1c062fb0e2f5eda65dafe",
+      "6d120de6bd17361b1a4d0aa2489537b27afce4ff287ed379f18734de4025f9b0",
+      "5e8649fd51a20e116554127c33492b6c6c1bf17b518d960bd6f05d1caf6b0d74",
+      "3fb198e8d6e42c0e06c4e4683561d1b3da11a2f9280b8e7002e92389ccf178c7",
+      "1593401298d7ec689fc1a046f35c9b7fff1aed5b4341d8bcf32a4cf84eae5381",
+      "070e9858b1a42d0227e4a5a1573a757dafae1f478cd87d6de301446decc2aee1",
+      "770e6dc41af7ccde078002864453e3ef387a46a6d95a16ded5960333f1f32bd9",
+      "552fd8905cc998d23bc71d6d77fc0d0f7ddbb116b7ffd4a68fec4bd7ef445a50",
+      "1d1d57c74d766f77ba1b041c0b31bc211f2636f65aa51af2266304ad7ee6538b",
+      "05fac76850aba6e10e1b069702064ab0301fa48a4cd794daffd3d8b02ba4e7e1",
+      "36cc7723062f85136e57f0d21e2d75543fea713e54cc3af9138abf6af867dcc1",
+      "0775751fd886532b975f43bbb79e58c9f5047dd702092410a6825d3e9a3332d9",
+      "04b065c87118c9a01e33f1bc5fb9e107c740e8233f4c179252937c88eaa3b62c",
+      "0de83ee0a0ec8ae160557dd74cf6bccae6b52977aefc5fb8cdee08c37532e63b",
+      "2f821f6a9163d2a82fe4fb4127fd0e3e1ba0db6540b6110305f943931f5e0c19",
+      "a5ad23f78fed382351469c8cd4f68baa87e95f5ee4f7f0650b8fb58e1c83b4e9",
+      "06b4477cbe1c4fdaf2e4f5e92fc13d8b0747198d1db0182ac4b9c6b71f6928b5",
+      "38b11ed407923b7d31db7535518f00eb6f3ce97c5a9b5713a80ccb29c0c6ab7f"
+    ],
+    "zh-source-eca97c59d959.html": [
+      "1d581f69693dfb5e20c350f13beb452a290625af5533e0a4dc0ce93bf3e630d4"
+    ],
+    "zh-faculty-c78f8d1e02.html": [],
+    "source-6ec97970ff59.html": [
+      "2f954e10ab4f24b3227fd2a5dcf641eaa11d71d92406c38cbe7771d8ade16e0b",
+      "47bb49cd2cc7d3597226e755f1b31dde9d830686d884a411fa576e654da8705b"
+    ],
+    "zh-faculty-eca97c59d9.html": [],
+    "source-d089f9978f0d.html": [
+      "c6c8e8a9532d1cd87c776c962cc59df23ac3576a8f4dc71fa37a69c184b84098"
+    ],
+    "contact.html": [],
+    "zh-source-88641dab2250.html": [
+      "6d98f980d48236a87bdbe6c9752cd1ef41de60c6e1de9aeb800e6a74e0165e1a"
+    ],
+    "history.html": [],
+    "news-06ea159b91de.html": [],
+    "zh-source-201cb27a7027.html": [],
+    "zh-source-1f7bb88be1f2.html": [
+      "5d5f6f08ba25386ade3b7c9b077cb633cdf06833ab629c7ab4ef6a1277a80e19"
+    ],
+    "zh-source-0b659ad03a08.html": [],
+    "zh-careers.html": [
+      "79e6b8bc136ebe73eedbfdd447f41c59ce9bafb30ecb9a8860a8915ee2d19906",
+      "b7489b63d8d6f1c32c452fa2354bfd4b6bf70e8ed4becd2c03e4624588833efd"
+    ],
+    "news-567b51e4e24e.html": [],
+    "source-06ea159b91de.html": [],
+    "source-fd0af0c6ffdf.html": [],
+    "source-c1b43ae3b734.html": [
+      "70ba57979ebb1bf9b06d9895d72a9cbec9120484c370317e41d63f46488f6338"
+    ],
+    "zh-404.html": [],
+    "source-88641dab2250.html": [
+      "6d98f980d48236a87bdbe6c9752cd1ef41de60c6e1de9aeb800e6a74e0165e1a"
+    ],
+    "faculty-e1dcabf583.html": [],
+    "zh-source-2111151d2a20.html": [
+      "604e932df252dc52dd34a8a0f4783df0939bfe33d8881daace76cc9e27623ea8",
+      "2ba0f066f5cd7787f8a9963689d40551f349f8d9bd93eb1a6752ff6b57821d9f",
+      "f63c47ba088bba0cd643f977152e0297c8423e9005e6e3db441d473747fc4262",
+      "4a1f0cc82c36fcf8fc055d35f26711f2679a033dbe13832fe73c8f4c2a815ad0"
+    ],
+    "content-review.html": [],
+    "zh-news-f5476899374c.html": [],
+    "source-427f1fe48d15.html": [
+      "1361a802ffc9ea090060df8f408f216929c1bf33fb253fdd628b661e3ede9121"
+    ],
+    "zh-source-091b4bdbc26b.html": [
+      "47a5ef0f8bc91d86af4a836218366a48c5115e0de13fe89fc8798653238679d7"
+    ],
+    "source-b2c726dc2f5e.html": [
+      "cb63991d2e165d1c968ccba64c80d95b37c9ea35bf94df51185a23b938e9a521"
+    ],
+    "curriculum.html": [],
+    "source-c78f8d1e02c4.html": [
+      "cb5b69f0cc9b3771e953ed9f7cac9daeb2611f120867f792ad098513b23e111d"
+    ],
+    "zh-source-43502a082adb.html": [
+      "db79471cf9cbe0491f13dee05f6ff94e0edc3aafec1f884acd794ae67a5eae3e"
+    ],
+    "news-49fb6689fe10.html": [],
+    "zh-source-f5476899374c.html": [],
+    "source-a4ac4921c361.html": [
+      "1ef70e63f9b9557ad8de19978fffec209b8c4aae16e0074a596e29305b8a4024"
+    ],
+    "zh-source-273e09e09049.html": [],
+    "zh-source-acc490835db8.html": [],
+    "faculty-d5031f11aa.html": [],
+    "zh-source-ab06123d41a5.html": [
+      "617bb6fe93a5564a2a38e5645a2ba19acd5757fa2af67e09a88773f17fadace9",
+      "1ac65b9527fa43a9224ddbbeebf89d9818282c1f70d45e74f863db1ec62b9a1c"
+    ],
+    "resources.html": [],
+    "zh-faculty-2b55f826de.html": [],
+    "zh-source-db41554a8052.html": [],
+    "zh-international.html": [],
+    "zh-faculty-493cac2a88.html": [],
+    "zh-faculty-239f6d308f.html": [],
+    "exchange.html": [],
+    "source-a31f07fa78e2.html": [],
+    "zh-source-1c5a9505f1ea.html": [
+      "24a87db16aba0fefcd5aed9fc6524a607ae55d0da3926b845b211b1677fbe26d"
+    ],
+    "zh-news-655695c8f62a.html": [],
+    "zh-source-2a886671b0a2.html": [
+      "e8d69cb78bf5de481986c4e26060f6e17ba2fd903a2b5d2db4fb535e0c816fea"
+    ],
+    "source-01264718904c.html": [],
+    "faculty-7291543a06.html": [],
+    "zh-events.html": [],
+    "zh-source-c32918c65d8f.html": [
+      "aa4222ce0a3867a8ca1801bd6629f5a57683d8303d1820e3b85068f1b54ecc52",
+      "55d90cf71a3dd0aad2e72edb6c9f3bff79966e33f2d73a6b19732fd3513a81cc"
+    ],
+    "zh-source-029f85f20cb9.html": [
+      "65e80b25cfb9907c6739405c7dddbb9f2e753649916af81e09c5aebe8519d84a"
+    ],
+    "zh-faculty-4b6d7bcc1d.html": [],
+    "source-86e0b875d33a.html": [
+      "c1ea07009122050a83686a900ae7f3e76871d46453a0442ce08c4afa86daec3c",
+      "a9d5f74de45faa6d6e26f471af1611bf49094e1e6665b747a1f902a353375ffb"
+    ],
+    "news-4a263757400a.html": [],
+    "zh-source-e06af449b956.html": [],
+    "zh-news-e884daf8b005.html": [],
+    "zh-source-e884daf8b005.html": [],
+    "source-b448455f871d.html": [
+      "617bb6fe93a5564a2a38e5645a2ba19acd5757fa2af67e09a88773f17fadace9",
+      "1ac65b9527fa43a9224ddbbeebf89d9818282c1f70d45e74f863db1ec62b9a1c"
+    ],
+    "source-091b4bdbc26b.html": [
+      "47a5ef0f8bc91d86af4a836218366a48c5115e0de13fe89fc8798653238679d7"
+    ],
+    "zh-admissions.html": [],
+    "source-b704e5ce6565.html": [
+      "486919aec81941e3dd880bafbb8021a4ca55341577cf1ac13b40e59e2308ffc8"
+    ],
+    "faculty-6d37bf6e58.html": [],
+    "404.html": [],
+    "source-fc5fe8cf501f.html": [
+      "9cfae164d3f26dd465e47b34f678c6a2487f139ff7767f4c3b0809deab6683d1"
+    ],
+    "zh-source-8322917eedbd.html": [
+      "8cdc1a567936fd667c19ef1edd775733fc4bddaa231ab628e49e25388cab56c6"
+    ],
+    "zh-source-5fa4f79f960f.html": [
+      "785387ba80d73d65baf57837fcfb752a395aee6c18a27170355ef3b060de4d2b"
+    ],
+    "source-08f4bceb3eb0.html": [
+      "a783ff56ab744b8bc07cd0c7cb5dd86d3384b357b3172a02d03293e0b26cf41b"
+    ],
+    "source-578e4e48ac0b.html": [
+      "a9d5f74de45faa6d6e26f471af1611bf49094e1e6665b747a1f902a353375ffb",
+      "d995dcac617026768652415f439242b3131de6101c36739921912386d05fd928"
+    ],
+    "zh-regulations.html": [],
+    "faculty-67be876061.html": [],
+    "zh-faculty-b2c726dc2f.html": [],
+    "index.html": [],
+    "zh-source-ca955077f72d.html": [
+      "5e6c976d69f119f8a02c522f34f8e60b627b0c97d0d3fd9b8459347f57ed6f76"
+    ],
+    "source-cfea3c862e22.html": [],
+    "faculty-1c5a9505f1.html": [],
+    "source-eca97c59d959.html": [
+      "1d581f69693dfb5e20c350f13beb452a290625af5533e0a4dc0ce93bf3e630d4"
+    ],
+    "source-db41554a8052.html": [],
+    "zh-news-11d1c0471778.html": [],
+    "zh-source-6d37bf6e58eb.html": [
+      "af2bc5a9005af9ccdbf3b157d0db1d398060900140dc41974f2c3ff2e29a5e1f"
+    ],
+    "source-62bbd8a1ad38.html": [
+      "bb2955eab61c5a5b5e5f5076e67c0406a4e324a5c40a14f1b5389e34c6c03712"
+    ],
+    "faculty-3c3464e86e.html": [],
+    "news-e06af449b956.html": [],
+    "source-193bb6e11966.html": [
+      "b8e4b7ed656ed55681a6957294a9c281e4a5d6a161dd9cf2a9312fb013a87720"
+    ],
+    "source-bfb1d52bc820.html": [],
+    "zh-source-62bbd8a1ad38.html": [
+      "bb2955eab61c5a5b5e5f5076e67c0406a4e324a5c40a14f1b5389e34c6c03712"
+    ],
+    "source-6a893bf1bd2e.html": [],
+    "zh-source-493cac2a8887.html": [
+      "e0e2ee120342faf45785e6e04ba67c2ab5eb003f76256821ffb28ba2f9db5f13"
+    ],
+    "zh-source-11d1c0471778.html": [],
+    "faculty.html": [],
+    "zh-source-193bb6e11966.html": [
+      "b8e4b7ed656ed55681a6957294a9c281e4a5d6a161dd9cf2a9312fb013a87720"
+    ],
+    "zh-source-6d407ece1c23.html": [
+      "cce79192a78f998efabea9f7fd381327363a93adaf3a389ec03c3e0823029b43"
+    ],
+    "source-ee50c5152004.html": []
+  },
+  "internship_documents": [
+    "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E4%B8%AD%E6%AD%A2%E5%8F%8A%E8%BD%89%E4%BB%8B%E5%AF%A6%E7%BF%92%E7%94%B3%E8%AB%8B%E6%9B%B81131202-1.docx",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E4%B8%AD%E6%AD%A2%E5%8F%8A%E8%BD%89%E4%BB%8B%E5%AF%A6%E7%BF%92%E7%94%B3%E8%AB%8B%E6%9B%B81131202.pdf",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E5%90%88%E4%BD%9C%E5%96%AE%E4%BD%8D%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99%E8%A1%A811131202.docx",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E5%90%88%E4%BD%9C%E5%96%AE%E4%BD%8D%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99%E8%A1%A811131202.pdf",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E6%A9%9F%E6%A7%8B%E8%A9%95%E4%BC%B0%E8%A1%A81131202.docx",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E6%A9%9F%E6%A7%8B%E8%A9%95%E4%BC%B0%E8%A1%A8odt1131202.pdf",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E6%A9%9F%E6%A7%8B%E8%BF%BD%E8%B9%A4%E8%A9%95%E4%BC%B0%E8%A1%A81131202.docx",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E6%A9%9F%E6%A7%8B%E8%BF%BD%E8%B9%A4%E8%A9%95%E4%BC%B0%E8%A1%A81131202.pdf",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E6%85%88%E6%BF%9F%E5%A4%A7%E5%AD%B8%E5%AF%A6%E7%BF%92%E4%B8%89%E6%96%B9%E5%90%88%E7%B4%84%E5%AD%B8%E7%BF%92%E5%9E%8B%E5%85%AC%E7%89%88%E6%B3%95%E5%8B%99%E5%85%AC%E5%91%8A%E7%89%881131206.docx",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E6%85%88%E6%BF%9F%E5%A4%A7%E5%AD%B8%E5%AF%A6%E7%BF%92%E4%B8%89%E6%96%B9%E5%90%88%E7%B4%84%E5%AD%B8%E7%BF%92%E5%9E%8B%E5%85%AC%E7%89%88%E6%B3%95%E5%8B%99%E5%85%AC%E5%91%8A%E7%89%881131206.pdf",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E6%85%88%E6%BF%9F%E5%A4%A7%E5%AD%B8%E5%AF%A6%E7%BF%92%E4%B8%89%E6%96%B9%E5%90%88%E7%B4%84%E9%9B%87%E5%82%AD%E5%9E%8B%E5%85%AC%E7%89%88%E6%B3%95%E5%8B%99%E5%85%AC%E5%91%8A%E7%89%881131206-1.docx",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E6%85%88%E6%BF%9F%E5%A4%A7%E5%AD%B8%E5%AF%A6%E7%BF%92%E4%B8%89%E6%96%B9%E5%90%88%E7%B4%84%E9%9B%87%E5%82%AD%E5%9E%8B%E5%85%AC%E7%89%88%E6%B3%95%E5%8B%99%E5%85%AC%E5%91%8A%E7%89%881131206-1.pdf",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2025/01/%E4%BD%9C%E6%A5%AD%E6%B5%81%E7%A8%8B_%E5%AF%A6%E7%BF%92%E6%A9%9F%E6%A7%8B%E8%A9%95%E4%BC%B0%E6%B5%81%E7%A8%8B.pdf",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2025/09/6.4.2025-AE-Student-Internship-Agreement-Employment-Based-COMPLETED20250607.docx",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2025/09/6.4.2025-AE-Student-Internship-Agreement-Employment-Based-COMPLETED20250607.pdf",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2025/09/6.4.2025-AN-Student-Internship-Agreement-Non-Employment-Based-COMPLETED20250607.docx",
+    "https://academic.tcu.edu.tw/wp-content/uploads/2025/09/6.4.2025-AN-Student-Internship-Agreement-Non-Employment-Based-COMPLETED20250607.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/157713098.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/220359395.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/333108652.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/437403378.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/472953454.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/485747469.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/517744877.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/519806427.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/551810089.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/554353421.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/622653375.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/626278355.pdf",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/676077551.docx",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/735283403.docx",
+    "https://mdm.tcu.edu.tw/var/file/21/1021/img/803973551.pdf"
+  ],
+  "paragraph_baseline": {
+    "index.html": 270,
+    "introduction.html": 92,
+    "vision.html": 29,
+    "history.html": 21,
+    "academics.html": 54,
+    "student-life.html": 140,
+    "internships.html": 223,
+    "careers.html": 67,
+    "faculty.html": 552,
+    "admissions.html": 25,
+    "curriculum.html": 26,
+    "requirements.html": 31,
+    "resources.html": 21,
+    "regulations.html": 32,
+    "news.html": 234,
+    "events.html": 55,
+    "contact.html": 12
+  }
+}

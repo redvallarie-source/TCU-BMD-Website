@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Department of Business Management | Tzu Chi University</title>
+    
+    <!-- Google Fonts: Cormorant Garamond (Judul), Inter (Teks), Caveat (Tulisan Tangan) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome untuk Ikon -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- ================= INTERNAL CSS ================= -->
+    <style>
+        :root {
+            --tc-green: #173e35;          /* Hijau Utama Navbar & Brand */
+            --tc-green-dark: #102d26;     /* Hijau Gelap Hover */
+            --tc-dark-green: #153c2a;     /* Hijau Judul */
+            --tc-button-green: #113626;   /* Hijau Tombol Learn More */
+            --tc-light-bg: #eff5f1;       /* Background Lengkungan Hero */
+            --tc-card-bg: #f3f7f4;        /* Background Kotak Why Choose Us */
+            --tc-text-body: #4a5a52;      /* Warna Teks Paragraf */
+            --tc-text-muted: #7b8e84;     /* Warna Label Kecil */
+            --white: #ffffff;
+            
+            --font-serif: 'Cormorant Garamond', Georgia, serif;
+            --font-sans: 'Inter', -apple-system, sans-serif;
+            --font-hand: 'Caveat', cursive;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        ul, ol, li { list-style: none !important; } /* Menghapus titik bulat di semua list */
+        
+        body { 
+            font-family: var(--font-sans); 
+            color: var(--tc-text-body); 
+            background-color: #fafcfa; 
+            line-height: 1.65; 
+            -webkit-font-smoothing: antialiased;
+            overflow-x: hidden; 
+        }
+        
+        a { text-decoration: none; color: inherit; transition: all 0.25s ease; }
+
+        /* Ikon Panah Miring (↗) Persis Gambar Referensi */
+        .arrow-up-right {
+            display: inline-block;
+            font-size: 0.72rem;
+            transform: rotate(-45deg);
+            transition: transform 0.25s ease;
+        }
+        a:hover .arrow-up-right {
+            transform: rotate(-45deg) translate(2px, -2px);
+        }
+
+        /* ================= 1. NAVBAR (100% SAMA DENGAN HOME) ================= */
+        .navbar { 
+            display: flex; 
+            align-items: center; 
+            justify-content: space-between; 
+            padding: 16px 5%; 
+            background-color: var(--white); 
+            position: sticky; 
+            top: 0; 
+            z-index: 1000; 
+            box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06); 
+            transition: all 0.3s ease; 
+        }
+        .brand-container { display: flex; align-items: center; gap: 12px; flex-shrink: 0; }
+        .brand-logo { display: block; width: 160px; height: auto; }
+        .brand-text { display: flex; flex-direction: column; gap: 3px; }
+        .brand-title-zh { font-family: 'Noto Serif TC', 'Microsoft JhengHei', serif; font-size: 1.08rem; font-weight: 700; letter-spacing: 0.08em; color: #162d2b; white-space: nowrap; }
+        .brand-sub { font-family: var(--font-sans); font-size: 0.68rem; font-weight: 500; color: #535f5c; white-space: nowrap; }
+
+        .nav-menu { display: flex; align-items: center; list-style: none; gap: 22px; }
+        .nav-item { font-size: 0.88rem; font-weight: 500; color: #3b4b45; position: relative; padding: 8px 0; display: flex; align-items: center; gap: 5px; }
+        .nav-item i { font-size: 0.65rem; color: #72827b; transition: transform 0.3s ease; }
+        .nav-item:hover, .nav-item.active { color: var(--tc-green); }
+        .nav-item:hover i, .nav-item.active i { color: var(--tc-green); }
+        .nav-item.active::after { content: ''; position: absolute; bottom: 0; left: 0; width: 100%; height: 2px; background-color: var(--tc-green); border-radius: 2px; }
+        @media (max-width: 650px) {
+            .navbar { padding: 12px 3% !important; gap: 8px; }
+            .brand-container { gap: 8px; }
+            .brand-logo { width: 88px; }
+            .brand-title-zh { font-size: 0.68rem; letter-spacing: 0.04em; }
+            .brand-sub { font-size: 0.44rem; }
+            .nav-right { gap: 8px; }
+            .lang-pill-btn { padding-left: 8px; padding-right: 8px; }
+        }
+
+        .nav-right { display: flex; align-items: center; gap: 18px; }
+        .search-icon-btn { background: none; border: none; color: #3b4b45; font-size: 0.95rem; cursor: pointer; padding: 6px; transition: color 0.2s ease; }
+        .search-icon-btn:hover { color: var(--tc-green); }
+        .lang-pill-btn { background-color: var(--tc-green); color: var(--white); font-size: 0.82rem; font-weight: 500; padding: 6px 16px; border-radius: 999px; border: none; cursor: pointer; letter-spacing: 0.5px; transition: all 0.25s ease; }
+        .lang-pill-btn:hover { background-color: var(--tc-green-dark); transform: translateY(-1px); }
+
+        /* DROPDOWN (BERSIH TANPA BULLETS) */
+        .dropdown { position: relative; }
+        .dropdown-menu { 
+            position: absolute; 
+            top: 130%; 
+            left: 0; 
+            background-color: var(--white); 
+            box-shadow: 0 15px 35px rgba(18, 48, 39, 0.08); 
+            border-radius: 12px; 
+            min-width: 240px; 
+            padding: 12px 0; 
+            list-style: none !important; 
+            opacity: 0; 
+            visibility: hidden; 
+            transform: translateY(15px); 
+            transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1); 
+            z-index: 1000; 
+            border: 1px solid rgba(220, 230, 224, 0.5); 
+        }
+        .dropdown::after { content: ''; position: absolute; top: 100%; left: 0; width: 100%; height: 30px; }
+        .dropdown:hover .dropdown-menu { opacity: 1; visibility: visible; transform: translateY(0); top: 100%; }
+        .dropdown:hover .nav-item i { transform: rotate(180deg); }
+        .dropdown-menu li a { display: block; padding: 10px 24px; font-size: 0.88rem; font-weight: 500; color: #4a5853; transition: all 0.25s ease; }
+        .dropdown-menu li a:hover, .dropdown-menu li a.active-sub { color: var(--tc-green); background-color: #f2f7f4; }
+        .dropdown-menu li a:hover { padding-left: 30px; }
+        .nav-menu > li:last-child .dropdown-menu { left: auto; right: -20px; }
+
+        /* Komponen Garis Label (ABOUT — —, INTRODUCTION — —, dll) */
+        .section-label { 
+            font-size: 0.72rem; 
+            font-weight: 600; 
+            letter-spacing: 2.2px; 
+            color: var(--tc-text-muted); 
+            text-transform: uppercase; 
+            display: flex; 
+            align-items: center; 
+            gap: 10px; 
+            margin-bottom: 14px; 
+        }
+        .section-label .dash-long { width: 28px; height: 1px; background-color: #b8c7bf; display: inline-block; }
+        .section-label .dash-short { width: 14px; height: 1px; background-color: #cdd9d2; display: inline-block; }
+
+        /* ================= 2. HERO SECTION ================= */
+        .hero { 
+            position: relative; 
+            min-height: 480px; 
+            background: url('https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1920&q=85') center right / cover no-repeat; 
+            display: flex; 
+            align-items: center; 
+            overflow: hidden;
+        }
+        
+        /* Lengkungan Berlapis Halus Persis Gambar */
+        .hero-curve-back {
+            position: absolute;
+            top: 0; left: 0;
+            width: 63%; height: 100%;
+            background-color: rgba(232, 241, 236, 0.78);
+            border-bottom-right-radius: 360px 420px;
+            border-top-right-radius: 80px 180px;
+            z-index: 1;
+        }
+        .hero-curve { 
+            position: absolute; 
+            top: 0; left: 0; 
+            width: 57%; height: 100%; 
+            background-color: var(--tc-light-bg); 
+            border-bottom-right-radius: 320px 380px; 
+            z-index: 2; 
+        }
+
+        /* Siluet Daun Tipis di Kiri Hero */
+        .hero-botanical-svg {
+            position: absolute;
+            bottom: -20px;
+            left: -25px;
+            width: 190px;
+            height: 280px;
+            z-index: 2;
+            opacity: 0.35;
+            pointer-events: none;
+            color: #c5d6cc;
+        }
+        
+        .hero-content { position: relative; z-index: 3; padding: 75px 5%; max-width: 640px; }
+        .hero-title { font-family: var(--font-serif); font-size: 3.9rem; color: var(--tc-dark-green); line-height: 1.06; margin-bottom: 16px; font-weight: 600; letter-spacing: -0.5px; }
+        .hero-subtitle { font-family: var(--font-serif); font-size: 1.55rem; color: #264a39; margin-bottom: 22px; font-weight: 500; }
+        .hero-desc { font-size: 0.94rem; line-height: 1.75; color: var(--tc-text-body); max-width: 490px; }
+
+        /* ================= 3. INTRODUCTION SECTION ================= */
+        .intro-wrapper { background-color: var(--white); border-bottom: 1px solid #f0f4f1; }
+        .intro-section { 
+            padding: 90px 5%; 
+            display: grid; 
+            grid-template-columns: 0.95fr 1.05fr; 
+            gap: 65px; 
+            max-width: 1280px; 
+            margin: 0 auto; 
+            align-items: center; 
+        }
+        
+        /* Bingkai Gambar Mahasiswa dengan Aksen Kiri Atas & Kanan Bawah */
+        .intro-image-container { position: relative; padding: 6px; }
+        .intro-accent-topleft {
+            position: absolute;
+            top: 6px; left: 6px;
+            width: 110px; height: 140px;
+            background-color: #799a88;
+            border-top-left-radius: 14px;
+            border-bottom-right-radius: 80px;
+            z-index: 2;
+            opacity: 0.85;
+            pointer-events: none;
+        }
+        .intro-image-bg { 
+            position: absolute; 
+            bottom: -16px; right: -16px; 
+            width: 48%; height: 45%; 
+            background-color: #dce9e1; 
+            border-bottom-right-radius: 36px; 
+            border-top-left-radius: 36px;
+            z-index: 0; 
+        }
+        .intro-image-container img { 
+            position: relative; 
+            width: 100%; 
+            height: 410px;
+            object-fit: cover;
+            z-index: 1; 
+            border-radius: 14px;
+            border-bottom-right-radius: 48px; 
+            box-shadow: 0 14px 35px rgba(21, 60, 42, 0.08); 
+            display: block; 
+        }
+
+        .intro-text h2 { font-family: var(--font-serif); font-size: 3.1rem; color: var(--tc-dark-green); line-height: 1.12; margin-bottom: 22px; font-weight: 600; }
+        .intro-text p { font-size: 0.94rem; line-height: 1.75; margin-bottom: 36px; color: var(--tc-text-body); }
+
+        .intro-features { 
+            display: grid; 
+            grid-template-columns: repeat(4, 1fr); 
+            gap: 0; 
+            margin-bottom: 36px; 
+        }
+        .feature-item { 
+            border-right: 1px solid #dfe7e2; 
+            padding: 4px 18px; 
+        }
+        .feature-item:first-child { padding-left: 0; }
+        .feature-item:last-child { border-right: none; padding-right: 0; }
+        .feature-item i { font-size: 1.55rem; color: var(--tc-dark-green); margin-bottom: 12px; display: block; }
+        .feature-item h4 { font-size: 0.82rem; font-weight: 500; color: #35473f; line-height: 1.45; }
+
+        .btn-learn { 
+            background-color: var(--tc-button-green); 
+            color: var(--white); 
+            padding: 11px 28px; 
+            border-radius: 999px; 
+            font-size: 0.86rem; 
+            display: inline-flex; 
+            align-items: center; 
+            gap: 10px; 
+            font-weight: 500; 
+            box-shadow: 0 6px 16px rgba(17, 54, 38, 0.18);
+        }
+        .btn-learn:hover { background-color: #0b2419; transform: translateY(-2px); }
+
+        /* ================= 4. WHY CHOOSE US ================= */
+        .why-section { background-color: #fafcfa; padding: 90px 5%; border-bottom: 1px solid #f0f4f1; }
+        .why-container { 
+            display: grid; 
+            grid-template-columns: 0.78fr 1.22fr; 
+            gap: 60px; 
+            max-width: 1280px; 
+            margin: 0 auto; 
+            align-items: center; 
+        }
+        
+        .why-text h2 { font-family: var(--font-serif); font-size: 3.1rem; color: var(--tc-dark-green); line-height: 1.12; margin-bottom: 22px; font-weight: 600; }
+        .why-text p { font-size: 0.94rem; line-height: 1.75; margin-bottom: 34px; max-width: 390px; }
+        
+        /* Tulisan Tangan + Garis Lengkung di Bawahnya */
+        .handwritten-wrap { display: inline-block; transform: rotate(-6deg); margin-left: 10px; }
+        .handwritten { font-family: var(--font-hand); font-size: 2.2rem; color: #2b4c3e; line-height: 1.05; }
+        .handwritten-Check { width: 170px; height: 18px; color: #3b5c4e; margin-top: 2px; }
+
+        .why-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
+        .why-card { 
+            background-color: var(--tc-card-bg); 
+            padding: 30px 28px; 
+            border-radius: 12px; 
+            display: flex; 
+            gap: 20px; 
+            align-items: flex-start; 
+            border: 1px solid rgba(215, 228, 220, 0.45);
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+        }
+        .why-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 28px rgba(21, 60, 42, 0.06);
+            background-color: #f6faf7;
+        }
+        .why-card i { font-size: 1.85rem; color: var(--tc-dark-green); margin-top: 3px; flex-shrink: 0; }
+        .why-card h4 { font-family: var(--font-serif); font-size: 1.25rem; color: var(--tc-dark-green); margin-bottom: 8px; font-weight: 600; line-height: 1.25; }
+        .why-card p { font-size: 0.84rem; color: var(--tc-text-body); line-height: 1.6; }
+
+        /* ================= 5. ACADEMIC PROGRAMS ================= */
+        .programs-section { padding: 90px 5% 100px; max-width: 1280px; margin: 0 auto; }
+        .programs-header { display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 42px; }
+        .programs-header h2 { font-family: var(--font-serif); font-size: 3.1rem; color: var(--tc-dark-green); line-height: 1.12; font-weight: 600; }
+        .programs-header p { font-size: 0.94rem; margin-top: 12px; max-width: 560px; color: var(--tc-text-body); }
+        .view-all { font-size: 0.85rem; font-weight: 500; color: var(--tc-dark-green); display: inline-flex; align-items: center; gap: 6px; padding-bottom: 6px; }
+        .view-all:hover { opacity: 0.75; }
+
+        .prog-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 22px; }
+        .prog-card { 
+            background: var(--white); 
+            border: 1px solid #e7eee9; 
+            border-radius: 12px; 
+            overflow: hidden; 
+            display: flex; 
+            flex-direction: column; 
+            box-shadow: 0 4px 18px rgba(0, 0, 0, 0.02);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .prog-card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 16px 32px rgba(21, 60, 42, 0.08);
+        }
+        .prog-img-wrap { position: relative; height: 155px; overflow: hidden; margin: 10px 10px 0; border-radius: 8px; }
+        .prog-img { width: 100%; height: 100%; background-size: cover; background-position: center; transition: transform 0.5s ease; }
+        .prog-card:hover .prog-img { transform: scale(1.05); }
+        
+        .prog-content { padding: 22px 20px 24px; flex-grow: 1; display: flex; flex-direction: column; }
+        .prog-title-row { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px; }
+        .prog-title-row i { font-size: 1.25rem; color: var(--tc-dark-green); margin-top: 3px; flex-shrink: 0; }
+        .prog-title-row h4 { font-family: var(--font-serif); font-size: 1.22rem; color: var(--tc-dark-green); font-weight: 600; line-height: 1.25; }
+        .prog-content p { font-size: 0.83rem; line-height: 1.6; margin-bottom: 22px; flex-grow: 1; color: var(--tc-text-body); }
+        .prog-content a { font-size: 0.8rem; color: var(--tc-dark-green); font-weight: 500; display: inline-flex; align-items: center; gap: 6px; }
+
+        /* ================= 6. JOIN US (FOOTER BANNER) ================= */
+        .join-section { 
+            position: relative;
+            padding: 85px 5%;
+            background: 
+                linear-gradient(to right, rgba(16, 48, 36, 0.92) 0%, rgba(21, 60, 45, 0.72) 50%, rgba(21, 60, 45, 0.3) 100%), 
+                url('https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1920&q=85') center/cover no-repeat;
+            color: var(--white);
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center;
+        }
+        .join-content { max-width: 580px; position: relative; z-index: 2; }
+        .join-label { font-size: 0.72rem; font-weight: 600; letter-spacing: 2.2px; text-transform: uppercase; display: flex; align-items: center; gap: 12px; margin-bottom: 14px; color: #cfe0d6; }
+        .join-label::after { content: ''; width: 32px; height: 1px; background-color: rgba(255,255,255,0.45); }
+        .join-section h2 { font-family: var(--font-serif); font-size: 3rem; font-weight: 500; margin-bottom: 14px; line-height: 1.15; }
+        .join-section p { font-size: 0.92rem; margin-bottom: 28px; color: #e2ede7; line-height: 1.7; }
+        
+        .btn-light { 
+            background-color: #dce8e0; 
+            color: var(--tc-dark-green); 
+            padding: 11px 26px; 
+            border-radius: 999px; 
+            font-size: 0.85rem; 
+            font-weight: 600; 
+            display: inline-flex; 
+            align-items: center; 
+            gap: 8px; 
+        }
+        .btn-light:hover { background-color: var(--white); transform: translateY(-2px); }
+        
+        .join-handwritten { 
+            font-family: var(--font-hand); 
+            font-size: 2.7rem; 
+            color: rgba(24, 52, 41, 0.65); 
+            transform: rotate(-8deg); 
+            text-align: center; 
+            line-height: 1.05; 
+            margin-right: 6%;
+            margin-bottom: 40px;
+            text-shadow: 0 1px 12px rgba(255,255,255,0.35);
+        }
+
+        /* ================= RESPONSIVE ================= */
+        @media (max-width: 992px) {
+            .nav-menu { display: none; }
+            .hero-curve, .hero-curve-back { width: 100%; border-radius: 0; opacity: 0.92; }
+            .intro-section, .why-container { grid-template-columns: minmax(0, 1fr); gap: 45px; }
+            .intro-section > *, .why-container > *, .why-cards { min-width: 0; }
+            .prog-grid { grid-template-columns: repeat(2, 1fr); }
+            .join-section { flex-direction: column; align-items: flex-start; gap: 30px; }
+        }
+        .nav-toggle { display: none; }
+        @media (max-width: 1100px) {
+            .navbar { gap: 10px; }
+            .brand-container { gap: 9px; }
+            .brand-logo { width: 96px; }
+            .brand-title-zh { font-size: 0.82rem; letter-spacing: 0.04em; }
+            .brand-sub { font-size: 0.56rem; }
+            .nav-toggle { display: grid; flex: 0 0 42px; width: 42px; height: 42px; place-items: center; border: 1px solid rgba(23, 62, 53, 0.22); border-radius: 10px; background: rgba(255, 255, 255, 0.88); color: var(--tc-green); font-size: 1.1rem; cursor: pointer; }
+            .nav-toggle:hover { background: var(--white); }
+            .nav-toggle:focus-visible { outline: 2px solid var(--tc-green); outline-offset: 3px; }
+            .nav-menu, .nav-menu.is-open { display: none !important; position: absolute; top: 100%; right: 0; left: 0; z-index: 1001; flex-direction: column; align-items: stretch; gap: 0; width: 100%; max-height: calc(100vh - 68px); overflow-y: auto; overscroll-behavior: contain; padding: 8px 18px 18px; margin: 0; border-top: 1px solid #e7ede9; background: rgba(255, 255, 255, 0.98); box-shadow: 0 18px 30px rgba(18, 48, 39, 0.16); }
+            .nav-menu.is-open { display: flex !important; }
+            .nav-menu > li { border-bottom: 1px solid #e8eeea; }
+            .nav-menu > li:last-child { border-bottom: 0; }
+            .nav-menu > li > .nav-item { justify-content: space-between; padding: 12px 2px; font-size: 0.98rem; }
+            .nav-menu > li > .nav-item.active::after { display: none; }
+            .nav-menu .dropdown::after { display: none; }
+            .nav-menu .dropdown-menu, .nav-menu > li:last-child .dropdown-menu { position: static; display: block; min-width: 0; padding: 0 0 10px 10px; margin: 0; border: 0; border-radius: 0; background: transparent; box-shadow: none; opacity: 1; visibility: visible; transform: none; }
+            .nav-menu .dropdown:hover .dropdown-menu { top: auto; transform: none; }
+            .nav-menu .dropdown-menu li a { padding: 8px 14px; border-left: 2px solid #dce7df; color: #58675f; font-size: 0.9rem; }
+            .nav-menu .dropdown-menu li a:hover { padding-left: 18px; }
+            .nav-right { flex: 0 0 auto; gap: 8px; margin-left: auto; }
+            .lang-pill-btn { flex-shrink: 0; white-space: nowrap; }
+        }
+        @media (max-width: 650px) {
+            .navbar { padding: 10px 4% !important; }
+            .hero-content { width: 100%; min-width: 0; max-width: 100%; padding: 72px 5% 54px; }
+            .hero-title { font-size: clamp(2.35rem, 11vw, 3.2rem); }
+            .hero-subtitle { font-size: 1.3rem; }
+            .intro-section { overflow-x: clip; }
+            .brand-container { flex: 1 1 auto; min-width: 0; }
+            .brand-text { min-width: 0; overflow: hidden; }
+            .brand-logo { width: 76px; }
+            .brand-title-zh { overflow: hidden; font-size: 0.7rem; text-overflow: ellipsis; }
+            .brand-sub { overflow: hidden; font-size: 0.49rem; text-overflow: ellipsis; }
+            .search-icon-btn { display: none; }
+            .lang-pill-btn { padding: 6px 9px; }
+            .why-cards { grid-template-columns: minmax(0, 1fr); }
+            .prog-grid { grid-template-columns: minmax(0, 1fr); }
+            .intro-features { grid-template-columns: repeat(2, minmax(0, 1fr)); row-gap: 14px; }
+            .intro-features .feature-item { min-width: 0; padding: 8px 10px; }
+            .intro-features .feature-item:nth-child(odd) { padding-left: 0; }
+            .intro-features .feature-item:nth-child(even) { padding-right: 0; border-right: 0; }
+        }
+        @media (max-width: 370px) {
+            .navbar { gap: 6px; padding-right: 3% !important; padding-left: 3% !important; }
+            .brand-logo { width: 52px; }
+            .brand-container { gap: 7px; }
+            .brand-sub { display: none; }
+            .brand-title-zh { font-size: 0.63rem; }
+            .lang-pill-btn { padding: 5px 6px; font-size: 0.7rem; letter-spacing: 0; }
+            .nav-toggle { flex-basis: 38px; width: 38px; height: 38px; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- 1. NAVBAR (PERSIS SAMA DENGAN HOME / INDEX.HTML) -->
+    <header>
+        <nav class="navbar">
+            <a class="brand-container" href="https://tcueng.tcu.edu.tw/">
+                <img class="brand-logo" src="assets/mdm_logo_transparent.png" alt="">
+                <div class="brand-text">
+                    <span class="brand-title-zh">慈濟大學 經營管理學系</span>
+                    <span class="brand-sub">Department of Business Management</span>
+                </div>
+            </a>
+
+            <button class="nav-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="primary-navigation">
+                <i class="fa-solid fa-bars" aria-hidden="true"></i>
+            </button>
+
+            <ul class="nav-menu" id="primary-navigation">
+                <li><a href="index.html" class="nav-item">Home</a></li>
+                <li class="dropdown">
+                    <a href="introduction.html" class="nav-item active">About <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="introduction.html" class="active-sub">Introduction</a></li>
+                        <li><a href="vision.html">Mission & Vision</a></li>
+                        <li><a href="history.html">History</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#programs" class="nav-item">Academics <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#programs">Curriculum</a></li>
+                        <li><a href="#">Graduation Requirements</a></li>
+                        <li><a href="#">Learning Resources</a></li>
+                        <li><a href="#">Academic Regulations & Forms</a></li>
+                    </ul>
+                </li>
+                <li><a href="#" class="nav-item">Faculty</a></li>
+                <li class="dropdown">
+                    <a href="#" class="nav-item">Student Life <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Student Activities</a></li>
+                        <li><a href="#">Student Experiences</a></li>
+                        <li><a href="#">Clubs & Organizations</a></li>
+                        <li><a href="#">Internship Opportunities</a></li>
+                        <li><a href="#">Career Paths</a></li>
+                        <li><a href="#">Alumni Stories</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="nav-item">News & Events <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Latest News</a></li>
+                        <li><a href="#">Upcoming Events</a></li>
+                        <li><a href="#">Department Announcements</a></li>
+                        <li><a href="#">Student Achievements</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="nav-item">More <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#">Instagram</a></li>
+                        <li><a href="#">Da Ai TV</a></li>
+                        <li><a href="#">Tzu Chi University Main Website</a></li>
+                        <li><a href="#">Useful Links</a></li>
+                    </ul>
+                </li>
+            </ul>
+
+            <div class="nav-right">
+                <button class="search-icon-btn" aria-label="Search" title="Search"><i class="fa-solid fa-magnifying-glass"></i></button>
+                <button class="lang-pill-btn" onclick="toggleLanguage()">中文</button>
+            </div>
+        </nav>
+    </header>
+
+    <!-- 2. HERO SECTION -->
+    <section class="hero">
+        <div class="hero-curve-back"></div>
+        <div class="hero-curve"></div>
+        
+        <!-- Siluet Tanaman di Kiri Hero -->
+        <svg class="hero-botanical-svg" viewBox="0 0 120 200" fill="currentColor">
+            <path d="M20 200 C30 140, 50 80, 90 20" stroke="currentColor" stroke-width="2" fill="none"/>
+            <path d="M35 150 C15 135, 10 115, 25 105 C40 115, 45 135, 35 150 Z"/>
+            <path d="M48 120 C70 110, 85 95, 75 80 C55 85, 45 105, 48 120 Z"/>
+            <path d="M60 90 C40 75, 35 55, 50 45 C65 55, 68 75, 60 90 Z"/>
+            <path d="M75 60 C95 50, 108 35, 98 22 C80 28, 72 45, 75 60 Z"/>
+        </svg>
+
+        <div class="hero-content">
+            <div class="section-label">
+                ABOUT <span class="dash-long"></span> <span class="dash-short"></span>
+            </div>
+            <h1 class="hero-title">Department of<br>Business Management</h1>
+            <div class="hero-subtitle">Cultivating ethical leaders for a better world</div>
+            <p class="hero-desc">The Department of Business Management at Tzu Chi University combines solid academic foundation with humanistic values, preparing students to become innovative, responsible, and compassionate professionals in a global society.</p>
+        </div>
+    </section>
+
+    <!-- 3. INTRODUCTION SECTION -->
+    <div class="intro-wrapper">
+        <section class="intro-section">
+            <div class="intro-image-container">
+                <div class="intro-accent-topleft"></div>
+                <div class="intro-image-bg"></div>
+                <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=900&q=85" alt="Students gathering on campus">
+            </div>
+            
+            <div class="intro-text">
+                <div class="section-label">
+                    INTRODUCTION <span class="dash-long"></span> <span class="dash-short"></span>
+                </div>
+                <h2>More Than Business.<br>A Better Tomorrow.</h2>
+                <p>The Department of Business Management focuses on cultivating students with professional knowledge, humanistic values and a global perspective. We aim to develop well-rounded individuals who can create positive social impact through innovative thinking, digital skills, and a commitment to sustainability.</p>
+                
+                <div class="intro-features">
+                    <div class="feature-item">
+                        <i class="fa-solid fa-graduation-cap"></i>
+                        <h4>Solid Academic<br>Foundation</h4>
+                    </div>
+                    <div class="feature-item">
+                        <i class="fa-regular fa-lightbulb"></i>
+                        <h4>Innovative<br>Thinking</h4>
+                    </div>
+                    <div class="feature-item">
+                        <i class="fa-solid fa-user-group"></i>
+                        <h4>Global<br>Perspective</h4>
+                    </div>
+                    <div class="feature-item">
+                        <i class="fa-regular fa-heart"></i>
+                        <h4>Social<br>Responsibility</h4>
+                    </div>
+                </div>
+                
+                <a href="#programs" class="btn-learn">
+                    Learn More <i class="fa-solid fa-arrow-right arrow-up-right"></i>
+                </a>
+            </div>
+        </section>
+    </div>
+
+    <!-- 4. WHY CHOOSE US SECTION -->
+    <section class="why-section">
+        <div class="why-container">
+            <div class="why-text">
+                <div class="section-label">
+                    WHY CHOOSE US <span class="dash-long"></span>
+                </div>
+                <h2>Your Growth,<br>Our Commitment</h2>
+                <p>We provide a supportive learning environment, experienced faculty, and diverse opportunities to help you grow academically, professionally, and personally.</p>
+                
+                <div class="handwritten-wrap">
+                    <div class="handwritten">Learning today,<br>&nbsp;&nbsp;&nbsp;leading tomorrow.</div>
+                    <svg class="handwritten-Check" viewBox="0 0 200 25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+                        <path d="M5 20 Q 95 5 190 12"/>
+                        <path d="M110 14 L 110 20"/>
+                    </svg>
+                </div>
+            </div>
+            
+            <div class="why-cards">
+                <div class="why-card">
+                    <i class="fa-solid fa-book-open"></i>
+                    <div>
+                        <h4>Interdisciplinary<br>Curriculum</h4>
+                        <p>Integrating management, finance, marketing, information systems and more.</p>
+                    </div>
+                </div>
+                <div class="why-card">
+                    <i class="fa-solid fa-globe"></i>
+                    <div>
+                        <h4>International<br>Exposure</h4>
+                        <p>Exchange programs, overseas internships and global partnerships.</p>
+                    </div>
+                </div>
+                <div class="why-card">
+                    <i class="fa-solid fa-people-group"></i>
+                    <div>
+                        <h4>Practical Learning</h4>
+                        <p>Case studies, industry projects, company visits and hands-on experience.</p>
+                    </div>
+                </div>
+                <div class="why-card">
+                    <i class="fa-solid fa-leaf"></i>
+                    <div>
+                        <h4>Humanistic Values</h4>
+                        <p>Service learning and volunteer activities to make a positive impact on society.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 5. ACADEMIC PROGRAMS SECTION -->
+    <section id="programs" class="programs-section">
+        <div class="programs-header">
+            <div>
+                <div class="section-label">
+                    ACADEMIC PROGRAMS <span class="dash-long"></span> <span class="dash-short"></span>
+                </div>
+                <h2>Four Core Learning Fields</h2>
+                <p>We offer a comprehensive curriculum that combines theory with practice, helping students build the skills and knowledge needed for a dynamic future.</p>
+            </div>
+            <a href="#" class="view-all">
+                View All Programs <i class="fa-solid fa-arrow-right arrow-up-right"></i>
+            </a>
+        </div>
+
+        <div class="prog-grid">
+            <div class="prog-card">
+                <div class="prog-img-wrap">
+                    <div class="prog-img" style="background-image: url('https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=600&q=80');"></div>
+                </div>
+                <div class="prog-content">
+                    <div class="prog-title-row">
+                        <i class="fa-solid fa-users-gear"></i>
+                        <h4>Operations Management</h4>
+                    </div>
+                    <p>Improve efficiency and create value through effective operations.</p>
+                    <a href="#">View Courses <i class="fa-solid fa-arrow-right arrow-up-right"></i></a>
+                </div>
+            </div>
+
+            <div class="prog-card">
+                <div class="prog-img-wrap">
+                    <div class="prog-img" style="background-image: url('https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&q=80');"></div>
+                </div>
+                <div class="prog-content">
+                    <div class="prog-title-row">
+                        <i class="fa-solid fa-chart-column"></i>
+                        <h4>Marketing Management</h4>
+                    </div>
+                    <p>Understand consumers and build strong brand strategies.</p>
+                    <a href="#">View Courses <i class="fa-solid fa-arrow-right arrow-up-right"></i></a>
+                </div>
+            </div>
+
+            <div class="prog-card">
+                <div class="prog-img-wrap">
+                    <div class="prog-img" style="background-image: url('https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80');"></div>
+                </div>
+                <div class="prog-content">
+                    <div class="prog-title-row">
+                        <i class="fa-solid fa-database"></i>
+                        <h4>Business Intelligence &<br>Information Management</h4>
+                    </div>
+                    <p>Turn data into insights for smarter decision-making.</p>
+                    <a href="#">View Courses <i class="fa-solid fa-arrow-right arrow-up-right"></i></a>
+                </div>
+            </div>
+
+            <div class="prog-card">
+                <div class="prog-img-wrap">
+                    <div class="prog-img" style="background-image: url('https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=600&q=80');"></div>
+                </div>
+                <div class="prog-content">
+                    <div class="prog-title-row">
+                        <i class="fa-solid fa-coins"></i>
+                        <h4>Financial Management</h4>
+                    </div>
+                    <p>Build financial skills for long-term success.</p>
+                    <a href="#">View Courses <i class="fa-solid fa-arrow-right arrow-up-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 6. JOIN US SECTION -->
+    <section class="join-section">
+        <div class="join-content">
+            <div class="join-label">JOIN US</div>
+            <h2>Be Part of a Meaningful Journey</h2>
+            <p>At Tzu Chi University, we don't just teach business —<br>we nurture people who care, create, and make a difference.</p>
+            <a href="#programs" class="btn-light">
+                Explore Our Programs <i class="fa-solid fa-arrow-right arrow-up-right"></i>
+            </a>
+        </div>
+        <div class="join-handwritten">
+            Better Management<br>&nbsp;&nbsp;&nbsp;&nbsp;A Kinder World
+        </div>
+    </section>
+
+    <!-- ================= INTERNAL JAVASCRIPT ================= -->
+    <script>
+        // Efek Bayangan Navbar saat di-scroll (Sama dengan index.html)
+        window.addEventListener('scroll', function() {
+            const navbar = document.querySelector('.navbar');
+            if (window.scrollY > 40) {
+                navbar.style.boxShadow = '0 6px 20px rgba(18, 48, 39, 0.08)';
+                navbar.style.padding = '12px 5%';
+            } else {
+                navbar.style.boxShadow = '0 1px 0 rgba(0, 0, 0, 0.06)';
+                navbar.style.padding = '16px 5%';
+            }
+        });
+
+    </script>
+    <script src="translations.js"></script>
+    <script>
+        (() => {
+            const toggle = document.querySelector('.nav-toggle');
+            const menu = document.querySelector('#primary-navigation');
+            const icon = toggle.querySelector('i');
+
+            function closeMenu() {
+                toggle.setAttribute('aria-expanded', 'false');
+                toggle.setAttribute('aria-label', 'Open navigation');
+                menu.classList.remove('is-open');
+                icon.classList.replace('fa-xmark', 'fa-bars');
+            }
+
+            toggle.addEventListener('click', () => {
+                const isOpen = toggle.getAttribute('aria-expanded') !== 'true';
+                toggle.setAttribute('aria-expanded', String(isOpen));
+                toggle.setAttribute('aria-label', isOpen ? 'Close navigation' : 'Open navigation');
+                menu.classList.toggle('is-open', isOpen);
+                icon.classList.toggle('fa-bars', !isOpen);
+                icon.classList.toggle('fa-xmark', isOpen);
+            });
+            menu.addEventListener('click', event => {
+                if (event.target.closest('a')) closeMenu();
+            });
+            document.addEventListener('click', event => {
+                if (!event.target.closest('.navbar')) closeMenu();
+            });
+            document.addEventListener('keydown', event => {
+                if (event.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') {
+                    closeMenu();
+                    toggle.focus();
+                }
+            });
+        })();
+    </script>
+</body>
+</html>

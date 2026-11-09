@@ -1,0 +1,56 @@
+{
+  "checked_on": "2026-11-08",
+  "viewport_width": 1363,
+  "checks": {
+    "general_programmes_precede_tokyo_case": true,
+    "japan_story_closed_by_default": true,
+    "two_global_cover_photos_loaded": true,
+    "no_horizontal_overflow": true,
+    "summer_filter_returns_uk": true,
+    "academic_exchange_filter_returns_workshop": true,
+    "internship_filter_returns_taiwan_malaysia_usa_japan": true,
+    "open_journal_link_expands_details": true,
+    "japan_translation_tab_still_works": true,
+    "traditional_chinese_countries_and_source_labels": true,
+    "language_switch_retains_open_story_hash": true,
+    "chinese_global_photo_viewer_next_close": true,
+    "three_item_student_life_navigation": true,
+    "exchange_bookmark_redirect": true,
+    "international_students_chinese_bookmark_redirect": true,
+    "student_projects_bookmark_redirect": true,
+    "life_at_bmd_related_links_fit_two_columns": true
+  },
+  "source_link_checks": [
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-5007.php?Lang=zh-tw",
+      "status": 200,
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw",
+      "status": 200,
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65043,r930.php?Lang=zh-tw",
+      "status": 200,
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65596,r930.php?Lang=zh-tw",
+      "status": 200,
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/126739396.mp4",
+      "status": 206,
+      "type": "video/mp4"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/838246904.mp4",
+      "status": 206,
+      "type": "video/mp4"
+    }
+  ],
+  "verification_limit": "Desktop browser QA; responsive breakpoints reviewed in source, with no unsupported emulation API used."
+}

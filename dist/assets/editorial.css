@@ -1,0 +1,161 @@
+/* Modern Editorial × Green Academia.
+   The existing palette, font families, shell and homepage composition stay intact. */
+.primary-nav>a[aria-current=page],.dropdown a[aria-current=page],.dropdown a.current-parent{color:var(--forest);font-weight:700}
+.primary-nav>a[aria-current=page]{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:8px}
+.nav-group.current-section>summary{color:var(--forest);font-weight:750}
+.nav-group.current-section>summary:before{content:'';display:inline-block;width:4px;height:4px;border-radius:50%;background:#729955;margin-right:6px;vertical-align:middle}
+.dropdown a[aria-current=page],.dropdown a.current-parent{background:#eaf2e1}
+.apply[aria-current=page]{outline:2px solid #9bb786;outline-offset:3px}
+:where(a,button,input,summary,[tabindex]):focus-visible{outline:2px solid #365e3d;outline-offset:4px}
+.dynamic-hero :where(a,button):focus-visible,.home-agenda a:focus-visible{outline-color:#d7eeaa}
+.button,.apply,.text-link,.dropdown a,.icon-btn{transition:background-color .2s ease,color .2s ease,border-color .2s ease}
+.button:hover{transform:none}
+.pathway-card:hover,.pathway-card.revealed:hover{transform:translateY(-2px)}
+.quick-card:hover .quick-symbol{transform:none}
+.interior-page .interior-photo{margin:0}
+.editorial-caption{font:400 11px/1.7 var(--sans);letter-spacing:0;color:#5d7155;margin-top:12px}
+.editorial-caption>span{display:block;font-size:10px;color:#65775b;margin-top:2px}
+.editorial-index{display:block;font:500 11px/1.5 var(--sans);letter-spacing:.025em;color:#5e7751}
+.interior-page .page-hero p{line-height:1.85}
+/* The group photograph stays panoramic so the people remain in the frame. */
+.page-introduction .intro-cover,.page-student-life .page-hero.with-photo{grid-template-columns:.85fr 1.15fr;gap:45px}
+.page-introduction .interior-photo,.page-student-life .interior-photo{padding:0}
+.page-introduction .interior-photo:before,.page-student-life .interior-photo:before{display:none}
+.page-introduction .interior-photo>img,.page-student-life .life-cover .interior-photo>img{height:auto;aspect-ratio:1174/419;border-radius:5px;object-fit:cover}
+.page-introduction .intro-cover h1{font-size:clamp(36px,3.4vw,50px);max-width:480px}
+.intro-story{margin-top:20px;border:0;margin-bottom:12px;grid-template-columns:.85fr 1.15fr}
+.intro-story .prose{max-width:650px}
+.editorial-principles{gap:36px!important}
+.interior-page .editorial-principles .feature{padding:22px 0 0;background:none;border:0;border-top:1px solid #cddbc0;border-radius:0;min-height:0}
+.editorial-principles .editorial-index{margin-bottom:20px}
+.interior-page .editorial-principles h3{font-size:23px;max-width:230px;margin-bottom:12px}
+.interior-page .editorial-principles p{max-width:340px}
+.interior-next{gap:36px;margin-bottom:40px}
+.interior-next>a{background:none;border-bottom:1px solid #cddbc0;border-top:0;border-radius:0;padding:22px 0 25px}
+.interior-next i{right:3px}
+.interior-next span{font-size:11px;text-transform:none;letter-spacing:0;color:#627958}
+/* Student-life photographs form a spread, with captions below the images. */
+.page-student-life .life-gallery{grid-template-columns:1.2fr .8fr;align-items:start;column-gap:48px;row-gap:55px;padding:15px 0 0;background:none;border:0;border-radius:0;margin-top:16px}
+.page-student-life .life-gallery figure{border-radius:0;overflow:visible}
+.page-student-life .life-gallery figure:first-child{grid-column:1;grid-row:auto}
+.page-student-life .life-gallery figure:nth-child(2){grid-column:2;margin-top:70px}
+.page-student-life .life-gallery .gallery-open{height:auto;border-radius:4px;background:#e4ecdc}
+.page-student-life .life-gallery img,.page-student-life .life-gallery figure:first-child img{width:100%;height:auto;min-height:0;aspect-ratio:16/10;object-fit:cover;border-radius:4px}
+.page-student-life .life-gallery figure:nth-child(2) img{aspect-ratio:4/3}
+.page-student-life .life-gallery figcaption{position:static;max-width:none;border-radius:0;padding:22px 0 0;background:none;color:inherit;pointer-events:auto}
+.page-student-life .life-gallery figcaption h2{font-size:29px;line-height:1.25;letter-spacing:-.8px;margin:10px 0 12px}
+.page-student-life .life-gallery figcaption p{font-size:14px;line-height:1.85;max-width:520px;color:#5e7357}
+.page-student-life .life-gallery figure:last-child{grid-column:1/-1;display:grid;grid-template-columns:1fr 1fr;gap:0;background:#edf3e7;align-items:center}
+.page-student-life .life-gallery figure:last-child img{aspect-ratio:16/10}
+.page-student-life .life-gallery figure:last-child figcaption{padding:32px 40px}
+.page-student-life .life-gallery .gallery-open:hover img{transform:scale(1.02)}
+.photo-archive-note{font-size:11px;line-height:1.8;color:#62765a;padding-top:18px}
+.editorial-link-list{grid-template-columns:1fr!important;gap:0!important}
+.interior-page .editorial-link-list .feature{display:grid;grid-template-columns:.85fr 1.15fr auto;align-items:baseline;gap:35px;border:0;border-top:1px solid #d7e1cd;border-radius:0;background:none;padding:24px 0;overflow:visible}
+.interior-page .editorial-link-list .feature h3{font-size:21px;margin:0}
+.interior-page .editorial-link-list .feature p{font-size:13px;margin:0;max-width:440px}
+.interior-page .editorial-link-list .feature .text-link{font-size:12px;white-space:nowrap}
+/* International accounts use two columns and a quieter, full-width campus note. */
+.page-exchange .page-hero.with-photo{grid-template-columns:.85fr 1.15fr;align-items:center;gap:50px}
+.page-exchange .interior-photo{padding:0}
+.page-exchange .interior-photo:before{display:none}
+.page-exchange .interior-photo>img{height:auto;aspect-ratio:1200/716;border-radius:5px}
+.page-exchange .page-hero h1{max-width:400px}
+.published-experiences{padding:36px 0 24px}
+.published-experiences>h2{font-size:32px;max-width:600px;margin-bottom:15px}
+.published-experiences>p{font-size:14px;max-width:700px;margin-bottom:35px}
+.experience-grid{grid-template-columns:1.1fr 1fr;column-gap:65px;row-gap:38px}
+.experience-card{background:none;border-top:1px solid #cbdabd;border-radius:0;padding:24px 0 0;min-width:0}
+.experience-card>span{font-size:11px;color:#5d7651;margin-bottom:19px}
+.experience-card>h3{font-size:32px;max-width:390px;line-height:1.2;letter-spacing:-1px;margin-bottom:16px}
+.experience-card>p{font-size:14px;line-height:1.85;max-width:430px;margin-bottom:20px}
+.experience-card .text-link{font-size:12px;margin-top:0}
+.experience-card:last-child{grid-column:1/-1;display:grid;grid-template-columns:.85fr 1.15fr;column-gap:50px;row-gap:0;padding:28px 30px;background:#edf3e7;border-top:0}
+.experience-card:last-child>span{grid-column:1;grid-row:1;font-size:11px;margin-bottom:12px}
+.experience-card:last-child>h3{grid-column:1;grid-row:2/4;font-size:25px;max-width:300px;margin:0}
+.experience-card:last-child>p{grid-column:2;grid-row:1/3;margin-bottom:18px}
+.experience-card:last-child>a{grid-column:2;grid-row:3;justify-self:start}
+.page-exchange>.split{padding-top:30px!important;border-top:1px solid #d9e3d0;margin-top:25px}
+.page-exchange>.split h2{font-size:24px}
+/* Projects show the actual café image beside the curriculum context. */
+.project-notes{gap:30px!important}
+.interior-page .project-notes .feature{background:none;border:0;border-radius:0;padding:0;overflow:visible}
+.project-photo{margin:0 0 25px}
+.project-photo img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:4px}
+.project-notes h2{font-size:31px;line-height:1.25;letter-spacing:-.8px;margin-bottom:15px}
+.project-notes .feature:last-child{border-top:1px solid #cbdabd;padding-top:25px}
+.project-notes p{font-size:14px!important}
+.page-outcomes .resource-link{margin-bottom:25px}
+.page-academics .feature-grid .feature{border:0;border-top:1px solid #cbdabd;border-radius:0;background:none;padding:24px 0}
+.page-academics .feature-grid{gap:35px}
+/* More legible small text, without changing the established type system. */
+.crumbs,.interior-page .crumbs{font-size:11px}
+.interior-page .resource-link small{font-size:11px}
+.directory-count,.resource-count{font-size:12px}
+.story-category span,.carousel-caption{font-size:11px}
+.calendar-status{font-size:11px}
+.story-slide h3 a:hover,.news-card h3 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
+@media(max-width:1000px){
+  .page-introduction .intro-cover,.page-student-life .page-hero.with-photo,.page-exchange .page-hero.with-photo{gap:30px}
+  .page-student-life .life-gallery{column-gap:30px;row-gap:36px}
+  .page-student-life .life-gallery figure:nth-child(2){margin-top:40px}
+  .page-student-life .life-gallery figure:last-child figcaption{padding:25px}
+  .editorial-link-list .feature{column-gap:25px!important}
+  .experience-grid{column-gap:35px}
+  .experience-card>h3{font-size:28px}
+}
+@media(max-width:650px){
+  .interior-page .page-hero p{font-size:14px;line-height:1.8}
+  .page-introduction .intro-cover,.page-student-life .page-hero.with-photo,.page-exchange .page-hero.with-photo{grid-template-columns:1fr;gap:25px}
+  .page-introduction .intro-cover h1{font-size:36px}
+  .interior-page .editorial-caption{font-size:11px;line-height:1.7;margin-top:10px}
+  .interior-page .editorial-caption>span{font-size:10px}
+  .page-introduction .interior-photo,.page-student-life .interior-photo,.page-exchange .interior-photo{grid-column:1;grid-row:auto}
+  .intro-story{margin-top:0;padding-top:10px!important;gap:22px;grid-template-columns:1fr}
+  .editorial-principles{gap:27px!important}
+  .editorial-principles .editorial-index{margin-bottom:12px}
+  .interior-page .editorial-principles p{font-size:14px}
+  .interior-next{grid-template-columns:1fr;gap:0;margin-top:0}
+  .interior-next>a{padding:22px 0}
+  .interior-next b{font-size:24px}
+  .page-student-life .life-gallery{grid-template-columns:1fr;gap:32px;margin-top:0;padding-top:0}
+  .page-student-life .life-gallery figure:first-child,.page-student-life .life-gallery figure:nth-child(2){grid-column:1;margin-top:0}
+  .page-student-life .life-gallery figure:nth-child(2){width:88%;justify-self:end}
+  .page-student-life .life-gallery figcaption{padding-top:17px}
+  .page-student-life .life-gallery figcaption h2{font-size:26px;margin:9px 0 10px}
+  .page-student-life .life-gallery figcaption p{font-size:14px}
+  .page-student-life .life-gallery figure:last-child{display:block}
+  .page-student-life .life-gallery figure:last-child figcaption{padding:22px}
+  .photo-archive-note{padding-top:15px;font-size:11px}
+  .interior-page .editorial-link-list .feature{grid-template-columns:1fr;gap:10px;padding:22px 0}
+  .interior-page .editorial-link-list .feature p{font-size:14px}
+  .interior-page .editorial-link-list .feature .text-link{margin-top:3px;min-height:34px;align-items:center}
+  .published-experiences{padding-top:20px}
+  .published-experiences>h2{font-size:28px}
+  .published-experiences>p{font-size:14px;margin-bottom:25px}
+  .experience-grid{grid-template-columns:1fr;gap:30px}
+  .experience-card>h3{font-size:29px;max-width:300px}
+  .experience-card:last-child{display:flex;grid-column:1;padding:23px;gap:0}
+  .experience-card:last-child>span{margin-bottom:14px}
+  .experience-card:last-child>h3{font-size:25px;margin-bottom:15px}
+  .experience-card:last-child>p{margin-bottom:18px}
+  .page-exchange>.split{gap:18px}
+  .interior-page .resource-link small{font-size:11px}
+  .interior-page .resource-link b{font-size:13px}
+  .interior-page .feature p,.interior-page .lead p,.interior-page .prose p{font-size:14px;line-height:1.85}
+  .calendar-status{font-size:11px}
+  .crumbs,.interior-page .crumbs{font-size:10px}
+  .story-category span{font-size:11px}
+  .carousel-caption{font-size:10px}
+  .section-switcher a{font-size:11px}
+}
+@media(prefers-reduced-motion:reduce){
+  .button,.apply,.text-link,.dropdown a,.icon-btn{transition:none}
+  .pathway-card:hover,.pathway-card.revealed:hover,.quick-card:hover .quick-symbol,.life-gallery .gallery-open:hover img{transform:none!important}
+}
+
+/* One Admissions link serves both desktop and the expanded mobile navigation. */
+.primary-nav>.nav-apply{color:#fff;padding:11px 19px;white-space:nowrap}
+.primary-nav>.nav-apply:hover{color:#fff;background:#315a3d}
+@media(max-width:900px){.primary-nav>.nav-apply{display:inline-flex;margin:15px 0 5px;padding:12px 20px;min-height:44px}.nav-group>summary{min-height:44px}}
+@media(min-width:901px) and (max-width:1100px){.header-inner{gap:12px}.primary-nav{gap:12px}.primary-nav>.nav-apply{padding:10px 13px;font-size:11px}}

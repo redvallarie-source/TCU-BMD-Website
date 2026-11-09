@@ -1,0 +1,44 @@
+{
+  "https://mdm.tcu.edu.tw/var/file/21/1021/img/167531216.pdf": {
+    "asset": "assets/document-previews/curriculum-526ebb1867c9.pdf",
+    "pages": 2,
+    "bytes": 124325,
+    "sha256": "a6a9b11308eaa9e8728dbe485e518870531084c24f5a679e890d16dd7f425151",
+    "retrieved_on": "2026-11-01"
+  },
+  "https://mdm.tcu.edu.tw/var/file/21/1021/img/359553577.pdf": {
+    "asset": "assets/document-previews/curriculum-5353c3f0185b.pdf",
+    "pages": 2,
+    "bytes": 383158,
+    "sha256": "448ac18b5302a01aabbc1f50b5709bf918a925cf79ec84dc86d2e9e31144fbda",
+    "retrieved_on": "2026-11-01"
+  },
+  "https://mdm.tcu.edu.tw/var/file/21/1021/img/371317531.pdf": {
+    "asset": "assets/document-previews/curriculum-8277deca7ba0.pdf",
+    "pages": 1,
+    "bytes": 223857,
+    "sha256": "e2d916208ca39df624e7002080a8d4326640953940cac78d0c6911259abb2856",
+    "retrieved_on": "2026-11-01"
+  },
+  "https://mdm.tcu.edu.tw/var/file/21/1021/img/491243102.pdf": {
+    "asset": "assets/document-previews/curriculum-4a0c403347a8.pdf",
+    "pages": 1,
+    "bytes": 320647,
+    "sha256": "6bc7dda3747e711f6d6f2a0373bff16c881fc2f6ae55154d6d8442961d1a05db",
+    "retrieved_on": "2026-11-01"
+  },
+  "https://mdm.tcu.edu.tw/var/file/21/1021/img/586078233.pdf": {
+    "asset": "assets/document-previews/curriculum-06be13d26506.pdf",
+    "pages": 2,
+    "bytes": 346381,
+    "sha256": "3a839d132827e65fe34d739e9010f0619ae28a1103ca529d86efc5644811dd16",
+    "retrieved_on": "2026-11-01"
+  },
+  "https://mdm.tcu.edu.tw/var/file/21/1021/img/645596581.pdf": {
+    "asset": "assets/document-previews/curriculum-3e494563ca41.pdf",
+    "pages": 1,
+    "bytes": 242429,
+    "sha256": "11ffb5ed8de6b8fe2be43fbb26490c75a3c592fedbdc51f17c95e4cb73ab962c",
+    "retrieved_on": "2026-11-01"
+  }
+}

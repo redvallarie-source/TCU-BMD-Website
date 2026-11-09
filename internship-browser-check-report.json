@@ -1,0 +1,18 @@
+{
+  "checked_on": "2026-11-08",
+  "preview_url": "http://terminal.local:4173/internships.html",
+  "viewport_width": 1363,
+  "checks": {
+    "all_six_photos_loaded": true,
+    "no_horizontal_overflow_en_and_zh": true,
+    "work_tabs_click": true,
+    "work_tabs_keyboard_end": true,
+    "traditional_chinese_work_content": true,
+    "language_switch_preserves_section": true,
+    "photo_gallery_open_next_close_and_focus_return_zh": true,
+    "document_search_zh_individual_learning_plan_returns_docx_and_pdf": true,
+    "original_document_counter_12_of_32": true,
+    "pause_control_pauses_background_and_progress_dot": true
+  },
+  "verification_limit": "Responsive breakpoints reviewed in source; no supported viewport emulation API used."
+}

@@ -1,0 +1,124 @@
+{
+  "viewports": [
+    {
+      "overflow": false,
+      "page": "/index.html",
+      "viewport": 390,
+      "width": 375
+    },
+    {
+      "overflow": false,
+      "page": "/requirements.html",
+      "viewport": 390,
+      "width": 375
+    },
+    {
+      "overflow": false,
+      "page": "/admissions.html",
+      "viewport": 390,
+      "width": 375
+    },
+    {
+      "overflow": false,
+      "page": "/events.html",
+      "viewport": 390,
+      "width": 389
+    },
+    {
+      "overflow": false,
+      "page": "/zh-requirements.html",
+      "viewport": 390,
+      "width": 375
+    },
+    {
+      "overflow": false,
+      "page": "/index.html",
+      "viewport": 768,
+      "width": 753
+    },
+    {
+      "overflow": false,
+      "page": "/requirements.html",
+      "viewport": 768,
+      "width": 753
+    },
+    {
+      "overflow": false,
+      "page": "/admissions.html",
+      "viewport": 768,
+      "width": 753
+    },
+    {
+      "overflow": false,
+      "page": "/events.html",
+      "viewport": 768,
+      "width": 753
+    },
+    {
+      "overflow": false,
+      "page": "/zh-requirements.html",
+      "viewport": 768,
+      "width": 753
+    },
+    {
+      "overflow": false,
+      "page": "/index.html",
+      "viewport": 1440,
+      "width": 1425
+    },
+    {
+      "overflow": false,
+      "page": "/requirements.html",
+      "viewport": 1440,
+      "width": 1425
+    },
+    {
+      "overflow": false,
+      "page": "/admissions.html",
+      "viewport": 1440,
+      "width": 1425
+    },
+    {
+      "overflow": false,
+      "page": "/events.html",
+      "viewport": 1440,
+      "width": 1425
+    },
+    {
+      "overflow": false,
+      "page": "/zh-requirements.html",
+      "viewport": 1440,
+      "width": 1425
+    }
+  ],
+  "additional_mobile_width": 360,
+  "certificate_search_english": "Google: 2 results",
+  "certificate_search_mandarin": "行銷: 10 results",
+  "combined_filter_empty_state": "Google and 10 points: 0 results",
+  "keyboard_escape": "Mobile menu closed, focus returned to toggle",
+  "calendar": "Upcoming dates precede completed; selecting November 2 shows Completed",
+  "calendar_mobile_fix": "Calendar right edge 337.64px within 375.20px document",
+  "retained_features": [
+    "Global search returns Certificate requirements",
+    "Operations Management photo story opens and closes",
+    "Hero pause control toggles"
+  ],
+  "limitations": [
+    "Browser viewport tests, not physical devices",
+    "YouTube playback and historical external links not re-certified"
+  ],
+  "campus_photo_replacements": {
+    "new_photos": 5,
+    "new_pages": 0,
+    "new_web_image_files": 0,
+    "checked": [
+      "English Life at BMD cover",
+      "Culinary Management photo dialog",
+      "Creative practice flower/tea dialog",
+      "Final project retains canonical workshop photo",
+      "Mandarin Life at BMD at 390px",
+      "Mandarin flower/tea dialog at 390px"
+    ],
+    "duplicates": "One editorial unit per owner-selected photograph, including story JSON"
+  }
+}

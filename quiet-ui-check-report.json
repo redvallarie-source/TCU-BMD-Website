@@ -1,0 +1,45 @@
+{
+  "pages": 159,
+  "errors": [],
+  "diagonal_markers_removed": 1072,
+  "sample_marker_counts": {
+    "index.html": {
+      "before": 33,
+      "after": 0
+    },
+    "faculty.html": {
+      "before": 39,
+      "after": 0
+    },
+    "student-life.html": {
+      "before": 7,
+      "after": 0
+    },
+    "resources.html": {
+      "before": 69,
+      "after": 0
+    }
+  },
+  "source_pages_preserved": 85,
+  "links_and_buttons": "exact same sequence/count",
+  "interactive_json_data": "unchanged",
+  "homepage_section_order": "unchanged",
+  "public_legacy_exclusion_scan": "passed",
+  "browser_checks": [
+    "desktop home academic index",
+    "375px home and six interior page widths",
+    "753px home width",
+    "mobile navigation and Admissions route",
+    "resource search and local PDF preview",
+    "CSS document arrow markers removed",
+    "photo gallery next/close",
+    "hero credit stays free of diagonal markers after photo change",
+    "word/photo scene selection and pause",
+    "learning card opens Culinary Management tab",
+    "no app console errors"
+  ],
+  "references": [
+    "https://www.hbs.edu/",
+    "https://www.sbs.ox.ac.uk/"
+  ]
+}

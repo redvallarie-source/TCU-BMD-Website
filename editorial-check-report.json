@@ -1,0 +1,40 @@
+{
+  "html_pages": 159,
+  "errors": [],
+  "unique_external_links": 217,
+  "external_responses": {
+    "unverified": 44,
+    "200": 120,
+    "206": 52,
+    "202": 1
+  },
+  "homepage_section_order_preserved": true,
+  "excluded_record_scan": "passed",
+  "navigation_duplicates": 0,
+  "responsive_viewports_checked": [
+    360,
+    753,
+    915,
+    1009,
+    1333
+  ],
+  "small_caption_contrast_ratios": [
+    5.04,
+    4.68,
+    4.57,
+    4.77
+  ],
+  "browser_checks": [
+    "phone navigation and single Admissions route",
+    "phone widths on all primary pages",
+    "tablet widths on six refined/resource pages",
+    "narrow desktop header overflow corrected",
+    "student gallery next, close and restored focus",
+    "corrected student-presentation image attribution",
+    "learning deep links and active tabs",
+    "Taiwan November calendar and date-boundary checks",
+    "global search for Liyu and password exclusion",
+    "resource filtering and PDF preview dialog"
+  ],
+  "verification_limit": "44 original external URLs did not return a verifiable successful response in this environment; retained without guessing replacement destinations."
+}

@@ -1,0 +1,1215 @@
+{
+  "checked_on": "2026-11-01",
+  "method": "HEAD; GET range when HEAD is rejected (403/405). A rejected HEAD is not classified as a broken link.",
+  "status_counts": {
+    "unverified": 44,
+    "200": 120,
+    "206": 52,
+    "202": 1
+  },
+  "results": [
+    {
+      "url": "http://alphastockimages.com/",
+      "status": "unverified",
+      "reason": "TimeoutError"
+    },
+    {
+      "url": "http://mdm.tcust.edu.tw/files/15-1019-44230,c64-1.php",
+      "status": "unverified",
+      "reason": "TimeoutError"
+    },
+    {
+      "url": "http://www.jingsi.com.tw/",
+      "status": "unverified",
+      "reason": "TimeoutError"
+    },
+    {
+      "url": "http://www.nyphotographic.com/",
+      "status": "unverified",
+      "reason": "TimeoutError"
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E4%B8%AD%E6%AD%A2%E5%8F%8A%E8%BD%89%E4%BB%8B%E5%AF%A6%E7%BF%92%E7%94%B3%E8%AB%8B%E6%9B%B81131202-1.docx",
+      "status": "unverified",
+      "reason": "URLError"
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E4%B8%AD%E6%AD%A2%E5%8F%8A%E8%BD%89%E4%BB%8B%E5%AF%A6%E7%BF%92%E7%94%B3%E8%AB%8B%E6%9B%B81131202.pdf",
+      "status": 200
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E5%90%88%E4%BD%9C%E5%96%AE%E4%BD%8D%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99%E8%A1%A811131202.docx",
+      "status": 200
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E5%90%88%E4%BD%9C%E5%96%AE%E4%BD%8D%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99%E8%A1%A811131202.pdf",
+      "status": 200
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E6%A9%9F%E6%A7%8B%E8%A9%95%E4%BC%B0%E8%A1%A81131202.docx",
+      "status": 200
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E6%A9%9F%E6%A7%8B%E8%A9%95%E4%BC%B0%E8%A1%A8odt1131202.pdf",
+      "status": 200
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E6%A9%9F%E6%A7%8B%E8%BF%BD%E8%B9%A4%E8%A9%95%E4%BC%B0%E8%A1%A81131202.docx",
+      "status": "unverified",
+      "reason": "URLError"
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E5%AF%A6%E7%BF%92%E6%A9%9F%E6%A7%8B%E8%BF%BD%E8%B9%A4%E8%A9%95%E4%BC%B0%E8%A1%A81131202.pdf",
+      "status": "unverified",
+      "reason": "URLError"
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E6%85%88%E6%BF%9F%E5%A4%A7%E5%AD%B8%E5%AF%A6%E7%BF%92%E4%B8%89%E6%96%B9%E5%90%88%E7%B4%84%E5%AD%B8%E7%BF%92%E5%9E%8B%E5%85%AC%E7%89%88%E6%B3%95%E5%8B%99%E5%85%AC%E5%91%8A%E7%89%881131206.docx",
+      "status": "unverified",
+      "reason": "URLError"
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E6%85%88%E6%BF%9F%E5%A4%A7%E5%AD%B8%E5%AF%A6%E7%BF%92%E4%B8%89%E6%96%B9%E5%90%88%E7%B4%84%E5%AD%B8%E7%BF%92%E5%9E%8B%E5%85%AC%E7%89%88%E6%B3%95%E5%8B%99%E5%85%AC%E5%91%8A%E7%89%881131206.pdf",
+      "status": "unverified",
+      "reason": "URLError"
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E6%85%88%E6%BF%9F%E5%A4%A7%E5%AD%B8%E5%AF%A6%E7%BF%92%E4%B8%89%E6%96%B9%E5%90%88%E7%B4%84%E9%9B%87%E5%82%AD%E5%9E%8B%E5%85%AC%E7%89%88%E6%B3%95%E5%8B%99%E5%85%AC%E5%91%8A%E7%89%881131206-1.docx",
+      "status": "unverified",
+      "reason": "URLError"
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2024/12/%E6%85%88%E6%BF%9F%E5%A4%A7%E5%AD%B8%E5%AF%A6%E7%BF%92%E4%B8%89%E6%96%B9%E5%90%88%E7%B4%84%E9%9B%87%E5%82%AD%E5%9E%8B%E5%85%AC%E7%89%88%E6%B3%95%E5%8B%99%E5%85%AC%E5%91%8A%E7%89%881131206-1.pdf",
+      "status": 200
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2025/01/%E4%BD%9C%E6%A5%AD%E6%B5%81%E7%A8%8B_%E5%AF%A6%E7%BF%92%E6%A9%9F%E6%A7%8B%E8%A9%95%E4%BC%B0%E6%B5%81%E7%A8%8B.pdf",
+      "status": 200
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2025/09/6.4.2025-AE-Student-Internship-Agreement-Employment-Based-COMPLETED20250607.docx",
+      "status": 200
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2025/09/6.4.2025-AE-Student-Internship-Agreement-Employment-Based-COMPLETED20250607.pdf",
+      "status": 200
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2025/09/6.4.2025-AN-Student-Internship-Agreement-Non-Employment-Based-COMPLETED20250607.docx",
+      "status": 200
+    },
+    {
+      "url": "https://academic.tcu.edu.tw/wp-content/uploads/2025/09/6.4.2025-AN-Student-Internship-Agreement-Non-Employment-Based-COMPLETED20250607.pdf",
+      "status": 200
+    },
+    {
+      "url": "https://admissions.tcu.edu.tw/",
+      "status": 200
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "status": 200
+    },
+    {
+      "url": "https://edurp.tcu.edu.tw/CLM/CLM_detail_coll.aspx?a=115&b=TCU&c=USMDM&d=CM&e=N&f=2",
+      "status": 200
+    },
+    {
+      "url": "https://finance.tcu.edu.tw/?page_id=974",
+      "status": 200
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/index.php",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/index.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/16-1021-44230.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/16-1021-44331.php?Lang=zh-tw",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/16-1021-44332.php?Lang=zh-tw",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/16-1021-59280.php?Lang=zh-tw",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/16-1021-64695.php?Lang=zh-tw",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/16-1021-65601.php?Lang=zh-tw",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/403-1021-1-1.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/403-1021-1-2.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/403-1021-1045-1.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/403-1021-1065-1.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/403-1021-914-1.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/404-1021-64695.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-44230,c64.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-44331,c64.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-44332,c64.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-44332,c64.php?Lang=zh-tw#A",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-44332,c64.php?Lang=zh-tw#B",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-56215,c16.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-59280,c63.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-60261,c16.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-64481,c16.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-64695,c4966.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-65426,c16.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-65601,c3692.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/405-1021-65980,c16.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-15622,r1.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-15635,r1.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-15707,r1.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-58487,r914.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-64534,r1.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-64534,r1.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-64554,r1.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-64571,r1.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-64747,r914.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-64748,r914.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65103,r1.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65106,r1.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65107,r1.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65200,r914.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65201,r914.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65210,r914.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65211,r914.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65212,r914.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65213,r914.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65219,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65248,r1.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65256,r1.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65263,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65264,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65265,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65274,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65275,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65276,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65277,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65278,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65279,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65280,r1045.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65281,r1065.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65282,r1045.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65283,r1045.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65284,r1045.php?Lang=en",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65285,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65286,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65287,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65288,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65289,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65290,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65291,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65292,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65293,r1045.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65682,r1.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-65969,r930.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-66038,r930.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-66264,r930.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-66278,r930.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-66281,r930.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-66301,r930.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-66310,r930.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/406-1021-66314,r930.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-16.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-2.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-2521.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-4505.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-4966.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-5007.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-5027.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-62.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-63.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-64.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-64.php?Lang=zh-tw",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/412-1021-66.php?Lang=en",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/p/kamontip.loha@gmail.com",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/103079907.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/104880815.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1494/681349455.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/129799839.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/152743018.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/153827927.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/17602079.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/343604918.mp4",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/385837628.mp4",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/468033791.mp4",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/578588702.pdf",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/602550391.mp4",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/620666511.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/629889789.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/771881984.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/811268498.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/871719916.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/921222929.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/Admission-Handbook-2019-Jan.docx.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/ApplicationformofTCUST.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/DownloadButton1.jpg",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/DownloadButton2.jpg",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1510/Marketing-and-Distribution-Management-Department-for-Agricultural-Business-Division20190219.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/126739396.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1532/838246904.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/153655366.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1539/148197294.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/135708918.mp4",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1564/2022OnlineSeminaronBusinessLearning_Agenda_20220714.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/157713098.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/167531216.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/1834/605213048.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/190825241.pptx",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/220359395.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/222582222.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/295472762.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/333108652.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/359553577.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/371317531.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/397234292.pdf",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/437403378.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/464618332.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/472953454.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/485747469.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/491243102.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/515655105.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/517744877.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/519806427.pdf",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/551810089.pdf",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/554353421.pdf",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/586078233.pdf",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/596109525.pptx",
+      "status": "unverified",
+      "head_status": 403,
+      "reason": "URLError"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/622653375.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/626278355.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/645596581.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/676077551.docx",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/692169161.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/706393444.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/735283403.docx",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/803973551.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/836002241.pptx",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/847086821.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/867350657.pdf",
+      "status": 206,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://sites.google.com/view/sbilab",
+      "status": 200
+    },
+    {
+      "url": "https://tcu.elsevierpure.com/zh/persons/hsuan-ling-feng",
+      "status": 200
+    },
+    {
+      "url": "https://tcu.elsevierpure.com/zh/persons/hwang-yeh-chen",
+      "status": 200
+    },
+    {
+      "url": "https://tcu.elsevierpure.com/zh/persons/i-cheng-hsu",
+      "status": 200
+    },
+    {
+      "url": "https://tcu.elsevierpure.com/zh/persons/kun-tzu-yu",
+      "status": 200
+    },
+    {
+      "url": "https://tcu.elsevierpure.com/zh/persons/mark-kuo",
+      "status": 200
+    },
+    {
+      "url": "https://tcu.elsevierpure.com/zh/persons/sean-hsin-hung-lin",
+      "status": 200
+    },
+    {
+      "url": "https://tcu.elsevierpure.com/zh/persons/wen-chen-lo",
+      "status": 200
+    },
+    {
+      "url": "https://tcublog.tcu.edu.tw/index.php?view=article&id=12184",
+      "status": 200
+    },
+    {
+      "url": "https://tcueng.tcu.edu.tw/",
+      "status": 200
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=67+Jieren+St+Hualien+Taiwan",
+      "status": 200
+    },
+    {
+      "url": "https://www.smart-tbk.com/wp-content/uploads/2019/04/Siaran-Pers_Beasiswa-Internasional-Taiwan.pdf",
+      "status": 202
+    },
+    {
+      "url": "https://www.tcnews.com.tw/education/item/25880.html",
+      "status": 200
+    },
+    {
+      "url": "https://www.tcu.edu.tw/p/412-1033-4858.php",
+      "status": 200,
+      "head_status": 403,
+      "method": "GET range"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HRLEraiI_Bc",
+      "status": 200
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MFAANs8xems#t=11m59s",
+      "status": 200
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NpL3Az5RXr8&feature=youtu.be",
+      "status": 200
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NvoRJ9TxaPM&feature=youtu.be",
+      "status": 200
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_IUePzrWFY8&feature=youtu.be",
+      "status": 200
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=f8D5RfvV1bE",
+      "status": 200
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hj2jbK8V-Uk&t=12s",
+      "status": 200
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kStKwiuZUmQ&feature=youtu.be",
+      "status": 200
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mrTlgtR-4Tc&feature=youtu.be",
+      "status": 200
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pKylQ9I6wzU",
+      "status": 200
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=prBAa3_p2SE&feature=youtu.be",
+      "status": 200
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=w4BZwo7l6Ow&feature=youtu.be",
+      "status": 200
+    },
+    {
+      "url": "https://youtu.be/5sXwehttwGM",
+      "status": 200
+    },
+    {
+      "url": "https://youtu.be/5uqIDccO40w",
+      "status": 200
+    },
+    {
+      "url": "https://youtu.be/E9qACUx4WmM",
+      "status": 200
+    },
+    {
+      "url": "https://youtu.be/P-rXQVCNTN4",
+      "status": 200
+    },
+    {
+      "url": "https://youtu.be/e_3mXDAga7M",
+      "status": "unverified",
+      "reason": "URLError"
+    }
+  ]
+}

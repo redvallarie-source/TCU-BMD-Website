@@ -1,0 +1,89 @@
+{
+  "instructions": "Replace each independent image file at the same path and update its captions/alt text in internship-editorial.json. These images are isolated from Home and Life at BMD.",
+  "photos": {
+    "cohort": {
+      "path": "assets/internships/tokyo-cohort.webp",
+      "alt": "Internship students and volunteers together outdoors in Tokyo",
+      "caption": "With the volunteer team · Tokyo internship, 2026",
+      "width": 1600,
+      "height": 1200,
+      "origin": "Participant-provided report, page 3"
+    },
+    "welcome": {
+      "path": "assets/internships/welcome-gathering.webp",
+      "alt": "Students and volunteers smiling together at an internship gathering",
+      "caption": "Time with the volunteers · Tzu Chi Japan, 2026",
+      "width": 1477,
+      "height": 1108,
+      "origin": "Participant-provided report, page 8"
+    },
+    "home": {
+      "path": "assets/internships/community-visit.webp",
+      "alt": "Interns helping clean during a community home visit",
+      "caption": "Practical help on a community visit · 8 July 2026",
+      "width": 1600,
+      "height": 1200,
+      "origin": "Participant-provided report, page 5"
+    },
+    "drill": {
+      "path": "assets/internships/disaster-prevention.webp",
+      "alt": "Students practising with an emergency-exit exhibit during disaster-prevention training",
+      "caption": "Emergency-exit practice · Tokyo internship, 2026",
+      "width": 1200,
+      "height": 900,
+      "source_file": "https://drive.google.com/file/d/1SM7pYgaLzFAsTG-G6PnJRtR625698tiC/view",
+      "source_filename": "LINE_ALBUM_2026713消防館防災體驗_260806_4.jpg",
+      "source_dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "cbf52891e77d51b596a5065c99ae691be10b4c18a6475e1d627c79ebf3a42fff",
+      "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    },
+    "tea": {
+      "path": "assets/internships/tea-culture.webp",
+      "alt": "Students holding tea bowls during a Japanese tea-culture activity",
+      "caption": "Japanese tea activity · Tokyo internship, 2026",
+      "width": 1600,
+      "height": 1200,
+      "source_file": "https://drive.google.com/file/d/1Gs-E2uQ8h1d5qYY3UpvnOv-izNEFU16z/view",
+      "source_filename": "LINE_ALBUM_2026723日本茶道_260806_3.jpg",
+      "source_dimensions": [
+        2048,
+        1536
+      ],
+      "sha256": "dcf01ff7bb958ed61369ebb90d6f7935087bc7f9ef9a17da0d811fccb7e49c28",
+      "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    },
+    "meal": {
+      "path": "assets/internships/meal-preparation.webp",
+      "alt": "Internship students mixing food together in the Tzu Chi Japan kitchen",
+      "caption": "Preparing meals as a team · Tzu Chi Japan, 2026",
+      "width": 1600,
+      "height": 1200,
+      "source_file": "https://drive.google.com/file/d/1141pKiuuehYDsVrn7-ZvJq8_rv8vy2tP/view",
+      "source_filename": "LINE_ALBUM_2026728 大愛便當_260806_9.jpg",
+      "source_dimensions": [
+        2048,
+        1536
+      ],
+      "sha256": "8ae67a28696cffd5185c0a9808aa0a656c38175ee5045c7f86639f5fa15c2707",
+      "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    }
+  },
+  "summary_photo": {
+    "path": "assets/internships/kitchen-team-summary.webp",
+    "alt": "Internship participants and volunteers behind a table of prepared meals",
+    "caption": "With the kitchen team · Tzu Chi Japan, 2026",
+    "width": 1200,
+    "height": 900,
+    "source_file": "https://drive.google.com/file/d/1eiWLWMDyBU4a6ovy0ir7gtNzcuxs2BWe/view",
+    "source_filename": "LINE_ALBUM_2026714大愛食堂_260806_1.jpg",
+    "source_dimensions": [
+      1200,
+      900
+    ],
+    "sha256": "64c2e9b8169869cec702716f9893c51178add49759278e82b9c85ffb56d6752a",
+    "origin": "Participant photo selected from the owner-provided Google Drive folder"
+  }
+}

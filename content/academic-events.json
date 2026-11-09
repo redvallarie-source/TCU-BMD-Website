@@ -1,0 +1,236 @@
+{
+  "range": {
+    "start": "2026-08-01",
+    "end": "2027-07-31",
+    "timeZone": "Asia/Taipei"
+  },
+  "source_pdf": "assets/academic-calendar-2026-2027.pdf",
+  "official_updates": "https://www.tcu.edu.tw/p/412-1033-4858.php",
+  "source_revision": "2026-06-26",
+  "events": [
+    {
+      "start": "2026-08-28",
+      "end": "2026-08-28",
+      "title": "Tuition and fee payments due",
+      "description": "Fall Semester payment deadline.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-09-07",
+      "end": "2026-09-18",
+      "title": "Course add/drop period",
+      "description": "Online course add/drop period, including written applications.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-09-07",
+      "end": "2026-09-07",
+      "title": "First semester classes begin",
+      "description": "First day of Fall Semester classes.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-09-25",
+      "end": "2026-09-25",
+      "title": "Mid-Autumn Festival",
+      "description": "University holiday.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-09-28",
+      "end": "2026-09-28",
+      "title": "Teachers’ Day",
+      "description": "University holiday.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-10-09",
+      "end": "2026-10-10",
+      "title": "National Day holiday",
+      "description": "Day off for National Day observance and university holiday.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-10-16",
+      "end": "2026-10-16",
+      "title": "One-third of the semester completed",
+      "description": "First-semester academic milestone.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-10-21",
+      "end": "2026-10-21",
+      "title": "Tzu Cheng & Yi Te Homecoming Gathering",
+      "description": "Gathering for students in programmes other than four-year undergraduate and graduate programmes at Jianguo Campus.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-10-25",
+      "end": "2026-10-26",
+      "title": "University holiday: Taiwan Commemoration Day",
+      "description": "October 26 is the day off for holiday observance.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-10-30",
+      "end": "2026-10-30",
+      "title": "Tzu Cheng & Yi Te gathering",
+      "description": "Gathering for four-year undergraduate students at the Central, Jieren, and Jianguo campuses.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-11-02",
+      "end": "2026-11-06",
+      "title": "Midterm examination week",
+      "description": "First-semester midterm exams.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-11-09",
+      "end": "2026-11-15",
+      "title": "Midterm course evaluation",
+      "description": "Complete the first course evaluation form online.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-11-12",
+      "end": "2026-11-15",
+      "title": "Tzu Chi 60th Anniversary Sutra Adaptation",
+      "description": "University anniversary event listed in the academic calendar.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "title": "University Sports Day",
+      "description": "No classes.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "title": "Two-thirds of the semester completed",
+      "description": "First-semester academic milestone.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-12-25",
+      "end": "2026-12-25",
+      "title": "Constitution Day",
+      "description": "University holiday.",
+      "source_page": 1
+    },
+    {
+      "start": "2026-12-30",
+      "end": "2027-01-03",
+      "title": "Spring course pre-registration",
+      "description": "Online course pre-registration for Spring Semester 2027.",
+      "source_page": 1
+    },
+    {
+      "start": "2027-01-04",
+      "end": "2027-01-08",
+      "title": "Final examination week",
+      "description": "First-semester final exams.",
+      "source_page": 1
+    },
+    {
+      "start": "2027-01-11",
+      "end": "2027-01-11",
+      "title": "Winter break begins",
+      "description": "First semester ends on January 31.",
+      "source_page": 1
+    },
+    {
+      "start": "2027-01-31",
+      "end": "2027-01-31",
+      "title": "Fall semester ends",
+      "description": "End of the first semester.",
+      "source_page": 1
+    },
+    {
+      "start": "2027-02-22",
+      "end": "2027-02-22",
+      "title": "Second semester begins",
+      "description": "First day of classes.",
+      "source_page": 2
+    },
+    {
+      "start": "2027-02-28",
+      "end": "2027-02-28",
+      "title": "Peace Memorial Day",
+      "description": "University holiday.",
+      "source_page": 2
+    },
+    {
+      "start": "2027-03-01",
+      "end": "2027-03-01",
+      "title": "Peace Memorial Day observance",
+      "description": "Day off for observance of the February 28 holiday.",
+      "source_page": 2
+    },
+    {
+      "start": "2027-03-08",
+      "end": "2027-03-12",
+      "title": "Late course add period",
+      "description": "Paper applications for late course additions.",
+      "source_page": 2
+    },
+    {
+      "start": "2027-04-19",
+      "end": "2027-04-23",
+      "title": "Midterm examination week",
+      "description": "Second-semester midterm exams.",
+      "source_page": 2
+    },
+    {
+      "start": "2027-04-30",
+      "end": "2027-04-30",
+      "title": "Labor Day observance",
+      "description": "Day off for observance of the May 1 holiday.",
+      "source_page": 2
+    },
+    {
+      "start": "2027-05-01",
+      "end": "2027-05-01",
+      "title": "Labor Day",
+      "description": "University holiday.",
+      "source_page": 2
+    },
+    {
+      "start": "2027-06-09",
+      "end": "2027-06-09",
+      "title": "Dragon Boat Festival",
+      "description": "University holiday.",
+      "source_page": 2
+    },
+    {
+      "start": "2027-06-12",
+      "end": "2027-06-12",
+      "title": "Commencement ceremony",
+      "description": "University graduation ceremony.",
+      "source_page": 2
+    },
+    {
+      "start": "2027-06-21",
+      "end": "2027-06-25",
+      "title": "Final examination week",
+      "description": "Second-semester final exams.",
+      "source_page": 2
+    },
+    {
+      "start": "2027-06-28",
+      "end": "2027-06-28",
+      "title": "Summer break begins",
+      "description": "First day of Summer Break.",
+      "source_page": 2
+    },
+    {
+      "start": "2027-07-31",
+      "end": "2027-07-31",
+      "title": "Spring semester ends",
+      "description": "End of the second semester; graduation clearance deadline for non-graduate programmes.",
+      "source_page": 2
+    }
+  ]
+}

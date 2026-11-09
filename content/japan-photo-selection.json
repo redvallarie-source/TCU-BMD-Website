@@ -1,0 +1,222 @@
+{
+  "source_folder": "https://drive.google.com/drive/folders/1Iuys6D9QVSl4sAdf8109YLcLqPhRNcU9",
+  "selection": "Seven participant photographs selected for distinct scenes. Each has one editorial placement; enlarged viewers reuse that placement. The Tokyo cover photograph remains unchanged.",
+  "photos": {
+    "life-prep": {
+      "path": "assets/life/japan-preparation.webp",
+      "alt": "Internship students arranging portions of food into meal trays",
+      "caption": "Packing meals together · Japan internship, 2026",
+      "width": 1600,
+      "height": 1200,
+      "source_file": "https://drive.google.com/file/d/13vDbBfxerziZgQPm8BJ2cVYtwetx0s-6/view",
+      "source_filename": "LINE_ALBUM_2026728 大愛便當_260806_1.jpg",
+      "source_dimensions": [
+        2048,
+        1536
+      ],
+      "sha256": "22ee96b85c54fc7fbceb5b6ff6f547e677365d1f20d097baf6171c0813ec0e2c",
+      "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    },
+    "programme": {
+      "path": "assets/internships/meal-trays-programme.webp",
+      "alt": "An internship participant portioning food into meal trays in Japan",
+      "caption": "Preparing meal trays · Japan internship, 2026",
+      "width": 1600,
+      "height": 1200,
+      "source_file": "https://drive.google.com/file/d/1qOQNK_GH-UNThvkqLL0i916nQ3UlKT58/view",
+      "source_filename": "LINE_ALBUM_2026728 大愛便當_260806_4.jpg",
+      "source_dimensions": [
+        2048,
+        1536
+      ],
+      "sha256": "9676c5e6a187b423f2666065d82d82a06708c40ffc0e348baaf6ae2c1469acf4",
+      "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    },
+    "meal": {
+      "path": "assets/internships/meal-preparation.webp",
+      "alt": "Internship students mixing food together in the Tzu Chi Japan kitchen",
+      "caption": "Preparing meals as a team · Tzu Chi Japan, 2026",
+      "width": 1600,
+      "height": 1200,
+      "source_file": "https://drive.google.com/file/d/1141pKiuuehYDsVrn7-ZvJq8_rv8vy2tP/view",
+      "source_filename": "LINE_ALBUM_2026728 大愛便當_260806_9.jpg",
+      "source_dimensions": [
+        2048,
+        1536
+      ],
+      "sha256": "8ae67a28696cffd5185c0a9808aa0a656c38175ee5045c7f86639f5fa15c2707",
+      "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    },
+    "life-main": {
+      "path": "assets/life/japan-service.webp",
+      "alt": "Internship participants in a team briefing at Tzu Chi Japan",
+      "caption": "Team briefing · Japan internship, 2026",
+      "width": 1477,
+      "height": 1108,
+      "source_file": "https://drive.google.com/file/d/1eOupV9foE8fgp7RvyPcOLr303pKimVIy/view",
+      "source_filename": "LINE_ALBUM_2026720代代木公園發放熱食_260806_1.jpg",
+      "source_dimensions": [
+        1477,
+        1108
+      ],
+      "sha256": "efe17b4ffbc851f964d52f0040dad81a4e03db71d992c562e33476e543af3a27",
+      "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    },
+    "tea": {
+      "path": "assets/internships/tea-culture.webp",
+      "alt": "Students holding tea bowls during a Japanese tea-culture activity",
+      "caption": "Japanese tea activity · Tokyo internship, 2026",
+      "width": 1600,
+      "height": 1200,
+      "source_file": "https://drive.google.com/file/d/1Gs-E2uQ8h1d5qYY3UpvnOv-izNEFU16z/view",
+      "source_filename": "LINE_ALBUM_2026723日本茶道_260806_3.jpg",
+      "source_dimensions": [
+        2048,
+        1536
+      ],
+      "sha256": "dcf01ff7bb958ed61369ebb90d6f7935087bc7f9ef9a17da0d811fccb7e49c28",
+      "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    },
+    "drill": {
+      "path": "assets/internships/disaster-prevention.webp",
+      "alt": "Students practising with an emergency-exit exhibit during disaster-prevention training",
+      "caption": "Emergency-exit practice · Tokyo internship, 2026",
+      "width": 1200,
+      "height": 900,
+      "source_file": "https://drive.google.com/file/d/1SM7pYgaLzFAsTG-G6PnJRtR625698tiC/view",
+      "source_filename": "LINE_ALBUM_2026713消防館防災體驗_260806_4.jpg",
+      "source_dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "cbf52891e77d51b596a5065c99ae691be10b4c18a6475e1d627c79ebf3a42fff",
+      "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    },
+    "summary": {
+      "path": "assets/internships/kitchen-team-summary.webp",
+      "alt": "Internship participants and volunteers behind a table of prepared meals",
+      "caption": "With the kitchen team · Tzu Chi Japan, 2026",
+      "width": 1200,
+      "height": 900,
+      "source_file": "https://drive.google.com/file/d/1eiWLWMDyBU4a6ovy0ir7gtNzcuxs2BWe/view",
+      "source_filename": "LINE_ALBUM_2026714大愛食堂_260806_1.jpg",
+      "source_dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "64c2e9b8169869cec702716f9893c51178add49759278e82b9c85ffb56d6752a",
+      "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    }
+  },
+  "translations": {
+    "Internship students arranging portions of food into meal trays": "實習學生一起將餐點分裝到餐盒中",
+    "Packing meals together · Japan internship, 2026": "一起分裝餐點・2026 年日本實習",
+    "An internship participant portioning food into meal trays in Japan": "實習學生在日本協助將餐點分裝至餐盒",
+    "Preparing meal trays · Japan internship, 2026": "分裝餐盒・2026 年日本實習",
+    "Internship students mixing food together in the Tzu Chi Japan kitchen": "實習學生在慈濟日本分會廚房一起拌製餐點",
+    "Preparing meals as a team · Tzu Chi Japan, 2026": "團隊備餐・2026 年慈濟日本分會",
+    "Internship participants in a team briefing at Tzu Chi Japan": "實習學生在慈濟日本分會參與團隊說明會",
+    "Team briefing · Japan internship, 2026": "團隊說明會・2026 年日本實習",
+    "Students holding tea bowls during a Japanese tea-culture activity": "學生在日本茶文化活動中體驗以茶碗飲茶",
+    "Japanese tea activity · Tokyo internship, 2026": "日本茶文化體驗・2026 年東京實習",
+    "Students practising with an emergency-exit exhibit during disaster-prevention training": "學生在防災體驗中操作緊急出口體驗設施",
+    "Emergency-exit practice · Tokyo internship, 2026": "緊急出口體驗・2026 年東京實習",
+    "Internship participants and volunteers behind a table of prepared meals": "實習學生與志工在備妥餐點的桌子後方合影",
+    "With the kitchen team · Tzu Chi Japan, 2026": "與廚房團隊合影・2026 年慈濟日本分會",
+    "Students working together in a baking class": "學生在烘焙課程中一起實作",
+    "Baking class · Participant photograph": "烘焙課程・參與者提供",
+    "Participants together at a Yide Ri gathering": "懿德日活動合影",
+    "Yide Ri gathering · Participant photograph": "懿德日・參與者提供",
+    "Volunteers and hospital staff together at Taipei Tzu Chi Hospital": "臺北慈濟醫院志工活動合影",
+    "Volunteering · Taipei Tzu Chi Hospital": "臺北慈濟醫院・志工活動",
+    "A flower arrangement from a flower-arranging activity": "花道活動中的插花作品",
+    "Hua dao · Flower-arranging practice": "花道練習",
+    "Tea bowls and refreshments on a table during tea practice": "茶道練習時桌上的茶碗與茶點",
+    "Cha dao · Tea practice": "茶道練習",
+    "Creative practice": "創意實作",
+    "From arranging flowers to preparing tea: two moments from student life.": "從花道到茶道，記錄學生生活中的兩個片刻。",
+    "Additional campus photographs: participant-provided collection.": "其他校園活動照片由參與者提供。"
+  },
+  "additional_campus_photos": {
+    "baking": {
+      "path": "assets/international-student-campus-visit.webp",
+      "alt": "Students working together in a baking class",
+      "caption": "Baking class · Participant photograph",
+      "width": 720,
+      "height": 1280,
+      "source_file": "https://drive.google.com/file/d/1agT_56UqtpTGnBHxJyfbFkbeJNGwW9G8/view",
+      "source_folder": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+      "source_filename": "Photo from 鄭俊利",
+      "source_dimensions": [
+        720,
+        1280
+      ],
+      "sha256": "ff13734e88b5dbfc136e211fe9c171eb8fd5a5bb06fb63773f9cb33ba52a7f62",
+      "origin": "Site-owner participant photograph; activity context confirmed by the owner"
+    },
+    "yide": {
+      "path": "assets/life/photo-booth.webp",
+      "alt": "Participants together at a Yide Ri gathering",
+      "caption": "Yide Ri gathering · Participant photograph",
+      "width": 1477,
+      "height": 1108,
+      "source_file": "https://drive.google.com/file/d/1JdIgyuFokmCBZcveFzkj_uTJGK2JdW6k/view",
+      "source_folder": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+      "source_filename": "Photo from 鄭俊利",
+      "source_dimensions": [
+        1477,
+        1108
+      ],
+      "sha256": "423b12e07e1c8c0c5291644eec97ac1860a0317684c52263808cdfb57c14541d",
+      "origin": "Site-owner participant photograph; activity context confirmed by the owner"
+    },
+    "hospital": {
+      "path": "assets/life/hualien-life.webp",
+      "alt": "Volunteers and hospital staff together at Taipei Tzu Chi Hospital",
+      "caption": "Volunteering · Taipei Tzu Chi Hospital",
+      "width": 1600,
+      "height": 1280,
+      "source_file": "https://drive.google.com/file/d/1EhsgKZz7JepgOeBtFk-VxAQaFf54gzaT/view",
+      "source_folder": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+      "source_filename": "Photo from 鄭俊利",
+      "source_dimensions": [
+        3780,
+        3024
+      ],
+      "sha256": "aa92e591278bf3b9716ee9320499d9bb6b50c92cffbe40f09b7892f8e0d5661e",
+      "origin": "Site-owner participant photograph; activity context confirmed by the owner"
+    },
+    "flower": {
+      "path": "assets/life/final-project.webp",
+      "alt": "A flower arrangement from a flower-arranging activity",
+      "caption": "Hua dao · Flower-arranging practice",
+      "width": 1200,
+      "height": 1600,
+      "source_file": "https://drive.google.com/file/d/17R_jBye0sGx0vPDiiO2ffhqXmcRNlSup/view",
+      "source_folder": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+      "source_filename": "IMG_20250603_151121.jpg",
+      "source_dimensions": [
+        3072,
+        4096
+      ],
+      "sha256": "5d65621a45c6732588dff4a6b4cb627f60286553c379e45d6f2bc9dcca17e2fa",
+      "origin": "Site-owner participant photograph; activity context confirmed by the owner"
+    },
+    "taiwan-tea": {
+      "path": "assets/life/presentations.webp",
+      "alt": "Tea bowls and refreshments on a table during tea practice",
+      "caption": "Cha dao · Tea practice",
+      "width": 1200,
+      "height": 1600,
+      "source_file": "https://drive.google.com/file/d/1O6JZ6y9uKm6X2kBZcfOUKm-HHK05n2HV/view",
+      "source_folder": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+      "source_filename": "IMG_20250610_145640.jpg",
+      "source_dimensions": [
+        3072,
+        4096
+      ],
+      "sha256": "31b5ab5f9e1ca5f147d11b406c49376209814800dfe597328af69f150f3111c5",
+      "origin": "Site-owner participant photograph; activity context confirmed by the owner"
+    }
+  }
+}

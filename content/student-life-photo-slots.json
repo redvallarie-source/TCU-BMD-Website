@@ -1,0 +1,55 @@
+{
+  "note": "Current replacements use the existing collage. Caption and alt text must follow each photograph. Project tabs retain their canonical department photographs.",
+  "slots": [
+    {
+      "slot": "Hero main",
+      "file": "assets/life/photo-booth.webp",
+      "suggested_replacement": "Students together at a BMD event; horizontal photograph."
+    },
+    {
+      "slot": "Hero inset",
+      "file": "assets/life/hualien-life.webp",
+      "suggested_replacement": "Campus or Hualien student activity."
+    },
+    {
+      "slot": "Presentations tab",
+      "file": "assets/photos/cafe-project.webp",
+      "suggested_replacement": "Students presenting in class."
+    },
+    {
+      "slot": "Podcast tab",
+      "file": "assets/life/podcast-project.webp",
+      "suggested_replacement": "Students recording or editing a podcast."
+    },
+    {
+      "slot": "Final project tab",
+      "file": "assets/photos/design-workshop.webp",
+      "suggested_replacement": "A final-project team, discussion or presentation."
+    },
+    {
+      "slot": "International main",
+      "file": "assets/life/japan-service.webp",
+      "suggested_replacement": "An overseas internship group or service activity."
+    },
+    {
+      "slot": "International inset",
+      "file": "assets/life/japan-preparation.webp",
+      "suggested_replacement": "An internship task in progress."
+    },
+    {
+      "slot": "Community main",
+      "file": "assets/life/charity-stalls.webp",
+      "suggested_replacement": "Charity food stall or volunteering activity."
+    },
+    {
+      "slot": "Community detail",
+      "file": "assets/life/fair-team.webp",
+      "suggested_replacement": "Students organising or keeping records."
+    },
+    {
+      "slot": "Community small",
+      "file": "assets/life/food-fundraiser.webp",
+      "suggested_replacement": "Students with their fundraising products."
+    }
+  ]
+}

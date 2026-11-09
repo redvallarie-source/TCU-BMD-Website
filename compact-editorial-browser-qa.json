@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-08",
+  "scope": "Site-wide compact editorial refinement",
+  "browser_viewport": {
+    "width": 1348,
+    "height": 936
+  },
+  "observed": {
+    "local_pages": [
+      "Home",
+      "Introduction",
+      "Life at BMD",
+      "Academics",
+      "Beyond Campus",
+      "Traditional Chinese Beyond Campus",
+      "Traditional Chinese Faculty",
+      "History"
+    ],
+    "fonts": [
+      "Archivo loaded",
+      "Public Sans loaded",
+      "Newsreader loaded",
+      "Chinese faculty names 23px",
+      "Chinese faculty roles 15px",
+      "Chinese faculty specialties 14px",
+      "academic tabs 17px",
+      "academic panel body 18px"
+    ],
+    "interactions": [
+      "brief story modal with two-photo composition",
+      "Traditional Chinese ViTrox programme modal and source links",
+      "Escape closes story and returns focus",
+      "Summer study filter shows Nottingham Trent only",
+      "global search ViTrox includes Beyond Campus",
+      "internship forms open and document search matches two visit-record documents",
+      "history milestone 2024 updates selected year and content"
+    ]
+  },
+  "limitations": [
+    "Desktop browser only; responsive CSS reviewed without device emulation",
+    "Existing YouTube playback not re-certified",
+    "Unchanged external archive links not all re-requested"
+  ],
+  "factual_checks": [
+    "37 official Chinese faculty names retained",
+    "85 original publication bodies retained in each language",
+    "32 internship forms retained",
+    "32 academic calendar records retained",
+    "account-access content exclusion maintained"
+  ]
+}

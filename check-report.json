@@ -1,0 +1,201 @@
+{
+  "html_pages": 159,
+  "errors": [],
+  "browser_checks": [
+    "desktop home",
+    "learning tabs",
+    "global search",
+    "faculty search and profile",
+    "curriculum cohort filters",
+    "history tabs",
+    "calendar next month",
+    "390px iframe viewport menu",
+    "mobile horizontal overflow resolved",
+    "creative homepage campus slideshow and pause",
+    "homepage quick-link carousel",
+    "homepage news carousel and category filters",
+    "homepage calendar month and date selection",
+    "375px iframe homepage without horizontal overflow",
+    "Manrope headings and DM Sans body fonts loaded",
+    "background contours running while visible",
+    "background pause and resume control on desktop and mobile",
+    "375px homepage vision and history without horizontal overflow",
+    "final admissions ambient background visible",
+    "interior desktop design review",
+    "illustrated history year and next controls",
+    "academic explorer keyboard and photo switching",
+    "curriculum cohort filtering and expansion",
+    "faculty search count and individual profile",
+    "resource pagination and search",
+    "student photo viewer next and close",
+    "375px intro vision history academics curriculum faculty life resources admissions calendar widths",
+    "editorial page labels and practical captions",
+    "homepage slideshow copy and news filter",
+    "375px home and five interior pages without overflow",
+    "academic explorer after editorial finish",
+    "Taiwan November calendar month and event selection",
+    "news default excludes historical archive",
+    "111 cohort document-availability state",
+    "local curriculum PDF viewer original-link and Escape close",
+    "resource search pagination with preview rows",
+    "six mobile pages and mobile PDF dialog bounds",
+    "graduate programme group headings",
+    "phone navigation and single Admissions route",
+    "phone widths on all primary pages",
+    "tablet widths on six refined/resource pages",
+    "narrow desktop header overflow corrected",
+    "student gallery next, close and restored focus",
+    "corrected student-presentation image attribution",
+    "learning deep links and active tabs",
+    "Taiwan November calendar and date-boundary checks",
+    "global search for Liyu and password exclusion",
+    "resource filtering and PDF preview dialog"
+  ],
+  "removed_links": [],
+  "excluded_public_pages": [
+    "news-7486dbf7229b.html",
+    "source-7486dbf7229b.html"
+  ],
+  "verified_local_curriculum_previews": 6,
+  "homepage_section_order_preserved": true,
+  "editorial_refinement": {
+    "html_pages": 159,
+    "errors": [],
+    "unique_external_links": 217,
+    "external_responses": {
+      "unverified": 44,
+      "200": 120,
+      "206": 52,
+      "202": 1
+    },
+    "homepage_section_order_preserved": true,
+    "excluded_record_scan": "passed",
+    "navigation_duplicates": 0,
+    "responsive_viewports_checked": [
+      360,
+      753,
+      915,
+      1009,
+      1333
+    ],
+    "small_caption_contrast_ratios": [
+      5.04,
+      4.68,
+      4.57,
+      4.77
+    ],
+    "browser_checks": [
+      "phone navigation and single Admissions route",
+      "phone widths on all primary pages",
+      "tablet widths on six refined/resource pages",
+      "narrow desktop header overflow corrected",
+      "student gallery next, close and restored focus",
+      "corrected student-presentation image attribution",
+      "learning deep links and active tabs",
+      "Taiwan November calendar and date-boundary checks",
+      "global search for Liyu and password exclusion",
+      "resource filtering and PDF preview dialog"
+    ],
+    "verification_limit": "44 original external URLs did not return a verifiable successful response in this environment; retained without guessing replacement destinations."
+  },
+  "motion_refinement": {
+    "checked_on": "2026-11-01",
+    "scope": "Existing Green Campus site, focused motion refinement",
+    "responsive_viewports": [
+      375,
+      753,
+      915,
+      1333
+    ],
+    "preserved": [
+      "Green Campus palette and local font families",
+      "navigation groups",
+      "homepage section order",
+      "quick links and news carousels",
+      "news category filters",
+      "clickable history years",
+      "course explorer and documents",
+      "global search",
+      "Taiwan-date academic calendar",
+      "legacy record exclusion"
+    ],
+    "browser_checks": [
+      "photo opening renders at desktop and phone sizes",
+      "hero pause and previous/next photo controls",
+      "automatic vertical word changes observed",
+      "word, selected scene and caption remain synchronized",
+      "pause and explicit resume work with the play button focused",
+      "manual scene selection",
+      "six refined interior pages at phone and tablet sizes without overflow",
+      "narrow desktop header fits",
+      "global curriculum search result",
+      "history year 2024",
+      "news carousel scroll and achievements filter",
+      "November 2026 calendar",
+      "no new app errors after final reload"
+    ],
+    "motion_accessibility": [
+      "device reduced-motion preference disables automatic motion",
+      "static content stays readable without JavaScript",
+      "separate hero and section pause controls",
+      "offscreen and hidden-tab motion stops",
+      "image drift uses passive scrolling and one requested animation frame",
+      "changing visual words have a stable accessible heading"
+    ],
+    "opening_media": "Existing authentic campus photographs with slow pan/zoom. No third-party video player is loaded. Reviewed department archive videos were not used as the background because their old branding and embedded news/graphic text were unsuitable.",
+    "payload": "No frontend animation dependency and no new large media download.",
+    "source_integrity": "159 pages retained; excluded legacy access record absent from public pages and search.",
+    "asset_delivery": "CSS and JavaScript URLs carry content hashes so returning visitors receive the matching scripts and styles.",
+    "references": [
+      "https://wpcarey.asu.edu/",
+      "https://haas.berkeley.edu/",
+      "https://www.rotman.utoronto.ca/"
+    ],
+    "reference_access": "ASU and Haas inspected directly. Rotman was unavailable in the browser; supplied screenshots and retrieved public page informed the visual direction."
+  },
+  "quiet_ui": {
+    "pages": 159,
+    "errors": [],
+    "diagonal_markers_removed": 1072,
+    "sample_marker_counts": {
+      "index.html": {
+        "before": 33,
+        "after": 0
+      },
+      "faculty.html": {
+        "before": 39,
+        "after": 0
+      },
+      "student-life.html": {
+        "before": 7,
+        "after": 0
+      },
+      "resources.html": {
+        "before": 69,
+        "after": 0
+      }
+    },
+    "source_pages_preserved": 85,
+    "links_and_buttons": "exact same sequence/count",
+    "interactive_json_data": "unchanged",
+    "homepage_section_order": "unchanged",
+    "public_legacy_exclusion_scan": "passed",
+    "browser_checks": [
+      "desktop home academic index",
+      "375px home and six interior page widths",
+      "753px home width",
+      "mobile navigation and Admissions route",
+      "resource search and local PDF preview",
+      "CSS document arrow markers removed",
+      "photo gallery next/close",
+      "hero credit stays free of diagonal markers after photo change",
+      "word/photo scene selection and pause",
+      "learning card opens Culinary Management tab",
+      "no app console errors"
+    ],
+    "references": [
+      "https://www.hbs.edu/",
+      "https://www.sbs.ox.ac.uk/"
+    ]
+  }
+}

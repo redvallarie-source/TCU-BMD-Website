@@ -1,0 +1,12 @@
+{
+  "source": "Google Fonts",
+  "licence": "SIL Open Font License; bundled per family",
+  "families": [
+    "Archivo",
+    "Public Sans",
+    "Newsreader",
+    "Noto Serif TC (heading glyph subset)"
+  ],
+  "chinese_subset_glyphs": 448,
+  "checked_on": "2026-11-08"
+}
