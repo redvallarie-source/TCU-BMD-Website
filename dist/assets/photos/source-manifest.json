@@ -182,13 +182,14 @@
   },
   {
     "relative_file": "assets/life/podcast-project.webp",
-    "source_url": "https://mdm.tcu.edu.tw/var/file/21/1021/img/970/1588127539203.jpeg",
-    "source_page": "https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw",
-    "caption": "Students learning in a computer classroom",
-    "width": 1200,
-    "height": 800,
+    "source_url": "https://drive.google.com/file/d/1qFgH42qAKf15uyhAu0K5Ov47aJzqcV1W/view",
+    "source_page": "https://drive.google.com/drive/folders/1tO8ZMaJDN6_CD1F9VlPQOd4bY2xrsZ5C",
+    "caption": "Digital study · Library computers",
+    "width": 1600,
+    "height": 1200,
     "archive_note": "Genuine photographs published by the department; original dates are not supplied for every image.",
-    "usage": "Dedicated student-life photo slot; replace this file without changing photographs elsewhere on the site."
+    "usage": "One editorial placement; bilingual pages and the same photograph viewer share this asset.",
+    "credit": "Owner-provided photograph"
   },
   {
     "relative_file": "assets/life/final-project.webp",
@@ -285,5 +286,95 @@
     "height": 1280,
     "credit": "Site-owner participant photograph",
     "usage": "Replacement photograph in one editorial placement; source archives are unchanged."
+  },
+  {
+    "relative_file": "assets/home-jianguo.webp",
+    "source_url": "https://drive.google.com/file/d/1UhQ6EEtqvKmGwH2lmRpaFVfE1vU7_Y_3/view",
+    "source_page": "https://drive.google.com/drive/folders/1VJWwFWnDnRPTOt7HMa0AYawJsqH3NIPj",
+    "caption": "Jianguo Campus · Hualien",
+    "width": 1600,
+    "height": 1202,
+    "credit": "Owner-provided photograph",
+    "usage": "One editorial placement; bilingual pages and the same photograph viewer share this asset."
+  },
+  {
+    "relative_file": "assets/campus-mountain-building.webp",
+    "source_url": "https://drive.google.com/file/d/1J_MOPFAI5t6GpIMCUfyb9kmrGJWzqaEu/view",
+    "source_page": "https://drive.google.com/drive/folders/1VJWwFWnDnRPTOt7HMa0AYawJsqH3NIPj",
+    "caption": "Jieren Campus · Hualien",
+    "width": 1600,
+    "height": 1600,
+    "credit": "Owner-provided photograph",
+    "usage": "One editorial placement; bilingual pages and the same photograph viewer share this asset."
+  },
+  {
+    "relative_file": "assets/photos/class-learning.webp",
+    "source_url": "https://drive.google.com/file/d/1QzvViL4iA9P3IOVvwtGrSNCGHx-IxIhO/view",
+    "source_page": "https://drive.google.com/drive/folders/1tO8ZMaJDN6_CD1F9VlPQOd4bY2xrsZ5C",
+    "caption": "Management learning · In class",
+    "width": 1200,
+    "height": 900,
+    "credit": "Owner-provided photograph",
+    "usage": "One editorial placement; bilingual pages and the same photograph viewer share this asset."
+  },
+  {
+    "relative_file": "assets/photos/department-group.webp",
+    "source_url": "https://drive.google.com/file/d/1QV3S2D__wNM26lZGChNU7n8SvMpDLNG6/view",
+    "source_page": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+    "caption": "The BMD community · Participant photograph",
+    "width": 1280,
+    "height": 720,
+    "credit": "Owner-provided photograph",
+    "usage": "One editorial placement; bilingual pages and the same photograph viewer share this asset."
+  },
+  {
+    "relative_file": "assets/photos/library-computers.webp",
+    "source_url": "https://drive.google.com/file/d/181rAAZ1h0gTW3IstY3OVAUWljbU_GLbm/view",
+    "source_page": "https://drive.google.com/drive/folders/1tO8ZMaJDN6_CD1F9VlPQOd4bY2xrsZ5C",
+    "caption": "Learning with digital tools · Library computers",
+    "width": 1200,
+    "height": 1600,
+    "credit": "Owner-provided photograph",
+    "usage": "One editorial placement; bilingual pages and the same photograph viewer share this asset."
+  },
+  {
+    "relative_file": "assets/photos/class-study.webp",
+    "source_url": "https://drive.google.com/file/d/1YtKtfN56K2iTlUxPjbEDq6FXL2_01an_/view",
+    "source_page": "https://drive.google.com/drive/folders/1tO8ZMaJDN6_CD1F9VlPQOd4bY2xrsZ5C",
+    "caption": "Studying together · In class",
+    "width": 900,
+    "height": 1600,
+    "credit": "Owner-provided photograph",
+    "usage": "One editorial placement; bilingual pages and the same photograph viewer share this asset."
+  },
+  {
+    "relative_file": "assets/life/learning-together.webp",
+    "source_url": "https://drive.google.com/file/d/10kJ54ttG3YAKiE9x_vQQfqLHojuglobz/view",
+    "source_page": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+    "caption": "Learning together · In class",
+    "width": 1280,
+    "height": 960,
+    "credit": "Owner-provided photograph",
+    "usage": "One editorial placement; bilingual pages and the same photograph viewer share this asset."
+  },
+  {
+    "relative_file": "assets/life/hospital-visit.webp",
+    "source_url": "https://drive.google.com/file/d/175FlfLqmz3v5FpdPdt1kFbbE2RHDq-W4/view",
+    "source_page": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+    "caption": "Taipei Tzu Chi Hospital · Participant photograph",
+    "width": 960,
+    "height": 1280,
+    "credit": "Owner-provided photograph",
+    "usage": "One editorial placement; bilingual pages and the same photograph viewer share this asset."
+  },
+  {
+    "relative_file": "assets/life/baking-practice.webp",
+    "source_url": "https://drive.google.com/file/d/1J-TDBuX1nw9b07BQ9HAq7qJkoawBFswd/view",
+    "source_page": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+    "caption": "Hands-on baking · Student practice",
+    "width": 960,
+    "height": 1280,
+    "credit": "Owner-provided photograph",
+    "usage": "One editorial placement; bilingual pages and the same photograph viewer share this asset."
   }
 ]

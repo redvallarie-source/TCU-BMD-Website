@@ -135,7 +135,32 @@
     "Cha dao · Tea practice": "茶道練習",
     "Creative practice": "創意實作",
     "From arranging flowers to preparing tea: two moments from student life.": "從花道到茶道，記錄學生生活中的兩個片刻。",
-    "Additional campus photographs: participant-provided collection.": "其他校園活動照片由參與者提供。"
+    "Additional campus photographs: participant-provided collection.": "其他校園活動照片由參與者提供。",
+    "A campus building and garden at Jianguo Campus": "建國校區的校舍與庭園",
+    "Jianguo Campus · Hualien": "建國校區・花蓮",
+    "The entrance sign and buildings at Jieren Campus": "介仁校區入口標誌與校舍",
+    "Jieren Campus · Hualien": "介仁校區・花蓮",
+    "An educator speaking beside a management presentation in class": "教師在課堂上以管理簡報進行教學",
+    "Management learning · In class": "管理學習・課堂現場",
+    "BMD participants together in a classroom group photograph": "經管系參與者在教室中的團體合影",
+    "The BMD community · Participant photograph": "經管系的我們・參與者提供",
+    "Students working together at library computer workstations": "學生在圖書館電腦區一起學習",
+    "Learning with digital tools · Library computers": "運用數位工具學習・圖書館電腦區",
+    "Two students studying and writing at classroom desks": "兩位學生在教室桌前閱讀與書寫",
+    "Studying together · In class": "一起學習・課堂現場",
+    "Students sharing a relaxed moment during class": "學生在課堂中交流的片刻",
+    "Learning together · In class": "一起學習・課堂裡",
+    "The entrance of Taipei Tzu Chi Hospital": "臺北慈濟醫院入口",
+    "Taipei Tzu Chi Hospital · Participant photograph": "臺北慈濟醫院・參與者提供",
+    "A student preparing chocolate cake in a baking class": "學生在烘焙課程中製作巧克力蛋糕",
+    "Hands-on baking · Student practice": "烘焙實作・學生練習",
+    "Students studying together at library computers": "學生一起使用圖書館電腦學習",
+    "Digital study · Library computers": "數位學習・圖書館電腦區",
+    "Owner photograph": "使用者提供的照片",
+    "Show photo: Jianguo Campus · Hualien": "顯示照片：建國校區・花蓮",
+    "Show photo: Jieren Campus · Hualien": "顯示照片：介仁校區・花蓮",
+    "Jianguo Campus · Hualien selected.": "已選擇建國校區・花蓮。",
+    "Jieren Campus · Hualien selected.": "已選擇介仁校區・花蓮。"
   },
   "additional_campus_photos": {
     "baking": {
@@ -217,6 +242,201 @@
       ],
       "sha256": "31b5ab5f9e1ca5f147d11b406c49376209814800dfe597328af69f150f3111c5",
       "origin": "Site-owner participant photograph; activity context confirmed by the owner"
+    },
+    "home-jianguo": {
+      "path": "assets/home-jianguo.webp",
+      "alt": "A campus building and garden at Jianguo Campus",
+      "caption": "Jianguo Campus · Hualien",
+      "width": 1600,
+      "height": 1202,
+      "source_file": "https://drive.google.com/file/d/1UhQ6EEtqvKmGwH2lmRpaFVfE1vU7_Y_3/view",
+      "source_folder": "https://drive.google.com/drive/folders/1VJWwFWnDnRPTOt7HMa0AYawJsqH3NIPj",
+      "source_filename": "IMG_20261112_110138_EDITED.jpg",
+      "source_dimensions": [
+        3280,
+        2464
+      ],
+      "sha256": "13cf6dcc89fcee1cca1693c9e5e1f1f155d1c624b88a782851a2fb7273250225",
+      "origin": "Owner-provided authentic photograph; description follows visible content"
+    },
+    "home-jieren": {
+      "path": "assets/campus-mountain-building.webp",
+      "alt": "The entrance sign and buildings at Jieren Campus",
+      "caption": "Jieren Campus · Hualien",
+      "width": 1600,
+      "height": 1600,
+      "source_file": "https://drive.google.com/file/d/1J_MOPFAI5t6GpIMCUfyb9kmrGJWzqaEu/view",
+      "source_folder": "https://drive.google.com/drive/folders/1VJWwFWnDnRPTOt7HMa0AYawJsqH3NIPj",
+      "source_filename": "IMG-20261112-WA0018_EDITED.jpg",
+      "source_dimensions": [
+        3024,
+        3024
+      ],
+      "sha256": "e69131a22ab56bfc4d749929dd4970ac60a74d87766055cb9967013bf5d299e1",
+      "origin": "Owner-provided authentic photograph; description follows visible content"
+    },
+    "class-operations": {
+      "path": "assets/photos/class-learning.webp",
+      "alt": "An educator speaking beside a management presentation in class",
+      "caption": "Management learning · In class",
+      "width": 1200,
+      "height": 900,
+      "source_file": "https://drive.google.com/file/d/1QzvViL4iA9P3IOVvwtGrSNCGHx-IxIhO/view",
+      "source_folder": "https://drive.google.com/drive/folders/1tO8ZMaJDN6_CD1F9VlPQOd4bY2xrsZ5C",
+      "source_filename": "IMG_1308.HEIC",
+      "source_dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "fd6c4ed5f740b43ffa927b29244b4c2524cca26d2c3d6c84f2eea7715685674d",
+      "origin": "Owner-provided authentic photograph; description follows visible content",
+      "download_note": "Drive display JPEG, 1200 × 900; original HEIC retained in Drive."
+    },
+    "intro-group": {
+      "path": "assets/photos/department-group.webp",
+      "alt": "BMD participants together in a classroom group photograph",
+      "caption": "The BMD community · Participant photograph",
+      "width": 1280,
+      "height": 720,
+      "source_file": "https://drive.google.com/file/d/1QV3S2D__wNM26lZGChNU7n8SvMpDLNG6/view",
+      "source_folder": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+      "source_filename": "Photo from 鄭俊利",
+      "source_dimensions": [
+        1280,
+        720
+      ],
+      "sha256": "05d92bde3aa4ebfdcd2fffccfec0e487a723dc28dba7aec08d4ac872677d6b38",
+      "origin": "Owner-provided authentic photograph; description follows visible content"
+    },
+    "learning-computers": {
+      "path": "assets/photos/library-computers.webp",
+      "alt": "Students working together at library computer workstations",
+      "caption": "Learning with digital tools · Library computers",
+      "width": 1200,
+      "height": 1600,
+      "source_file": "https://drive.google.com/file/d/181rAAZ1h0gTW3IstY3OVAUWljbU_GLbm/view",
+      "source_folder": "https://drive.google.com/drive/folders/1tO8ZMaJDN6_CD1F9VlPQOd4bY2xrsZ5C",
+      "source_filename": "IMG_20261110_142709.jpg",
+      "source_dimensions": [
+        3072,
+        4096
+      ],
+      "sha256": "41376e5ab8f8ce5ee928a19e4c8fe2431344cf1d96bcf0c282aabed2a26e0e6c",
+      "origin": "Owner-provided authentic photograph; description follows visible content"
+    },
+    "home-practice": {
+      "path": "assets/photos/class-study.webp",
+      "alt": "Two students studying and writing at classroom desks",
+      "caption": "Studying together · In class",
+      "width": 900,
+      "height": 1600,
+      "source_file": "https://drive.google.com/file/d/1YtKtfN56K2iTlUxPjbEDq6FXL2_01an_/view",
+      "source_folder": "https://drive.google.com/drive/folders/1tO8ZMaJDN6_CD1F9VlPQOd4bY2xrsZ5C",
+      "source_filename": "IMG_20261110_135855.jpg",
+      "source_dimensions": [
+        2304,
+        4096
+      ],
+      "sha256": "9cdcbabfaaff84bee6620f4772fa36b7e04ca8b8031b1ba04cb5d6eeda55efa8",
+      "origin": "Owner-provided authentic photograph; description follows visible content"
+    },
+    "life-learning": {
+      "path": "assets/life/learning-together.webp",
+      "alt": "Students sharing a relaxed moment during class",
+      "caption": "Learning together · In class",
+      "width": 1280,
+      "height": 960,
+      "source_file": "https://drive.google.com/file/d/10kJ54ttG3YAKiE9x_vQQfqLHojuglobz/view",
+      "source_folder": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+      "source_filename": "Photo from 鄭俊利",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "sha256": "ba74b0cf12bcbd027a206e9f5084c28648f03f98966b2133c77dea10a50e6f6e",
+      "origin": "Owner-provided authentic photograph; description follows visible content"
+    },
+    "hospital-building": {
+      "path": "assets/life/hospital-visit.webp",
+      "alt": "The entrance of Taipei Tzu Chi Hospital",
+      "caption": "Taipei Tzu Chi Hospital · Participant photograph",
+      "width": 960,
+      "height": 1280,
+      "source_file": "https://drive.google.com/file/d/175FlfLqmz3v5FpdPdt1kFbbE2RHDq-W4/view",
+      "source_folder": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+      "source_filename": "Photo from 鄭俊利",
+      "source_dimensions": [
+        960,
+        1280
+      ],
+      "sha256": "63ebf3a443dae49c5620c42f1de399b93e15c671b9a3dec8a7d353c58d015e55",
+      "origin": "Owner-provided authentic photograph; description follows visible content"
+    },
+    "baking-individual": {
+      "path": "assets/life/baking-practice.webp",
+      "alt": "A student preparing chocolate cake in a baking class",
+      "caption": "Hands-on baking · Student practice",
+      "width": 960,
+      "height": 1280,
+      "source_file": "https://drive.google.com/file/d/1J-TDBuX1nw9b07BQ9HAq7qJkoawBFswd/view",
+      "source_folder": "https://drive.google.com/drive/folders/1lq7nN1iUxvBs_ckktFh4FnWF9ZoQyfNe",
+      "source_filename": "Photo from 鄭俊利",
+      "source_dimensions": [
+        960,
+        1280
+      ],
+      "sha256": "82c21dcf4433100f526c543570e9544ff9ed385f4e42819a20386465ff8a3193",
+      "origin": "Owner-provided authentic photograph; description follows visible content"
+    },
+    "smart-computers": {
+      "path": "assets/life/podcast-project.webp",
+      "alt": "Students studying together at library computers",
+      "caption": "Digital study · Library computers",
+      "width": 1600,
+      "height": 1200,
+      "source_file": "https://drive.google.com/file/d/1qFgH42qAKf15uyhAu0K5Ov47aJzqcV1W/view",
+      "source_folder": "https://drive.google.com/drive/folders/1tO8ZMaJDN6_CD1F9VlPQOd4bY2xrsZ5C",
+      "source_filename": "IMG_20261110_142912.jpg",
+      "source_dimensions": [
+        4096,
+        3072
+      ],
+      "sha256": "c7029ea86732a45b827593bd3ddbeab00453af43e5fe39e871ebf1e7d51359c3",
+      "origin": "Owner-provided authentic photograph; description follows visible content"
     }
+  },
+  "latest_campus_update": {
+    "date": "2026-11-13",
+    "new_selected_photos": [
+      "home-jianguo",
+      "home-jieren",
+      "class-operations",
+      "intro-group",
+      "learning-computers",
+      "home-practice",
+      "life-learning",
+      "hospital-building",
+      "baking-individual",
+      "smart-computers"
+    ],
+    "existing_sections_only": true,
+    "added_optimized_asset_files": [
+      "assets/home-jianguo.webp",
+      "assets/photos/class-learning.webp",
+      "assets/photos/department-group.webp",
+      "assets/photos/library-computers.webp",
+      "assets/photos/class-study.webp",
+      "assets/life/learning-together.webp",
+      "assets/life/hospital-visit.webp",
+      "assets/life/baking-practice.webp"
+    ],
+    "deferred_until_owner_supplies_photos": [
+      "UK summer study",
+      "Mao Mao Xiaoyin food stall",
+      "Whisper Tour",
+      "Student presentations",
+      "Sustainable Innovation / Grace",
+      "ZY campus identity"
+    ]
   }
 }

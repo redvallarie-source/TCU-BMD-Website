@@ -7,7 +7,7 @@
     const video=hero.querySelector('video'),photos=[...hero.querySelectorAll('.campus-slide')];
     const choices=[...hero.querySelectorAll('[data-hero-mode]')],pause=hero.querySelector('.campus-pause');
     const scene=hero.querySelector('#campus-scene'),credit=hero.querySelector('#campus-credit'),announcement=hero.querySelector('#campus-announcement');
-    const labels=[BMDI18n.t('Campus architecture'),BMDI18n.t('Hualien, Taiwan'),BMDI18n.t('The BMD community')];
+    const labels=[BMDI18n.t('Jianguo Campus · Hualien'),BMDI18n.t('Jieren Campus · Hualien'),BMDI18n.t('The BMD community')];
     let mode=(reduced.matches||savingData)?choices.findIndex(b=>b.dataset.heroMode==='0'):0;
     let paused=reduced.matches||savingData,visible=true,timer,failed=false;
     function moving(){return !paused&&!reduced.matches&&!document.hidden&&visible}
@@ -50,7 +50,7 @@
       if(credit){
       if(film){credit.href=credit.dataset.initialHref;credit.textContent=credit.dataset.initialLabel+''}
       else if(value==='2'){credit.href='https://mdm.tcu.edu.tw/p/412-1021-3692.php?Lang=zh-tw';credit.textContent=BMDI18n.t('Department photo archive')}
-      else{credit.href='https://www.tcu.edu.tw/';credit.textContent=BMDI18n.t('Tzu Chi University')}
+      else{credit.href=value==='0'?'https://drive.google.com/file/d/1UhQ6EEtqvKmGwH2lmRpaFVfE1vU7_Y_3/view':'https://drive.google.com/file/d/1J_MOPFAI5t6GpIMCUfyb9kmrGJWzqaEu/view';credit.textContent=BMDI18n.t('Owner photograph')}
       }
       if(manual)announcement.textContent=film?BMDI18n.t('Campus film selected.'):labels[Number(value)]+BMDI18n.t(' selected.');
       update();

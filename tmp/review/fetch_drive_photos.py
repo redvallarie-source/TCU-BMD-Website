@@ -17,7 +17,7 @@ def fetch(p):
         Image.open(BytesIO(data)).verify()
         path.write_bytes(data)
         return {'slot':p['slot'],'path':str(path),'bytes':len(data)}
-    url='https://drive.google.com/uc?export=download&id='+p['file_id']
+    url=p.get('download_url') or 'https://drive.google.com/uc?export=download&id='+p['file_id']
     with urlopen(Request(url,headers={'User-Agent':'Mozilla/5.0'}),timeout=20) as response:
         data=response.read()
     im=Image.open(BytesIO(data));im.verify()

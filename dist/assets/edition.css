@@ -36,6 +36,12 @@ main :is(p,dd,li){text-wrap:pretty}
 main figure figcaption,.editorial-caption,.photo-archive-note{font:400 12px/1.6 var(--sans)}
 .interior-photo{border-radius:2px!important}
 .interior-photo img{border-radius:2px!important}
+/* Frame the owner's photographs without altering their contents. */
+.cinema-hero .campus-slide[src$="campus-mountain-building.webp"]{object-position:50% 78%}
+.edition-learning img[src$="class-study.webp"]{object-position:50% 50%}
+.page-academics .interior-photo>img[src$="library-computers.webp"]{object-position:50% 50%}
+.page-introduction .interior-photo>img[src$="department-group.webp"]{aspect-ratio:16/9;object-fit:contain;background:#eef2e9}
+.program-visual>span>span{font-size:12px;line-height:1.5;letter-spacing:0}
 .interior-page .page-tabs,.section-switcher{font-size:15px}
 .footer{padding-top:32px}
 .footer h3{font:600 14px/1.4 var(--display);letter-spacing:.01em;margin-bottom:15px}
@@ -411,6 +417,7 @@ html:lang(zh-Hant) :is(.interior-page .page-hero h1,.bmd-life h2,.bmd-internship
  .editorial-motion .life-routes{margin-top:16px;gap:12px 24px}
  .editorial-motion .life-routes a{font-size:15px}
  .life-photo-window{height:290px;border-radius:2px 24px 2px 2px}
+ .life-scene[src$="hualien-life.webp"]{object-fit:contain;transform:none!important}
  .life-stage figcaption{font-size:12px;line-height:1.6}
  .pathways-grid{grid-template-columns:1fr;gap:26px}
  .pathways-grid .pathway-card:nth-child(2){padding-top:0}

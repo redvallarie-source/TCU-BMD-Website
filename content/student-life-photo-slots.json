@@ -1,5 +1,5 @@
 {
-  "note": "Current replacements use the existing collage. Caption and alt text must follow each photograph. Project tabs retain their canonical department photographs.",
+  "note": "Existing page sections retained. Caption, alt text, and dynamic viewers must follow the photograph. New owner photos have one editorial placement each.",
   "slots": [
     {
       "slot": "Hero main",
@@ -8,8 +8,8 @@
     },
     {
       "slot": "Hero inset",
-      "file": "assets/life/hualien-life.webp",
-      "suggested_replacement": "Campus or Hualien student activity."
+      "file": "assets/life/hospital-visit.webp",
+      "suggested_replacement": "A different participant photograph from the hospital visit; the volunteer group photograph is used only on Home."
     },
     {
       "slot": "Presentations tab",
@@ -18,7 +18,7 @@
     },
     {
       "slot": "Podcast tab",
-      "file": "assets/life/podcast-project.webp",
+      "file": "assets/photos/digital-learning.webp",
       "suggested_replacement": "Students recording or editing a podcast."
     },
     {
@@ -51,5 +51,47 @@
       "file": "assets/life/food-fundraiser.webp",
       "suggested_replacement": "Students with their fundraising products."
     }
-  ]
+  ],
+  "latest_replacements": {
+    "home-jianguo": {
+      "file": "assets/home-jianguo.webp",
+      "caption": "Jianguo Campus · Hualien"
+    },
+    "home-jieren": {
+      "file": "assets/campus-mountain-building.webp",
+      "caption": "Jieren Campus · Hualien"
+    },
+    "class-operations": {
+      "file": "assets/photos/class-learning.webp",
+      "caption": "Management learning · In class"
+    },
+    "intro-group": {
+      "file": "assets/photos/department-group.webp",
+      "caption": "The BMD community · Participant photograph"
+    },
+    "learning-computers": {
+      "file": "assets/photos/library-computers.webp",
+      "caption": "Learning with digital tools · Library computers"
+    },
+    "home-practice": {
+      "file": "assets/photos/class-study.webp",
+      "caption": "Studying together · In class"
+    },
+    "life-learning": {
+      "file": "assets/life/learning-together.webp",
+      "caption": "Learning together · In class"
+    },
+    "hospital-building": {
+      "file": "assets/life/hospital-visit.webp",
+      "caption": "Taipei Tzu Chi Hospital · Participant photograph"
+    },
+    "baking-individual": {
+      "file": "assets/life/baking-practice.webp",
+      "caption": "Hands-on baking · Student practice"
+    },
+    "smart-computers": {
+      "file": "assets/life/podcast-project.webp",
+      "caption": "Digital study · Library computers"
+    }
+  }
 }

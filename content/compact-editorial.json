@@ -192,7 +192,32 @@
     "Cha dao · Tea practice": "茶道練習",
     "Creative practice": "創意實作",
     "From arranging flowers to preparing tea: two moments from student life.": "從花道到茶道，記錄學生生活中的兩個片刻。",
-    "Additional campus photographs: participant-provided collection.": "其他校園活動照片由參與者提供。"
+    "Additional campus photographs: participant-provided collection.": "其他校園活動照片由參與者提供。",
+    "A campus building and garden at Jianguo Campus": "建國校區的校舍與庭園",
+    "Jianguo Campus · Hualien": "建國校區・花蓮",
+    "The entrance sign and buildings at Jieren Campus": "介仁校區入口標誌與校舍",
+    "Jieren Campus · Hualien": "介仁校區・花蓮",
+    "An educator speaking beside a management presentation in class": "教師在課堂上以管理簡報進行教學",
+    "Management learning · In class": "管理學習・課堂現場",
+    "BMD participants together in a classroom group photograph": "經管系參與者在教室中的團體合影",
+    "The BMD community · Participant photograph": "經管系的我們・參與者提供",
+    "Students working together at library computer workstations": "學生在圖書館電腦區一起學習",
+    "Learning with digital tools · Library computers": "運用數位工具學習・圖書館電腦區",
+    "Two students studying and writing at classroom desks": "兩位學生在教室桌前閱讀與書寫",
+    "Studying together · In class": "一起學習・課堂現場",
+    "Students sharing a relaxed moment during class": "學生在課堂中交流的片刻",
+    "Learning together · In class": "一起學習・課堂裡",
+    "The entrance of Taipei Tzu Chi Hospital": "臺北慈濟醫院入口",
+    "Taipei Tzu Chi Hospital · Participant photograph": "臺北慈濟醫院・參與者提供",
+    "A student preparing chocolate cake in a baking class": "學生在烘焙課程中製作巧克力蛋糕",
+    "Hands-on baking · Student practice": "烘焙實作・學生練習",
+    "Students studying together at library computers": "學生一起使用圖書館電腦學習",
+    "Digital study · Library computers": "數位學習・圖書館電腦區",
+    "Owner photograph": "使用者提供的照片",
+    "Show photo: Jianguo Campus · Hualien": "顯示照片：建國校區・花蓮",
+    "Show photo: Jieren Campus · Hualien": "顯示照片：介仁校區・花蓮",
+    "Jianguo Campus · Hualien selected.": "已選擇建國校區・花蓮。",
+    "Jieren Campus · Hualien selected.": "已選擇介仁校區・花蓮。"
   },
   "intro_body": "Management, digital business, sustainability, teamwork, and professional ethics shape the department’s teaching.",
   "learning_stories": [
@@ -203,14 +228,9 @@
       "body": "Use management concepts to understand how organisations plan work, coordinate resources, and serve people.",
       "images": [
         {
-          "src": "assets/photos/cafe-project.webp",
-          "caption": "Student project presentation",
-          "alt": "Student project presentation"
-        },
-        {
-          "src": "assets/photos/design-workshop.webp",
-          "caption": "Design-thinking workshop",
-          "alt": "Design-thinking workshop"
+          "src": "assets/photos/class-study.webp",
+          "alt": "Two students studying and writing at classroom desks",
+          "caption": "Studying together · In class"
         }
       ],
       "links": [
@@ -232,13 +252,8 @@
       "images": [
         {
           "src": "assets/life/podcast-project.webp",
-          "caption": "Digital-learning classroom",
-          "alt": "Digital-learning classroom"
-        },
-        {
-          "src": "assets/photos/cafe-project.webp",
-          "caption": "Student project presentation",
-          "alt": "Student project presentation"
+          "alt": "Students studying together at library computers",
+          "caption": "Digital study · Library computers"
         }
       ],
       "links": [

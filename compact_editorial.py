@@ -25,6 +25,7 @@ def drop(el):
 def compact(path,body,content):
     root=LH.fragment_fromstring(body,create_parent='div')
     data=json.loads((content/'compact-editorial.json').read_text())
+    campus=json.loads((content/'japan-photo-selection.json').read_text(encoding='utf-8'))['additional_campus_photos']
     page=path.removesuffix('.html')
     stories=[]
     originals=path.startswith(('source-','faculty-','news-'))
@@ -55,6 +56,13 @@ def compact(path,body,content):
         p={'src':src,'alt':alt or record.get('caption') or caption or 'Department photograph','caption':caption or record.get('caption') or 'Department photo archive','width':dimensions[0],'height':dimensions[1]}
         p.update(data.get('photo_credits',{}).get(src,{}))
         return p
+    def owner_cover(slot):
+        p=campus[slot]
+        frame=select(root,'interior-photo')[0]
+        image=frame.xpath('./img')[0]
+        image.set('src',p['path']);image.set('alt',p['alt'])
+        image.set('width',str(p['width']));image.set('height',str(p['height']))
+        for caption in select(frame,'editorial-caption'):contents(caption,p['caption'])
     def tile(story,href,cls=''):
         p=story['images'][0]
         credit='<span class="edition-illustrative">Illustrative photo</span>' if p.get('credit') else ''
@@ -94,8 +102,8 @@ def compact(path,body,content):
             for k in select(el,'kicker'):drop(k)
 
     if page=='introduction':
+        owner_cover('intro-group')
         for el in select(root,'kicker'):drop(el)
-        for el in select(root,'editorial-caption'):contents(el,'Students & faculty · Department archive')
         prose=select(root,'intro-story')[0]
         for p in prose.xpath('.//p')[1:]:drop(p)
         if prose.xpath('.//p'):contents(prose.xpath('.//p')[0],data['intro_body'])
@@ -162,6 +170,13 @@ def compact(path,body,content):
         for el in select(root,'directory-note'):
             for p in el.xpath('./p'):drop(p)
     if page=='academics':
+        owner_cover('learning-computers')
+        p=campus['class-operations'];image=root.xpath('.//*[@id="program-photo"]')[0]
+        image.set('src',p['path']);image.set('alt',p['alt'])
+        image.set('width',str(p['width']));image.set('height',str(p['height']))
+        visual=select(root,'program-visual')[0];overlay=visual.xpath('./span')[0]
+        number=overlay.xpath('./b')[0];number.tail=None
+        caption=LH.Element('span',{'id':'program-photo-caption'});caption.text=p['caption'];overlay.append(caption)
         for el in select(root,'academic-jump'):drop(el)
         for panel in select(root,'learning-panel'):
             for el in select(panel,'kicker'):drop(el)

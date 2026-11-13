@@ -2,7 +2,7 @@ from pathlib import Path
 from collections import defaultdict
 from PIL import Image
 from lxml import html as LH
-import json,hashlib
+import json,hashlib,re
 
 root=Path(__file__).resolve().parents[2];dist=root/'dist'
 selected=json.loads((root/'content/japan-photo-selection.json').read_text(encoding='utf-8'))
@@ -35,16 +35,21 @@ for page in dist.glob('*.html'):
         src=im.get('src')
         if src not in units:continue
         trigger=im.xpath('ancestor::a[@data-story-open]')
-        unit=page.name+'#'+(trigger[0].get('data-story-open') if trigger else 'photo-'+str(i))
+        unit=page.name+'#'+('learning-tab-0' if im.get('id')=='program-photo' else trigger[0].get('data-story-open') if trigger else 'photo-'+str(i))
         units[src].add(unit)
     for script in tree.xpath('//script[@id="editorial-story-data"]'):
         for story in json.loads(script.text):
             for im in story['images']:
                 if im['src'] in units:units[im['src']].add(page.name+'#'+story['id'])
+# Include photographs shown only after selecting an academic tab.
+script=(dist/'assets/interior.js').read_text(encoding='utf-8')
+tab_images=json.loads(re.search(r'const images=(\[.*\]);',script).group(1))
+for i,p in enumerate(tab_images):
+    if p[0] in units:units[p[0]].add('academics.html#learning-tab-'+str(i))
 for path,uses in units.items():
     if len(uses)!=1:errors.append({'path':path,'editorial_units':sorted(uses)})
 all_hashes=[hashlib.sha256((dist/p).read_bytes()).hexdigest() for p in all_paths]
 if len(all_hashes)!=len(set(all_hashes)):errors.append('Owner photograph duplicated under different filenames')
-report={'scope':'Owner-selected Japan and campus photographs across all English pages, including story JSON. Language counterparts and the enlarged view of the same story intentionally share assets. Other pre-existing campus/news/source photos are outside this audit.','new_selected_photos':len(selected['photos']),'distinct_japan_photos':len(paths),'each_photo_used_once':not errors,'closest_perceptual_pair_distance':min(p['distance'] for p in pairs),'new_webp_total_bytes':sum((dist/p['path']).stat().st_size for p in selected['photos'].values()),'placements':dict(placements),'additional_campus_photos':len(campus),'owner_editorial_units':{p:sorted(v) for p,v in units.items()},'new_pages_or_web_assets':0,'errors':errors}
+report={'scope':'Owner-selected Japan and campus photographs across all English pages, including story JSON and academic-tab JavaScript. Language counterparts and the enlarged view of the same story intentionally share assets. Other pre-existing campus/news/source photos are outside this audit.','new_selected_photos':len(selected['photos']),'distinct_japan_photos':len(paths),'each_photo_used_once':not errors,'closest_perceptual_pair_distance':min(p['distance'] for p in pairs),'new_webp_total_bytes':sum((dist/p['path']).stat().st_size for p in selected['photos'].values()),'placements':dict(placements),'additional_campus_photos':len(campus),'owner_editorial_units':{p:sorted(v) for p,v in units.items()},'new_pages':0,'latest_added_optimized_assets':len(selected.get('latest_campus_update',{}).get('added_optimized_asset_files',[])),'errors':errors}
 (root/'japan-photo-audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
 print(json.dumps(report,ensure_ascii=False,indent=2));raise SystemExit(bool(errors))
