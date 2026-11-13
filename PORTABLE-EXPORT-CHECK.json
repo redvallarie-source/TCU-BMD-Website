@@ -7,7 +7,8 @@
     "verify_faculty_life.py",
     "verify_global_learning.py",
     "verify_internships.py",
-    "verify_compact_editorial.py"
+    "verify_compact_editorial.py",
+    "verify_information_design.py"
   ],
   "all_checks": "passed",
   "http_preview": {
@@ -18,5 +19,8 @@
     "self_hosted_font": 200
   },
   "pages": 326,
-  "notes": "The original Git metadata and hosting credentials are not included. Local edits need a separate deployment to update the live website."
+  "notes": "The original Git metadata and hosting credentials are not included. Local edits need a separate deployment to update the live website.",
+  "latest_photo_update": "2026-11-13",
+  "owner_photographs_used_once": 24,
+  "internship_photos_per_work_tab": 1
 }

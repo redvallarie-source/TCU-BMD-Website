@@ -7,10 +7,10 @@
  function storyTarget(hash){
   try{const target=document.getElementById(decodeURIComponent(hash.slice(1)));return target&&(target===story||story.contains(target))?target:null}catch{return null}
  }
- function openStoryTarget(target){for(let el=target;el&&story.contains(el);el=el.parentElement){if(el.tagName==='DETAILS')el.open=true}story.open=true}
+ function openStoryTarget(target){for(let el=target;el&&story.contains(el);el=el.parentElement){if(el.tagName==='DETAILS')el.open=true}story.open=true;const panel=target.closest('.intern-work-panel');if(panel){const index=panels.indexOf(panel);if(index>=0)select(index)}}
  function revealStoryHash(){const target=storyTarget(location.hash);if(target){openStoryTarget(target);requestAnimationFrame(()=>target.scrollIntoView({behavior:'instant',block:'start'}))}}
  scope.querySelectorAll('a[href^="#"]').forEach(link=>link.addEventListener('click',()=>{const target=storyTarget(link.hash);if(target)openStoryTarget(target)}));
- window.addEventListener('hashchange',revealStoryHash);revealStoryHash();
+ window.addEventListener('hashchange',revealStoryHash);
  const small=matchMedia('(max-width:650px)');
  const tabs=[...scope.querySelectorAll('[data-intern-tab]')];
  const panels=[...scope.querySelectorAll('.intern-work-panel')];
@@ -32,7 +32,7 @@
   });
  });
  function orientation(){list.setAttribute('aria-orientation',list.closest('.intern-extra-notes')||small.matches?'horizontal':'vertical')}
- small.addEventListener('change',orientation);orientation();select(0);
+ small.addEventListener('change',orientation);orientation();select(0);revealStoryHash();
  const headings=[...scope.querySelectorAll('[data-intern-reveal]')];
  if(!reduce.matches&&'IntersectionObserver' in window){
   const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('is-read');observer.unobserve(entry.target)}}),{threshold:.15});

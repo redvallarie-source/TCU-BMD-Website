@@ -1,10 +1,10 @@
 {
   "scope": "Owner-selected Japan and campus photographs across all English pages, including story JSON and academic-tab JavaScript. Language counterparts and the enlarged view of the same story intentionally share assets. Other pre-existing campus/news/source photos are outside this audit.",
   "new_selected_photos": 7,
-  "distinct_japan_photos": 10,
+  "distinct_japan_photos": 9,
   "each_photo_used_once": true,
   "closest_perceptual_pair_distance": 26,
-  "new_webp_total_bytes": 1253574,
+  "new_webp_total_bytes": 1339604,
   "placements": {
     "assets/life/japan-service.webp": [
       "student-life.html"
@@ -24,13 +24,10 @@
     "assets/internships/welcome-gathering.webp": [
       "internships.html"
     ],
+    "assets/internships/communication-activity.webp": [
+      "internships.html"
+    ],
     "assets/internships/meal-preparation.webp": [
-      "internships.html"
-    ],
-    "assets/internships/community-visit.webp": [
-      "internships.html"
-    ],
-    "assets/internships/disaster-prevention.webp": [
       "internships.html"
     ],
     "assets/internships/tea-culture.webp": [
@@ -39,32 +36,35 @@
   },
   "additional_campus_photos": 15,
   "owner_editorial_units": {
-    "assets/life/japan-service.webp": [
-      "student-life.html#photo-3"
-    ],
-    "assets/photos/library-computers.webp": [
-      "academics.html#photo-0"
-    ],
-    "assets/life/photo-booth.webp": [
-      "student-life.html#photo-0"
-    ],
-    "assets/life/hualien-life.webp": [
-      "index.html#photo-16"
-    ],
-    "assets/life/final-project.webp": [
-      "introduction.html#intro-learning"
-    ],
-    "assets/photos/class-learning.webp": [
-      "academics.html#learning-tab-0"
-    ],
-    "assets/internships/disaster-prevention.webp": [
-      "internships.html#photo-13"
+    "assets/international-student-campus-visit.webp": [
+      "index.html#study-culinary"
     ],
     "assets/photos/department-group.webp": [
       "introduction.html#photo-0"
     ],
+    "assets/life/hualien-life.webp": [
+      "index.html#photo-16"
+    ],
+    "assets/internships/meal-preparation.webp": [
+      "internships.html#photo-12"
+    ],
+    "assets/internships/meal-trays-programme.webp": [
+      "internships.html#programme-japan"
+    ],
+    "assets/life/presentations.webp": [
+      "introduction.html#intro-learning"
+    ],
+    "assets/photos/library-computers.webp": [
+      "academics.html#photo-0"
+    ],
     "assets/internships/tea-culture.webp": [
-      "internships.html#photo-14"
+      "internships.html#photo-13"
+    ],
+    "assets/internships/communication-activity.webp": [
+      "internships.html#photo-11"
+    ],
+    "assets/photos/class-study.webp": [
+      "index.html#study-operations"
     ],
     "assets/life/japan-preparation.webp": [
       "student-life.html#photo-4"
@@ -72,14 +72,29 @@
     "assets/life/podcast-project.webp": [
       "index.html#study-smart"
     ],
-    "assets/internships/welcome-gathering.webp": [
-      "internships.html#photo-10"
+    "assets/life/final-project.webp": [
+      "introduction.html#intro-learning"
     ],
     "assets/home-jianguo.webp": [
       "index.html#photo-0"
     ],
-    "assets/internships/community-visit.webp": [
-      "internships.html#photo-12"
+    "assets/internships/welcome-gathering.webp": [
+      "internships.html#photo-10"
+    ],
+    "assets/life/photo-booth.webp": [
+      "student-life.html#photo-0"
+    ],
+    "assets/campus-mountain-building.webp": [
+      "index.html#photo-1"
+    ],
+    "assets/life/hospital-visit.webp": [
+      "student-life.html#photo-1"
+    ],
+    "assets/photos/class-learning.webp": [
+      "academics.html#learning-tab-0"
+    ],
+    "assets/life/japan-service.webp": [
+      "student-life.html#photo-3"
     ],
     "assets/life/baking-practice.webp": [
       "academics.html#learning-tab-3"
@@ -87,29 +102,8 @@
     "assets/internships/kitchen-team-summary.webp": [
       "internships.html#photo-8"
     ],
-    "assets/life/presentations.webp": [
-      "introduction.html#intro-learning"
-    ],
     "assets/internships/tokyo-cohort.webp": [
       "internships.html#photo-9"
-    ],
-    "assets/photos/class-study.webp": [
-      "index.html#study-operations"
-    ],
-    "assets/internships/meal-preparation.webp": [
-      "internships.html#photo-11"
-    ],
-    "assets/internships/meal-trays-programme.webp": [
-      "internships.html#programme-japan"
-    ],
-    "assets/campus-mountain-building.webp": [
-      "index.html#photo-1"
-    ],
-    "assets/international-student-campus-visit.webp": [
-      "index.html#study-culinary"
-    ],
-    "assets/life/hospital-visit.webp": [
-      "student-life.html#photo-1"
     ],
     "assets/life/learning-together.webp": [
       "index.html#photo-14"

@@ -17,29 +17,6 @@
       "height": 1108,
       "origin": "Participant-provided report, page 8"
     },
-    "home": {
-      "path": "assets/internships/community-visit.webp",
-      "alt": "Interns helping clean during a community home visit",
-      "caption": "Practical help on a community visit · 8 July 2026",
-      "width": 1600,
-      "height": 1200,
-      "origin": "Participant-provided report, page 5"
-    },
-    "drill": {
-      "path": "assets/internships/disaster-prevention.webp",
-      "alt": "Students practising with an emergency-exit exhibit during disaster-prevention training",
-      "caption": "Emergency-exit practice · Tokyo internship, 2026",
-      "width": 1200,
-      "height": 900,
-      "source_file": "https://drive.google.com/file/d/1SM7pYgaLzFAsTG-G6PnJRtR625698tiC/view",
-      "source_filename": "LINE_ALBUM_2026713消防館防災體驗_260806_4.jpg",
-      "source_dimensions": [
-        1200,
-        900
-      ],
-      "sha256": "cbf52891e77d51b596a5065c99ae691be10b4c18a6475e1d627c79ebf3a42fff",
-      "origin": "Participant photo selected from the owner-provided Google Drive folder"
-    },
     "tea": {
       "path": "assets/internships/tea-culture.webp",
       "alt": "Students holding tea bowls during a Japanese tea-culture activity",
@@ -69,6 +46,22 @@
       ],
       "sha256": "8ae67a28696cffd5185c0a9808aa0a656c38175ee5045c7f86639f5fa15c2707",
       "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    },
+    "communication": {
+      "path": "assets/internships/communication-activity.webp",
+      "alt": "Internship participants taking part in a small-group activity in Japan",
+      "caption": "Communication at a community activity · Tokyo internship, 2026",
+      "width": 1600,
+      "height": 1200,
+      "source_file": "https://drive.google.com/file/d/1_TyHG0GhYGvbGn4j32h7Jjh6G7Bubjxt/view",
+      "source_folder": "https://drive.google.com/drive/folders/14PEjdrhwiuAybdmpjwoJLLiBaA-cVWrk",
+      "source_filename": "LINE_ALBUM_2026721 小築活動_260806_1.jpg",
+      "source_dimensions": [
+        2048,
+        1536
+      ],
+      "sha256": "4c92bb93bd6fdaec36ac3032a197f393227895ee72b22e15f14a542b304dae2d",
+      "origin": "Participant photograph selected from the owner-provided Japan album; caption describes the visible community activity."
     }
   },
   "summary_photo": {
@@ -85,5 +78,20 @@
     ],
     "sha256": "64c2e9b8169869cec702716f9893c51178add49759278e82b9c85ffb56d6752a",
     "origin": "Participant photo selected from the owner-provided Google Drive folder"
+  },
+  "placement": "Exactly one photograph in each of the existing four work tabs; no separate photo gallery.",
+  "work_tab_photos": {
+    "office": [
+      "welcome"
+    ],
+    "language": [
+      "communication"
+    ],
+    "community": [
+      "meal"
+    ],
+    "culture": [
+      "tea"
+    ]
   }
 }

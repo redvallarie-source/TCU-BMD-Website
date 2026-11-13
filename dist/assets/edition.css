@@ -416,7 +416,7 @@ html:lang(zh-Hant) :is(.interior-page .page-hero h1,.bmd-life h2,.bmd-internship
  .editorial-motion .kinetic-heading{font-size:55px;margin-bottom:16px}
  .editorial-motion .life-routes{margin-top:16px;gap:12px 24px}
  .editorial-motion .life-routes a{font-size:15px}
- .life-photo-window{height:290px;border-radius:2px 24px 2px 2px}
+ .life-photo-window{width:100%;height:auto;aspect-ratio:16/10;border-radius:2px 24px 2px 2px}
  .life-scene[src$="hualien-life.webp"]{object-fit:contain;transform:none!important}
  .life-stage figcaption{font-size:12px;line-height:1.6}
  .pathways-grid{grid-template-columns:1fr;gap:26px}

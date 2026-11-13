@@ -1,0 +1,73 @@
+[
+  {
+    "caption": "經管系的我們・參與者提供",
+    "overflow": false,
+    "page": "/zh-introduction.html",
+    "width": 390
+  },
+  {
+    "actionCaption": "臺北慈濟醫院・志工活動",
+    "overflow": false,
+    "page": "/zh-index.html",
+    "width": 390
+  },
+  {
+    "collage": "View photo\nYide Ri gathering · Participant photograph\nView photo\nTaipei Tzu Chi Hospital · Participant photograph",
+    "overflow": false,
+    "page": "/student-life.html",
+    "width": 390
+  },
+  {
+    "overflow": false,
+    "page": "/zh-student-life.html",
+    "width": 390
+  },
+  {
+    "overflow": false,
+    "page": "/introduction.html",
+    "width": 1280
+  },
+  {
+    "images": [
+      {
+        "loaded": true,
+        "src": "assets/life/photo-booth.webp"
+      },
+      {
+        "loaded": true,
+        "src": "assets/life/hospital-visit.webp"
+      }
+    ],
+    "overflow": false,
+    "page": "/student-life.html",
+    "width": 1280
+  },
+  {
+    "caption": "臺北慈濟醫院・志工活動",
+    "overflow": false,
+    "page": "/zh-index.html",
+    "photoWindow": 337.6750183105469,
+    "width": 390
+  },
+  {
+    "images": [
+      {
+        "loaded": true,
+        "src": "assets/life/photo-booth.webp"
+      },
+      {
+        "loaded": true,
+        "src": "assets/life/hospital-visit.webp"
+      }
+    ],
+    "overflow": false,
+    "page": "/student-life.html",
+    "width": 1280
+  },
+  {
+    "heroCaption": "Jieren Campus · Hualien",
+    "overflow": false,
+    "page": "/index.html",
+    "width": 1280
+  }
+]

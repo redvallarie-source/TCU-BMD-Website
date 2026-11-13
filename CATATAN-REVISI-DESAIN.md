@@ -69,3 +69,33 @@ Audit japan-photo-audit.json mencatat 10 foto Jepang yang berbeda, masing-masing
 Sesuai arahan pemilik, lima foto dari folder BMD menggantikan slot gambar yang sudah ada: baking pada Culinary Management, Yide Ri dan relawan RS Tzu Chi Taipei pada pembuka Life at BMD, serta hua dao/cha dao pada detail kreativitas di Introduction. Tidak ada halaman, galeri, modul, atau aset gambar web baru. Foto lama yang masih diperlukan oleh tab proyek memakai salinan kanonis yang sudah tersedia, sehingga foto bunga/teh tidak ikut muncul pada proyek akademik yang berbeda.
 
 Caption dan alt text mengikuti foto serta konteks kegiatan dari pemilik; tidak menambahkan tanggal, nama orang, atau klaim hasil kegiatan. Audit terbaru mencakup 15 foto pilihan pemilik dan menghitung unit editorial di seluruh halaman Inggris, termasuk gambar yang berada di data popup. Masing-masing hanya ditempatkan pada satu unit; versi Mandarin dan pembesaran foto merupakan tampilan dari unit yang sama. Foto lain dalam folder tidak dipaksakan masuk.
+
+## Pembaruan foto kampus — 13 November 2026
+
+Sepuluh foto tambahan dari folder pemilik menggantikan gambar pada bagian yang sudah ada. Home memakai foto kedua yang dikonfirmasi pemilik sebagai Jianguo, serta foto dengan papan nama Jieren yang terlihat jelas. Foto ketiga komunitas BMD pada slideshow Home dipertahankan. Introduction memakai foto kelompok BMD dari koleksi pemilik; rasio tampilannya mengikuti foto agar seluruh kelompok terlihat.
+
+Operations Management pada Home memakai mahasiswa yang sedang belajar dan menulis di kelas. Smart Business memakai foto lain di komputer perpustakaan. Pembuka Learning Directions memakai foto komputer perpustakaan yang berbeda, dengan caption yang menyebut lokasi tersebut secara akurat. Tab Operations Management menampilkan pengajaran di kelas; tab Culinary Management memakai foto praktik baking tersendiri. Baking bersama yang sudah dipasang tetap menjadi foto Culinary pada Home.
+
+Ideas into practice memakai suasana kelas yang berbeda. Ideas into action memakai kelompok relawan RS Tzu Chi Taipei; foto ini dipindahkan dari pembuka Student Life agar tidak berulang. Pembuka Student Life kini memakai foto gedung rumah sakit dari kunjungan yang sama. Seluruh caption, alt text, kredit foto kampus, dan pergantian caption interaktif diperbarui dalam bahasa Inggris/Mandarin Tradisional.
+
+Foto UK summer study, Mao Mao Xiaoyin, Whisper Tour, presentasi mahasiswa, serta Sustainable Innovation/Grace menunggu pilihan berikutnya dari pemilik. Penggantian Workplace Learning juga menunggu kejelasan foto ZY campus. Foto dan konteks lama yang terkait bagian tersebut tetap dipertahankan sementara, sesuai balasan pemilik.
+
+Tidak ada halaman, galeri, atau bagian baru. Delapan aset WebP tambahan diperlukan untuk menyimpan foto yang berbeda tanpa menimpa foto kanonis pada publikasi lama; dua berkas gambar yang hanya dipakai oleh slot terkait diganti langsung. Aset web dioptimalkan dan tidak membawa EXIF. Provenans lengkap tercatat dalam content/japan-photo-selection.json.
+
+Keenam pemeriksaan proyek lolos pada 326 halaman. Audit foto kini mencakup 25 foto Jepang/kampus pilihan, termasuk data popup dan tab dinamis: masing-masing memiliki satu penempatan editorial; padanan bahasa dan pembesaran berbagi foto yang sama. Foto berita dan publikasi arsip lama berada di luar klaim ini.
+
+Pemeriksaan browser mencakup foto Home, popup Operations/Smart Business, Introduction, tab Culinary Management Inggris/Mandarin, serta viewer Student Life. Tampilan desktop 1280 piksel dan ponsel 390 piksel diperiksa. Lebar bingkai foto Ideas into action diperbaiki agar mengikuti layar ponsel; foto kelompok ditampilkan utuh. Preview berjalan di http://127.0.0.1:4174/. Folder yang sama dibuka di Visual Studio Code; website online belum dipublikasikan ulang.
+
+## Foto Jepang mengikuti tab yang sudah ada
+
+Sesuai koreksi pemilik, galeri terpisah “Work, service & culture” digabung ke empat tab kerja yang sudah ada. Service & operations menampilkan foto dapur serta kunjungan komunitas; Culture & independence menampilkan latihan darurat dan teh. Foto pertemuan relawan yang sebelumnya berada di samping semua tab kini hanya muncul pada Office & finance, dengan caption aslinya. Translation & media tetap berupa uraian singkat karena koleksi foto yang dipilih belum memuat kegiatan penerjemahan. Tidak ada foto baru, salinan gambar tambahan, halaman baru, atau galeri terpisah.
+
+Foto yang diperbesar tetap memakai viewer yang sama. Tautan lama #intern-service membuka tab Service beserta kedua lapisan ringkasan. Versi Mandarin memakai struktur yang sama. Enam pemeriksaan proyek dan audit 25 foto pilihan lolos; perpindahan tab, navigasi keyboard, viewer foto, tautan langsung, serta tampilan Mandarin pada lebar 390 piksel diperiksa di browser. Kode tersimpan pada folder proyek yang sama dengan Visual Studio Code.
+
+## Satu foto untuk masing-masing tab Jepang
+
+Arahan terbaru pemilik menggantikan susunan berpasangan: kini keempat tab masing-masing memiliki tepat satu foto berbeda. Office & finance memakai pertemuan relawan; Translation & media memakai foto kegiatan komunikasi kelompok yang dipilih dari album 小築活動 milik pemilik; Service & operations memakai dapur; Culture & independence memakai teh. Caption foto komunikasi menjelaskan konteks kegiatan komunitas, tanpa menyatakan bahwa foto tersebut memperlihatkan pekerjaan penerjemahan atau penyuntingan subtitle.
+
+Foto kunjungan rumah dan latihan darurat dipensiunkan dari tampilan tab. Tidak ada galeri tambahan. Berkas foto kunjungan yang tidak lagi digunakan diganti dan dinamai communication-activity.webp agar browser memuat pilihan baru; jumlah aset gambar web tetap sama. Alt text, caption Inggris/Mandarin, viewer, dan data penempatan foto diperbarui bersama.
+
+Semua enam pemeriksaan lolos, termasuk pemeriksaan tepat satu foto per panel dalam kedua bahasa. Audit terbaru mencakup 24 foto pilihan yang masih aktif, masing-masing satu penempatan. Empat tab dan pembesaran foto diperiksa pada desktop; tab komunikasi Mandarin juga diperiksa pada lebar 390 piksel tanpa overflow. Perubahan berada di proyek lokal yang sama dengan Visual Studio Code.

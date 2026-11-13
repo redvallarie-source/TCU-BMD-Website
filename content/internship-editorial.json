@@ -194,7 +194,9 @@
     "Students practising with an emergency-exit exhibit during disaster-prevention training": "學生在防災體驗中操作緊急出口體驗設施",
     "Emergency-exit practice · Tokyo internship, 2026": "緊急出口體驗・2026 年東京實習",
     "Internship participants and volunteers behind a table of prepared meals": "實習學生與志工在備妥餐點的桌子後方合影",
-    "With the kitchen team · Tzu Chi Japan, 2026": "與廚房團隊合影・2026 年慈濟日本分會"
+    "With the kitchen team · Tzu Chi Japan, 2026": "與廚房團隊合影・2026 年慈濟日本分會",
+    "Internship participants taking part in a small-group activity in Japan": "實習學生在日本參與小組活動",
+    "Communication at a community activity · Tokyo internship, 2026": "社區活動中的交流・2026 年東京實習"
   },
   "work": [
     {
@@ -203,7 +205,8 @@
       "title": "Receipts, records & files.",
       "body": "Sort and enter receipts, count coins, prepare mail, organise files, and make presentations.",
       "tasks": "Receipt records · Spreadsheets · Document preparation",
-      "skills": "Accuracy, basic financial administration, and time management."
+      "skills": "Accuracy, basic financial administration, and time management.",
+      "photo_key": "welcome"
     },
     {
       "id": "language",
@@ -211,7 +214,8 @@
       "title": "From Mandarin to Japanese.",
       "body": "Transcribe Master Cheng Yen’s talks, translate into Japanese, edit subtitles, and turn interviews into posters.",
       "tasks": "Transcription · Japanese translation · Subtitle editing · Posters",
-      "skills": "Cross-cultural communication, careful listening, and presenting information for an audience."
+      "skills": "Cross-cultural communication, careful listening, and presenting information for an audience.",
+      "photo_key": "communication"
     },
     {
       "id": "community",
@@ -219,7 +223,8 @@
       "title": "Preparing, serving, organising.",
       "body": "Prepare meals, pack bento, set up activities, and support community visits with volunteers.",
       "tasks": "Food preparation · Service flow · Supplies · Team coordination",
-      "skills": "Resource allocation, practical problem solving, and respectful service."
+      "skills": "Resource allocation, practical problem solving, and respectful service.",
+      "photo_key": "meal"
     },
     {
       "id": "culture",
@@ -227,7 +232,8 @@
       "title": "Tea, crafts & safety.",
       "body": "Tea ceremony, omamori making, safety practice, and health activities offered experience beyond office work.",
       "tasks": "Cultural activities · Safety practice · Volunteer interaction",
-      "skills": "Adaptability, confidence, and awareness of different ways of working."
+      "skills": "Adaptability, confidence, and awareness of different ways of working.",
+      "photo_key": "tea"
     }
   ],
   "preparation": [
@@ -261,29 +267,6 @@
       "height": 1108,
       "origin": "Participant-provided report, page 8"
     },
-    "home": {
-      "path": "assets/internships/community-visit.webp",
-      "alt": "Interns helping clean during a community home visit",
-      "caption": "Practical help on a community visit · 8 July 2026",
-      "width": 1600,
-      "height": 1200,
-      "origin": "Participant-provided report, page 5"
-    },
-    "drill": {
-      "path": "assets/internships/disaster-prevention.webp",
-      "alt": "Students practising with an emergency-exit exhibit during disaster-prevention training",
-      "caption": "Emergency-exit practice · Tokyo internship, 2026",
-      "width": 1200,
-      "height": 900,
-      "source_file": "https://drive.google.com/file/d/1SM7pYgaLzFAsTG-G6PnJRtR625698tiC/view",
-      "source_filename": "LINE_ALBUM_2026713消防館防災體驗_260806_4.jpg",
-      "source_dimensions": [
-        1200,
-        900
-      ],
-      "sha256": "cbf52891e77d51b596a5065c99ae691be10b4c18a6475e1d627c79ebf3a42fff",
-      "origin": "Participant photo selected from the owner-provided Google Drive folder"
-    },
     "tea": {
       "path": "assets/internships/tea-culture.webp",
       "alt": "Students holding tea bowls during a Japanese tea-culture activity",
@@ -313,6 +296,22 @@
       ],
       "sha256": "8ae67a28696cffd5185c0a9808aa0a656c38175ee5045c7f86639f5fa15c2707",
       "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    },
+    "communication": {
+      "path": "assets/internships/communication-activity.webp",
+      "alt": "Internship participants taking part in a small-group activity in Japan",
+      "caption": "Communication at a community activity · Tokyo internship, 2026",
+      "width": 1600,
+      "height": 1200,
+      "source_file": "https://drive.google.com/file/d/1_TyHG0GhYGvbGn4j32h7Jjh6G7Bubjxt/view",
+      "source_folder": "https://drive.google.com/drive/folders/14PEjdrhwiuAybdmpjwoJLLiBaA-cVWrk",
+      "source_filename": "LINE_ALBUM_2026721 小築活動_260806_1.jpg",
+      "source_dimensions": [
+        2048,
+        1536
+      ],
+      "sha256": "4c92bb93bd6fdaec36ac3032a197f393227895ee72b22e15f14a542b304dae2d",
+      "origin": "Participant photograph selected from the owner-provided Japan album; caption describes the visible community activity."
     }
   },
   "document_titles": {
@@ -374,5 +373,30 @@
     ],
     "sha256": "64c2e9b8169869cec702716f9893c51178add49759278e82b9c85ffb56d6752a",
     "origin": "Participant photo selected from the owner-provided Google Drive folder"
+  },
+  "retired_photos": {
+    "home": {
+      "alt": "Interns helping clean during a community home visit",
+      "caption": "Practical help on a community visit · 8 July 2026",
+      "width": 1600,
+      "height": 1200,
+      "origin": "Participant-provided report, page 5",
+      "former_web_path": "assets/internships/community-visit.webp"
+    },
+    "drill": {
+      "path": "assets/internships/disaster-prevention.webp",
+      "alt": "Students practising with an emergency-exit exhibit during disaster-prevention training",
+      "caption": "Emergency-exit practice · Tokyo internship, 2026",
+      "width": 1200,
+      "height": 900,
+      "source_file": "https://drive.google.com/file/d/1SM7pYgaLzFAsTG-G6PnJRtR625698tiC/view",
+      "source_filename": "LINE_ALBUM_2026713消防館防災體驗_260806_4.jpg",
+      "source_dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "cbf52891e77d51b596a5065c99ae691be10b4c18a6475e1d627c79ebf3a42fff",
+      "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    }
   }
 }

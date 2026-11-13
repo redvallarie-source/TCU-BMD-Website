@@ -13,6 +13,7 @@ material=json.loads((ROOT/'content/internship-editorial.json').read_text())
 errors=[]
 baseline=json.loads((ROOT/'content/portable-baseline.json').read_text())
 original_files=set(baseline['internship_documents'])
+expected_photos=len(material['photos'])+2  # Two existing global-learning cover photographs.
 for name in ['internships.html','zh-internships.html']:
     tree=LH.parse(str(D/name));zh=name.startswith('zh-')
     files=set(tree.xpath('//*[@data-filter-item][self::a]/@href'))
@@ -23,9 +24,10 @@ for name in ['internships.html','zh-internships.html']:
     for tab in tabs:
         panel=tree.xpath('//*[@id=$id]',id=tab.get('aria-controls'))
         if len(panel)!=1 or panel[0].get('aria-labelledby')!=tab.get('id'):errors.append((name,'Broken tab relationship'))
+        if len(panel)==1 and len(panel[0].xpath('.//*[@data-gallery-open]'))!=1:errors.append((name,'Each work tab must contain exactly one photograph',tab.get('id')))
     if tree.xpath('//*[@role="tabpanel"][@hidden]'):errors.append((name,'Work content must be readable without JavaScript'))
     if len(tree.xpath('//*[@id="photo-dialog"]'))!=1:errors.append((name,'Photo viewer missing'))
-    if len(tree.xpath('//*[@data-gallery-open]'))!=8:errors.append((name,'Expected eight independent photographs'))
+    if len(tree.xpath('//*[@data-gallery-open]'))!=expected_photos:errors.append((name,'Independent photograph count changed'))
     if tree.xpath('//main//blockquote'):errors.append((name,'Feature must not become a testimonial'))
     if len(tree.xpath('//*[@data-ambient-surface]'))!=1:errors.append((name,'Expected one purposeful motion region'))
     for key,p in material['photos'].items():
@@ -56,7 +58,7 @@ for page in D.glob('*.html'):
         if label=='Published source content':preserved_sources+=len(current_values)
         else:preserved_tables+=len(current_values)
 
-report={'languages':2,'work_areas_per_language':4,'independent_photos':8,'original_document_urls_retained':len(original_files),'published_bodies_preserved':preserved_sources,'published_tables_preserved':preserved_tables,'errors':errors}
+report={'languages':2,'work_areas_per_language':4,'photos_per_work_tab':1,'independent_photos':expected_photos,'original_document_urls_retained':len(original_files),'published_bodies_preserved':preserved_sources,'published_tables_preserved':preserved_tables,'errors':errors}
 (ROOT/'internship-check-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
 print(json.dumps(report,ensure_ascii=False,indent=2))
 raise SystemExit(bool(errors))

@@ -14,5 +14,28 @@
     "original_document_counter_12_of_32": true,
     "pause_control_pauses_background_and_progress_dot": true
   },
-  "verification_limit": "Responsive breakpoints reviewed in source; no supported viewport emulation API used."
+  "verification_limit": "Responsive breakpoints reviewed in source; no supported viewport emulation API used.",
+  "work_tab_photos_2026_11_13": {
+    "photos_per_tab": 1,
+    "tabs": {
+      "office": "welcome",
+      "language": "communication",
+      "community": "meal",
+      "culture": "tea"
+    },
+    "new_selection": "LINE_ALBUM_2026721 小築活動_260806_1.jpg",
+    "separate_gallery": false,
+    "viewports_verified": [
+      1280,
+      390
+    ],
+    "languages_verified": [
+      "en",
+      "zh-Hant"
+    ],
+    "viewer_verified": true,
+    "mobile_overflow": false,
+    "new_communication_image_loaded": true,
+    "console_errors": []
+  }
 }

@@ -1,6 +1,6 @@
 {
   "source_folder": "https://drive.google.com/drive/folders/1Iuys6D9QVSl4sAdf8109YLcLqPhRNcU9",
-  "selection": "Seven participant photographs selected for distinct scenes. Each has one editorial placement; enlarged viewers reuse that placement. The Tokyo cover photograph remains unchanged.",
+  "selection": "Active participant photographs have distinct editorial placements. Each Japan work tab has one photograph; the Tokyo cover remains unchanged.",
   "photos": {
     "life-prep": {
       "path": "assets/life/japan-preparation.webp",
@@ -77,21 +77,6 @@
       "sha256": "dcf01ff7bb958ed61369ebb90d6f7935087bc7f9ef9a17da0d811fccb7e49c28",
       "origin": "Participant photo selected from the owner-provided Google Drive folder"
     },
-    "drill": {
-      "path": "assets/internships/disaster-prevention.webp",
-      "alt": "Students practising with an emergency-exit exhibit during disaster-prevention training",
-      "caption": "Emergency-exit practice · Tokyo internship, 2026",
-      "width": 1200,
-      "height": 900,
-      "source_file": "https://drive.google.com/file/d/1SM7pYgaLzFAsTG-G6PnJRtR625698tiC/view",
-      "source_filename": "LINE_ALBUM_2026713消防館防災體驗_260806_4.jpg",
-      "source_dimensions": [
-        1200,
-        900
-      ],
-      "sha256": "cbf52891e77d51b596a5065c99ae691be10b4c18a6475e1d627c79ebf3a42fff",
-      "origin": "Participant photo selected from the owner-provided Google Drive folder"
-    },
     "summary": {
       "path": "assets/internships/kitchen-team-summary.webp",
       "alt": "Internship participants and volunteers behind a table of prepared meals",
@@ -106,6 +91,22 @@
       ],
       "sha256": "64c2e9b8169869cec702716f9893c51178add49759278e82b9c85ffb56d6752a",
       "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    },
+    "communication": {
+      "path": "assets/internships/communication-activity.webp",
+      "alt": "Internship participants taking part in a small-group activity in Japan",
+      "caption": "Communication at a community activity · Tokyo internship, 2026",
+      "width": 1600,
+      "height": 1200,
+      "source_file": "https://drive.google.com/file/d/1_TyHG0GhYGvbGn4j32h7Jjh6G7Bubjxt/view",
+      "source_folder": "https://drive.google.com/drive/folders/14PEjdrhwiuAybdmpjwoJLLiBaA-cVWrk",
+      "source_filename": "LINE_ALBUM_2026721 小築活動_260806_1.jpg",
+      "source_dimensions": [
+        2048,
+        1536
+      ],
+      "sha256": "4c92bb93bd6fdaec36ac3032a197f393227895ee72b22e15f14a542b304dae2d",
+      "origin": "Participant photograph selected from the owner-provided Japan album; caption describes the visible community activity."
     }
   },
   "translations": {
@@ -160,7 +161,9 @@
     "Show photo: Jianguo Campus · Hualien": "顯示照片：建國校區・花蓮",
     "Show photo: Jieren Campus · Hualien": "顯示照片：介仁校區・花蓮",
     "Jianguo Campus · Hualien selected.": "已選擇建國校區・花蓮。",
-    "Jieren Campus · Hualien selected.": "已選擇介仁校區・花蓮。"
+    "Jieren Campus · Hualien selected.": "已選擇介仁校區・花蓮。",
+    "Internship participants taking part in a small-group activity in Japan": "實習學生在日本參與小組活動",
+    "Communication at a community activity · Tokyo internship, 2026": "社區活動中的交流・2026 年東京實習"
   },
   "additional_campus_photos": {
     "baking": {
@@ -438,5 +441,37 @@
       "Sustainable Innovation / Grace",
       "ZY campus identity"
     ]
+  },
+  "retired_photos": {
+    "drill": {
+      "path": "assets/internships/disaster-prevention.webp",
+      "alt": "Students practising with an emergency-exit exhibit during disaster-prevention training",
+      "caption": "Emergency-exit practice · Tokyo internship, 2026",
+      "width": 1200,
+      "height": 900,
+      "source_file": "https://drive.google.com/file/d/1SM7pYgaLzFAsTG-G6PnJRtR625698tiC/view",
+      "source_filename": "LINE_ALBUM_2026713消防館防災體驗_260806_4.jpg",
+      "source_dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "cbf52891e77d51b596a5065c99ae691be10b4c18a6475e1d627c79ebf3a42fff",
+      "origin": "Participant photo selected from the owner-provided Google Drive folder"
+    }
+  },
+  "latest_internship_tab_update": {
+    "date": "2026-11-13",
+    "one_photo_per_tab": {
+      "office": "welcome",
+      "language": "communication",
+      "community": "meal",
+      "culture": "tea"
+    },
+    "reused_image_path": "assets/internships/communication-activity.webp",
+    "retired_from_page": [
+      "Community home visit photograph",
+      "Emergency-exit photograph"
+    ],
+    "communication_photo_context": "Community small-group activity; the caption does not claim to show a translation or subtitle-editing task."
   }
 }

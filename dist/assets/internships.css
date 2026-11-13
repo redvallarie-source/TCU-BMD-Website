@@ -223,11 +223,16 @@ html:lang(zh-Hant) .beyond-programme-copy h4{letter-spacing:0}
 .intern-extra-notes[open]>summary>span:last-child{transform:rotate(45deg)}
 .intern-extra-notes .intern-work{padding-top:16px;padding-bottom:24px}
 .intern-extra-notes .intern-work .intern-section-head{display:none}
-.intern-extra-notes .intern-notebook{display:grid;grid-template-columns:1.4fr .6fr;gap:20px 30px}
+.intern-extra-notes .intern-notebook{display:block}
 .intern-extra-notes .intern-work-tabs{grid-column:1/-1;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;border-top:0;border-bottom:1px solid #ccd9c0}
 .intern-extra-notes .intern-work-tabs button{min-height:58px;padding:12px 16px;border:0;border-bottom:2px solid transparent;font-size:15px;display:flex;gap:10px;align-items:center;text-align:left}
 .intern-extra-notes .intern-work-tabs button[aria-selected="true"]{border-bottom-color:#396240}
-.intern-extra-notes .intern-work-panel{padding:24px;min-height:200px}
+.intern-extra-notes .intern-work-panel{display:grid;grid-template-columns:.9fr 1.1fr;gap:32px;padding:24px 0;min-height:0;align-items:start}
+.intern-extra-notes .intern-work-panel[hidden]{display:none}
+.intern-tab-photo{min-width:0;width:100%;max-width:460px;justify-self:end}
+.intern-extra-notes .intern-tab-photo .intern-photo>button{height:auto;aspect-ratio:4/3}
+.intern-extra-notes .intern-tab-photo .intern-photo figcaption{font-size:12px;line-height:1.6}
+.intern-tab-copy>.intern-link{margin-top:16px}
 .intern-extra-notes .intern-work-panel h3{font-size:32px;margin-bottom:15px}
 .intern-extra-notes .intern-work-panel p{font-size:16px;line-height:1.7}
 .intern-extra-notes .intern-notebook-photo .intern-photo>button{height:200px}
@@ -242,7 +247,8 @@ html:lang(zh-Hant) .intern-japan-story .intern-case-cover h2{font-family:var(--s
 @media(max-width:800px){
  .intern-japan-story .intern-case-cover{gap:30px}
  .intern-japan-story .intern-case-cover .intern-cover-photo>button{height:320px}
- .intern-extra-notes .intern-notebook{grid-template-columns:1fr}
+ .intern-extra-notes .intern-work-panel{grid-template-columns:1fr;gap:20px}
+ .intern-tab-photo{justify-self:start}
  .intern-extra-notes .intern-notebook-photo{max-width:330px}
  .intern-extra-notes .intern-work-tabs button{font-size:13px;padding:10px 8px}
  .intern-compact-photos{grid-template-columns:repeat(2,minmax(0,1fr))}
@@ -254,7 +260,7 @@ html:lang(zh-Hant) .intern-japan-story .intern-case-cover h2{font-family:var(--s
  .intern-japan-story .intern-case-cover .intern-cover-photo>button{height:auto;aspect-ratio:4/3}
  .intern-extra-notes .intern-work-tabs{grid-template-columns:repeat(2,minmax(0,1fr))}
  .intern-extra-notes .intern-work-tabs button{font-size:14px;min-height:54px}
- .intern-extra-notes .intern-work-panel{min-height:0;padding:20px}
+ .intern-extra-notes .intern-work-panel{min-height:0;padding:20px 0}
  .intern-extra-notes .intern-work-panel h3{font-size:29px}
  .intern-compact-gallery .intern-section-head{display:block}
  .intern-japan-story .intern-compact-gallery h2{font-size:25px}

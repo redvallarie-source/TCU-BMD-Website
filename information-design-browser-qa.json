@@ -120,5 +120,94 @@
       "Mandarin flower/tea dialog at 390px"
     ],
     "duplicates": "One editorial unit per owner-selected photograph, including story JSON"
+  },
+  "campus_photos_2026_11_13": {
+    "viewports": [
+      {
+        "caption": "經管系的我們・參與者提供",
+        "overflow": false,
+        "page": "/zh-introduction.html",
+        "width": 390
+      },
+      {
+        "actionCaption": "臺北慈濟醫院・志工活動",
+        "overflow": false,
+        "page": "/zh-index.html",
+        "width": 390
+      },
+      {
+        "collage": "View photo\nYide Ri gathering · Participant photograph\nView photo\nTaipei Tzu Chi Hospital · Participant photograph",
+        "overflow": false,
+        "page": "/student-life.html",
+        "width": 390
+      },
+      {
+        "overflow": false,
+        "page": "/zh-student-life.html",
+        "width": 390
+      },
+      {
+        "overflow": false,
+        "page": "/introduction.html",
+        "width": 1280
+      },
+      {
+        "images": [
+          {
+            "loaded": true,
+            "src": "assets/life/photo-booth.webp"
+          },
+          {
+            "loaded": true,
+            "src": "assets/life/hospital-visit.webp"
+          }
+        ],
+        "overflow": false,
+        "page": "/student-life.html",
+        "width": 1280
+      },
+      {
+        "caption": "臺北慈濟醫院・志工活動",
+        "overflow": false,
+        "page": "/zh-index.html",
+        "photoWindow": 337.6750183105469,
+        "width": 390
+      },
+      {
+        "images": [
+          {
+            "loaded": true,
+            "src": "assets/life/photo-booth.webp"
+          },
+          {
+            "loaded": true,
+            "src": "assets/life/hospital-visit.webp"
+          }
+        ],
+        "overflow": false,
+        "page": "/student-life.html",
+        "width": 1280
+      },
+      {
+        "heroCaption": "Jieren Campus · Hualien",
+        "overflow": false,
+        "page": "/index.html",
+        "width": 1280
+      }
+    ],
+    "interactions_verified": [
+      "Home Jianguo/Jieren photo selection and bilingual captions",
+      "Operations Management and Smart Business story dialogs",
+      "Culinary Management tab image, caption and alt in English and Traditional Chinese",
+      "Student Life hospital photo viewer",
+      "Mobile Ideas into action image fits its parent width"
+    ],
+    "manual_visual_checks": [
+      "Home campus images and classroom tile crops",
+      "Introduction group photograph at natural aspect ratio on desktop and mobile",
+      "All hospital-group participants visible in mobile action scene"
+    ],
+    "browser_console_errors": [],
+    "verification_limit": "Browser viewport testing; no physical-device test. Historical source/news photographs outside the owner-photo duplication audit."
   }
 }
