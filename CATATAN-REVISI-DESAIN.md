@@ -99,3 +99,11 @@ Arahan terbaru pemilik menggantikan susunan berpasangan: kini keempat tab masing
 Foto kunjungan rumah dan latihan darurat dipensiunkan dari tampilan tab. Tidak ada galeri tambahan. Berkas foto kunjungan yang tidak lagi digunakan diganti dan dinamai communication-activity.webp agar browser memuat pilihan baru; jumlah aset gambar web tetap sama. Alt text, caption Inggris/Mandarin, viewer, dan data penempatan foto diperbarui bersama.
 
 Semua enam pemeriksaan lolos, termasuk pemeriksaan tepat satu foto per panel dalam kedua bahasa. Audit terbaru mencakup 24 foto pilihan yang masih aktif, masing-masing satu penempatan. Empat tab dan pembesaran foto diperiksa pada desktop; tab komunikasi Mandarin juga diperiksa pada lebar 390 piksel tanpa overflow. Perubahan berada di proyek lokal yang sama dengan Visual Studio Code.
+
+## 貓貓小飲 — 14 November 2026
+
+Foto yang dilampirkan pemilik menggantikan foto utama food stall pada bagian Student Life yang sudah ada. Nama dikonfirmasi sebagai 貓貓小飲 / Mao Mao Xiao Yin. Caption, alt text, judul singkat bagian, serta uraian Inggris/Mandarin mengikuti nama dan isi foto. Foto baru hanya ditempatkan sekali; viewer memperbesar gambar yang sama.
+
+Tanggal dan tujuan amal foto baru belum diberikan, sehingga foto tidak diberi atribusi acara援緬 2025. Dua foto arsip lain dalam kolase tetap berlabel jelas sebagai Myanmar-relief fair 2025 dan memiliki tautan laporan asal. Foto asli pada berita dan publikasi dipertahankan. Satu aset WebP khusus ditambahkan agar foto pemilik tidak ikut berulang pada Home dan Introduction yang masih memakai foto arsip lama.
+
+Keenam pemeriksaan proyek dan audit 25 foto pilihan lolos. Foto utama, caption, pembesaran foto, serta versi Mandarin pada lebar 390 piksel diperiksa di browser tanpa overflow. Aset dioptimalkan menjadi 287.548 byte tanpa EXIF. Preview lokal dan proyek Visual Studio Code diperbarui; publikasi online tetap terpisah.

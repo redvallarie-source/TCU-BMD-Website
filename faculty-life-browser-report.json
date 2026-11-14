@@ -15,5 +15,23 @@
     "Community motion is running; no horizontal overflow at desktop width"
   ],
   "responsive": "Desktop browser checked. Responsive rules reviewed in source; no phone-device test claimed.",
-  "content_basis": "Institutional copy from the owner brief, with original TCU photos and sources; no testimonial attribution or invented statistics."
+  "content_basis": "Institutional copy from the owner brief, with original TCU photos and sources; no testimonial attribution or invented statistics.",
+  "maomao_2026_11_14": {
+    "name_zh": "貓貓小飲",
+    "name_en": "Mao Mao Xiao Yin",
+    "slot": "Student Life community main photograph",
+    "owner_photo_placements": 1,
+    "languages": [
+      "en",
+      "zh-Hant"
+    ],
+    "viewports_checked": [
+      1280,
+      390
+    ],
+    "photo_viewer_caption_verified": true,
+    "mobile_photo_loaded": true,
+    "mobile_overflow": false,
+    "console_errors": []
+  }
 }

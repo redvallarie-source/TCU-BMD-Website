@@ -38,8 +38,8 @@
     },
     {
       "slot": "Community main",
-      "file": "assets/life/charity-stalls.webp",
-      "suggested_replacement": "Charity food stall or volunteering activity."
+      "file": "assets/life/mao-mao-xiao-yin.webp",
+      "suggested_replacement": "Owner-provided Mao Mao Xiao Yin (貓貓小飲) stall photograph; retain accurate bilingual caption and use once."
     },
     {
       "slot": "Community detail",
@@ -92,6 +92,10 @@
     "smart-computers": {
       "file": "assets/life/podcast-project.webp",
       "caption": "Digital study · Library computers"
+    },
+    "maomao": {
+      "file": "assets/life/mao-mao-xiao-yin.webp",
+      "caption": "Mao Mao Xiao Yin (貓貓小飲) · Student food stall"
     }
   }
 }

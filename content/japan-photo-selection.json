@@ -163,7 +163,22 @@
     "Jianguo Campus · Hualien selected.": "已選擇建國校區・花蓮。",
     "Jieren Campus · Hualien selected.": "已選擇介仁校區・花蓮。",
     "Internship participants taking part in a small-group activity in Japan": "實習學生在日本參與小組活動",
-    "Communication at a community activity · Tokyo internship, 2026": "社區活動中的交流・2026 年東京實習"
+    "Communication at a community activity · Tokyo internship, 2026": "社區活動中的交流・2026 年東京實習",
+    "Students posing together behind the Mao Mao Xiao Yin food and drink stall": "學生在貓貓小飲餐飲攤位後方合影",
+    "Mao Mao Xiao Yin (貓貓小飲) · Student food stall": "貓貓小飲・學生餐飲攤位",
+    "Student stalls.": "學生攤位。",
+    "Student food stall": "學生餐飲攤位",
+    "Mao Mao Xiao Yin: food, drinks, and teamwork behind the counter.": "貓貓小飲：從餐點、飲品到攤位分工，一起經營的學生團隊。",
+    "2025 charity fair · Archive": "2025 年義賣・校園紀錄",
+    "Student team · Myanmar-relief fair, 2025": "學生團隊・2025 年援緬義賣",
+    "Food stall · Myanmar-relief fair, 2025": "餐飲攤位・2025 年援緬義賣",
+    "Stalls & service": "攤位與服務",
+    "Behind the stall": "攤位背後",
+    "Plan a student stall.": "規劃學生攤位。",
+    "Coordinate the team.": "協調團隊分工。",
+    "Share roles, supplies, and timing.": "分配工作、物資與時間。",
+    "Welcome visitors.": "接待來訪者。",
+    "Explain the menu and answer questions.": "介紹餐點與飲品，回應來訪者的問題。"
   },
   "additional_campus_photos": {
     "baking": {
@@ -406,6 +421,20 @@
       ],
       "sha256": "c7029ea86732a45b827593bd3ddbeab00453af43e5fe39e871ebf1e7d51359c3",
       "origin": "Owner-provided authentic photograph; description follows visible content"
+    },
+    "maomao": {
+      "path": "assets/life/mao-mao-xiao-yin.webp",
+      "alt": "Students posing together behind the Mao Mao Xiao Yin food and drink stall",
+      "caption": "Mao Mao Xiao Yin (貓貓小飲) · Student food stall",
+      "width": 1600,
+      "height": 1200,
+      "source_filename": "codex-clipboard-fdcf66fa-1250-460e-9a51-f92a0d399363.png",
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "sha256": "eb6b30f75f62e8c010296f1b8526591c824c5e59c7dda707497213cd3283e592",
+      "origin": "Owner-provided photograph attached on 2026-11-14; stall name 貓貓小飲 confirmed by the owner. Event date and charitable purpose were not supplied."
     }
   },
   "latest_campus_update": {
@@ -435,7 +464,6 @@
     ],
     "deferred_until_owner_supplies_photos": [
       "UK summer study",
-      "Mao Mao Xiaoyin food stall",
       "Whisper Tour",
       "Student presentations",
       "Sustainable Innovation / Grace",
@@ -473,5 +501,12 @@
       "Emergency-exit photograph"
     ],
     "communication_photo_context": "Community small-group activity; the caption does not claim to show a translation or subtitle-editing task."
+  },
+  "latest_food_stall_update": {
+    "date": "2026-11-14",
+    "name_zh": "貓貓小飲",
+    "name_en": "Mao Mao Xiao Yin",
+    "existing_slot": "Student Life community main photograph",
+    "editorial_placements": 1
   }
 }

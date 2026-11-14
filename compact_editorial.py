@@ -126,7 +126,7 @@ def compact(path,body,content):
         examples=select(root,'life-volunteer-examples')
         for el in examples:
             details=LH.Element('details',{'class':'edition-volunteer-details'})
-            summary=LH.Element('summary');summary.text='Volunteer roles';details.append(summary)
+            summary=LH.Element('summary');summary.text=el.xpath('./h3')[0].text_content() if el.xpath('./h3') else 'Volunteer roles';details.append(summary)
             for child in list(el):
                 if child.tag!='h3':details.append(child)
             el.getparent().replace(el,details)
