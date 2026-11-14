@@ -32,7 +32,9 @@ This is a complete static website project, designed for GitHub Pages or static h
 
 ## Use on GitHub Pages
 
-Upload the **contents of `dist/`** to the folder that GitHub Pages publishes. Preserve the `assets/` directory and all relative filenames. Open the site through HTTP; the global search loads its local JSON index with fetch and therefore requires a web server.
+The workflow in `.github/workflows/pages.yml` publishes `dist/` to GitHub Pages when a commit is pushed to `main`, or when started manually. To enable it, open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**. After the first successful deployment, the site should be available at `https://redvallarie-source.github.io/TCU-BMD-Website/`.
+
+The workflow publishes the already-built site; after editing maintained sources, rebuild with `python -X utf8 build.py` and include the updated `dist/` files in the push. Open the site through HTTP; the global search loads its local JSON index with fetch and therefore requires a web server.
 
 ## Editing
 
