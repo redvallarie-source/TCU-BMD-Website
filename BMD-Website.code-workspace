@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "TCU BMD Website",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.root": "/dist"
+  }
+}

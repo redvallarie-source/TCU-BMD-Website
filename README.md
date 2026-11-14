@@ -1,5 +1,12 @@
 # Portable Codex desktop project — BMD v15
 
+Website: **https://redvallarie-source.github.io/TCU-BMD-Website/**
+
+Untuk Visual Studio Code, buka **BMD-Website.code-workspace** di folder ini.
+Halaman utama BMD adalah **dist/index.html**. Live Server diarahkan ke `dist/`.
+File `index.html` pada folder di luar proyek ini adalah proyek Whisper Tour
+yang terpisah, bukan halaman utama BMD.
+
 Mulai dari **MULAI-DI-CODEX.md** untuk petunjuk dalam bahasa Indonesia.
 Open this entire folder in the Codex app. `AGENTS.md` records the existing
 website and the owner's accepted design preferences.
@@ -18,8 +25,9 @@ python -X utf8 build.py
 python -X utf8 run_checks.py
 ```
 
-The ready-built website is in `dist/`. Local edits do not automatically update
-the published Site. Original Git metadata and hosting credentials are excluded.
+The ready-built website is in `dist/`. GitHub Pages publishes this directory
+when a commit is pushed to `main`. Rebuild and validate maintained-source changes
+before pushing. The portable ZIP excludes Git metadata and hosting credentials.
 The portable verification scripts compare immutable publication data with
 `content/portable-baseline.json`, rather than requiring the hosted Git history.
 The development history below describes the retained implementation.
@@ -32,7 +40,7 @@ This is a complete static website project, designed for GitHub Pages or static h
 
 ## Use on GitHub Pages
 
-The workflow in `.github/workflows/pages.yml` publishes `dist/` to GitHub Pages when a commit is pushed to `main`, or when started manually. To enable it, open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**. After the first successful deployment, the site should be available at `https://redvallarie-source.github.io/TCU-BMD-Website/`.
+GitHub Pages is enabled with **GitHub Actions** as its source. The workflow in `.github/workflows/pages.yml` publishes `dist/` when a commit is pushed to `main`, or when started manually. The public website is `https://redvallarie-source.github.io/TCU-BMD-Website/`.
 
 The workflow publishes the already-built site; after editing maintained sources, rebuild with `python -X utf8 build.py` and include the updated `dist/` files in the push. Open the site through HTTP; the global search loads its local JSON index with fetch and therefore requires a web server.
 

@@ -66,6 +66,9 @@ site. Read `MULAI-DI-CODEX.md`, `README.md`, and `SOURCE-VERSION.json` first.
 
 The portable tests use `content/portable-baseline.json` to check retained
 publication bodies, tables, document URLs, and the pre-refinement copy baseline.
-They work without the original Git history. This export contains no Git remote
-or hosting credentials. Local preview and local edits do not change the live
-website; publishing is a separate deployment step.
+They work without the original Git history. The repository is connected to
+https://github.com/redvallarie-source/TCU-BMD-Website. GitHub Pages publishes
+`dist/` through `.github/workflows/pages.yml` on pushes to `main`; rebuild and
+validate source changes before pushing. The VS Code entry point is
+`BMD-Website.code-workspace`, with Live Server rooted at `dist/`. The portable
+ZIP omits Git metadata and hosting credentials.
