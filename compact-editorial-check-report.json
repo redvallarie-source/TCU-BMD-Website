@@ -1,8 +1,8 @@
 {
-  "previous_paragraph_words": 1884,
-  "current_paragraph_words": 956,
-  "visible_paragraph_reduction_percent": 49.3,
-  "bilingual_stories_checked": 26,
+  "previous_paragraph_words": 1817,
+  "current_paragraph_words": 930,
+  "visible_paragraph_reduction_percent": 48.8,
+  "bilingual_stories_checked": 24,
   "curated_pages": {
     "index.html": {
       "before": 270,
@@ -31,10 +31,6 @@
     "internships.html": {
       "before": 223,
       "after": 18
-    },
-    "careers.html": {
-      "before": 67,
-      "after": 26
     },
     "faculty.html": {
       "before": 552,

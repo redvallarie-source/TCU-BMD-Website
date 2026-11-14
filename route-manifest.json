@@ -289,12 +289,6 @@
       "text": "Student life · Hualien, TaiwanLife at BMD.Accounting, management, and sustainability through presentations, projects, internships, and service.LearningStudent projectsOverseas internshipsStalls & serviceView photoYide Ri gathering · Participant photographView photoTaipei Tzu Chi Hospital · Participant photographIn class.Learning directionsAccounting & financial thinkingUnderstand costs, plan a budget, and make sense of financial decisions.Management & leadershipManage time, coordinate a team, and understand how companies and organisations operate.Sustainability & NPOsConsider social and environmental responsibility alongside business and non-profit organisation management.Student projects.PresentationsPodcastFinal projectView photoStudent project presentation · Indonesian cohort · Department photo archivePresentationsPresenting in class.Presentations practise clear speaking, research, teamwork, and answering questions with confidence.View photoTeam briefing · Japan internship, 2026View photoPacking meals together · Japan internship, 2026Workplace experienceBeyond campus.JapanUnited StatesThailandInternational learningJapan service-learning reportStudent food stallStudent stalls.Mao Mao Xiao Yin: food, drinks, and teamwork behind the counter.2025 charity fair · ArchiveBehind the stallPlan a student stall. Budget ingredients, set prices, and record income.Coordinate the team. Share roles, supplies, and timing.Welcome visitors. Explain the menu and answer questions.View photoMao "
     },
     {
-      "url": "careers.html",
-      "title": "Career pathways & graduate destinations",
-      "category": "Student Life",
-      "text": "Career pathwaysWorkplace collaboration · Illustrative photoAnnie Spratt / UnsplashPause background motionWhere graduates can workCareer areas include accounting, marketing, logistics, hospitality, and project management.Official source ↗Hospitality & service · Illustrative photoFlavio Mori / UnsplashDirector of Accounting OfficePublished examples新北市政府主計處科員 · 南投縣立仁愛國民中學會計室主任廣益金屬股份有限公司會計主管 · 高氏金屬工業有限公司會計主管Assistant ManagerPublished examples吳汶彥會計師事務所工商副理Special Assistant to the PresidentPublished examples思偉達新科技(股)-總經理特助兼PMProject ManagerPublished examples發達雲 雲端專案經理 · Google Streetview環景攝影師 · 勞動部勞動力發展 大型企業人力資源提升計畫講師Warehouse Management StaffPublished examples全聯實業管理採購、包裝、倉管人員View original career examplesGraduate destinationsThe source’s positive destination figures include employment, further study, or military service. They are not employment-only rates.Business ManagementDepartment of Business Management · One year after graduationAcademic yearGraduatesGraduates with reported statusEmployment, further study or military service1116650 (source note: 36 international students)471122318 (source note: 8 international students)17International Service Industry ManagementBachelor’s programme · One year after graduationAcademic yearGraduatesGraduates with reported statusEmployment, further study or military service112161512View the graduate destination report Career pathways Career pathways Department examples include accounting, project management, procurement, and hospitality. Published graduate destinations also include further study and military service."
-    },
-    {
       "url": "admissions.html",
       "title": "Admissions",
       "category": "Admissions",
@@ -1723,6 +1717,7 @@
   "redirects": {
     "exchange.html": "internships.html#global-opportunities",
     "outcomes.html": "student-life.html#life-projects",
-    "international.html": "admissions.html"
+    "international.html": "admissions.html",
+    "careers.html": "student-life.html"
   }
 }

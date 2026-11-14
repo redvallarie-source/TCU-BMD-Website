@@ -6,6 +6,7 @@ RETIRED={
     'exchange.html':'internships.html#global-opportunities',
     'outcomes.html':'student-life.html#life-projects',
     'international.html':'admissions.html',
+    'careers.html':'student-life.html',
 }
 
 

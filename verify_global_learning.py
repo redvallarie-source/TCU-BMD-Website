@@ -32,16 +32,16 @@ for prefix in ['', 'zh-']:
 
 for path in D.glob('*.html'):
     page=LH.parse(str(path));prefix='zh-' if path.name.startswith('zh-') else ''
-    expected=[prefix+'student-life.html',prefix+'internships.html',prefix+'careers.html']
+    expected=[prefix+'student-life.html',prefix+'internships.html']
     menus=page.xpath('//details[contains(concat(" ",@class," ")," nav-group ")]')
     student=menus[3]
-    if student.xpath('.//a/@href')!=expected:errors.append((path.name,'Student Life menu is not the three intended destinations'))
+    if student.xpath('.//a/@href')!=expected:errors.append((path.name,'Student Life menu is not the two intended destinations'))
     if path.name.removeprefix('zh-') in RETIRED:continue
     for link in page.xpath('//a[@href]'):
         if link.xpath('ancestor::*[contains(concat(" ",@class," ")," source-body ")]'):continue
         if urlsplit(link.get('href')).path.removeprefix('zh-') in RETIRED:errors.append((path.name,'Link still points to a removed standalone page',link.get('href')))
 
-report={'source_linked_pathways':6,'countries_explicitly_named':['Taiwan','Malaysia','United States','United Kingdom','Japan'],'other_learning':'International workshop at BMD','student_life_menu_items':3,'bookmark_redirects':6,'languages':2,'errors':errors}
+report={'source_linked_pathways':6,'countries_explicitly_named':['Taiwan','Malaysia','United States','United Kingdom','Japan'],'other_learning':'International workshop at BMD','student_life_menu_items':2,'bookmark_redirects':len(RETIRED)*2,'languages':2,'errors':errors}
 (ROOT/'global-learning-check-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
 print(json.dumps(report,ensure_ascii=False,indent=2))
 raise SystemExit(bool(errors))

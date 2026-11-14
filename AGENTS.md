@@ -38,6 +38,8 @@ site. Read `MULAI-DI-CODEX.md`, `README.md`, and `SOURCE-VERSION.json` first.
 - Student-life material is institutional page content, not a fabricated quote
   or testimonial. The Japan journal remains an optional example within the
   broader Beyond Campus page.
+- The Student Life menu contains Life at BMD and Beyond Campus. The owner
+  removed Career Pathways; keep its old route as a redirect to Life at BMD.
 
 ## Content and functionality
 

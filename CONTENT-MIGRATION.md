@@ -22,7 +22,7 @@ The captured material covers About/Introduction, Faculty and profiles, Curriculu
 
 Every captured official source URL maps to `source-<sha1(full URL)[:12]>.html`. Full query strings are retained when deriving identifiers. Faculty profiles additionally map to `faculty-<sha1(profile URL)[:10]>.html`. The audit records the related curated core route for each source.
 
-The agreed curated routes are: `index.html`, `introduction.html`, `vision.html`, `history.html`, `academics.html`, `curriculum.html`, `requirements.html`, `faculty.html`, `student-life.html`, `internships.html`, `exchange.html`, `international.html`, `outcomes.html`, `careers.html`, `admissions.html`, `news.html`, `events.html`, `resources.html`, `regulations.html`, `contact.html`.
+The agreed curated routes are: `index.html`, `introduction.html`, `vision.html`, `history.html`, `academics.html`, `curriculum.html`, `requirements.html`, `faculty.html`, `student-life.html`, `internships.html`, `exchange.html`, `international.html`, `outcomes.html`, `admissions.html`, `news.html`, `events.html`, `resources.html`, `regulations.html`, `contact.html`.
 
 The four original GitHub pages are design/source references mapped to their corresponding curated page purpose. They are not treated as authoritative evidence for official academic facts.
 
@@ -62,3 +62,5 @@ The academic calendar now uses Asia/Taipei for month rollover and 32 selected en
 Graduate-destination tables distinguish Business Management from the International Service Industry Management bachelor’s programme; the reported statuses include employment, further study and military service.
 
 Curriculum PDFs with verified local copies can be previewed without embedding the university’s restricted origin. The original files remain linked. Publisher-listed PowerPoint sizes are shown as source metadata, rather than described as compressed PDFs.
+
+Career Pathways was retired at the owner’s request on 14 November 2026. Its English and Traditional Chinese routes redirect to Life at BMD and are excluded from navigation and search. Original department source-reading pages remain available.

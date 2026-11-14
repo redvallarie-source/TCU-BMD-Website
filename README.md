@@ -142,7 +142,7 @@ Run `python build.py`, `python verify_internships.py`, and `python verify_refine
 
 ## Beyond Campus consolidation (November 2026)
 
-The Student Life menu now has three destinations: Life at BMD, Beyond Campus, and Career Pathways. Beyond Campus retains the stable `internships.html` route and covers Taiwan placement guidance, ViTrox in Malaysia, the 2025 US notice, Nottingham Trent summer learning, the 2026 Japan notice, and international academic contact at BMD. Every entry links directly to an official department source or published film. Records are clearly distinguished from open applications.
+The Student Life menu has two destinations: Life at BMD and Beyond Campus. Career Pathways was removed at the owner’s request; old career-page bookmarks redirect to Life at BMD. Beyond Campus retains the stable `internships.html` route and covers Taiwan placement guidance, ViTrox in Malaysia, the 2025 US notice, Nottingham Trent summer learning, the 2026 Japan notice, and international academic contact at BMD. Every entry links directly to an official department source or published film. Records are clearly distinguished from open applications.
 
 The detailed Tokyo journal keeps the approved photography and interactions inside an optional expandable case. It opens automatically for its own section links and older Tokyo anchors. Cover copy, programme rows, sources, and two independent cover-photo slots live in `content/global-learning.json`; the Japan case remains in `content/internship-editorial.json`.
 

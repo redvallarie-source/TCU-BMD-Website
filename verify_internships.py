@@ -6,6 +6,7 @@ import subprocess
 from pathlib import Path
 from lxml import html as LH
 from PIL import Image
+from navigation_consolidation import RETIRED
 
 ROOT=Path(__file__).parent
 D=ROOT/'dist'
@@ -53,7 +54,9 @@ for page in D.glob('*.html'):
     # table. Both original certificate tables still participate in this guard.
     for selector,label,key in [('//*[contains(concat(" ",@class," ")," source-body ")]','Published source content','publication_bodies'),('//main//table[not(contains(concat(" ",normalize-space(@class)," ")," certificate-table "))]','Published table','tables')]:
         current_values=[hashlib.sha256(' '.join(e.text_content().split()).encode()).hexdigest() for e in after.xpath(selector)]
-        previous_values=baseline[key].get(page.name,[])
+        # Retired curated pages are empty redirects. Original source-reading
+        # pages and their factual tables remain protected by the baseline.
+        previous_values=[] if key=='tables' and page.name.removeprefix('zh-') in RETIRED else baseline[key].get(page.name,[])
         if previous_values!=current_values:errors.append((page.name,label+' changed'))
         if label=='Published source content':preserved_sources+=len(current_values)
         else:preserved_tables+=len(current_values)

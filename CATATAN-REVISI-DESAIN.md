@@ -107,3 +107,9 @@ Foto yang dilampirkan pemilik menggantikan foto utama food stall pada bagian Stu
 Tanggal dan tujuan amal foto baru belum diberikan, sehingga foto tidak diberi atribusi acara援緬 2025. Dua foto arsip lain dalam kolase tetap berlabel jelas sebagai Myanmar-relief fair 2025 dan memiliki tautan laporan asal. Foto asli pada berita dan publikasi dipertahankan. Satu aset WebP khusus ditambahkan agar foto pemilik tidak ikut berulang pada Home dan Introduction yang masih memakai foto arsip lama.
 
 Keenam pemeriksaan proyek dan audit 25 foto pilihan lolos. Foto utama, caption, pembesaran foto, serta versi Mandarin pada lebar 390 piksel diperiksa di browser tanpa overflow. Aset dioptimalkan menjadi 287.548 byte tanpa EXIF. Preview lokal dan proyek Visual Studio Code diperbarui; publikasi online tetap terpisah.
+
+## Career Pathways dihapus atas permintaan pemilik
+
+Career Pathways dihapus dari menu Student Life, pencarian, dan halaman kurasi dalam bahasa Inggris/Mandarin. Menu Student Life kini hanya Life at BMD dan Beyond Campus. Alamat careers.html dan zh-careers.html menjadi redirect ke halaman Student Life masing-masing, sehingga bookmark lama tetap berguna. Publikasi asli pada halaman sumber tetap dipertahankan.
+
+Enam pemeriksaan proyek lolos. Pemeriksaan menu mencakup seluruh 326 halaman; kedua indeks pencarian tidak lagi memuat route Career Pathways. Foto pilihan pemilik tidak diubah.

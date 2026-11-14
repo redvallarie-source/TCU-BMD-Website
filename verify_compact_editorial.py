@@ -18,7 +18,7 @@ index={prefix:{r['url']:r for r in json.loads((D/('assets/search-index-zh.json' 
 def prose_count(tree):
     return sum(len(e.text_content().split()) for e in tree.xpath('//main//p[not(ancestor::dialog or ancestor::details or ancestor::script)]'))
 
-primary=['index','introduction','vision','history','academics','student-life','internships','careers','faculty','admissions','curriculum','requirements','resources','regulations','news','events','contact']
+primary=['index','introduction','vision','history','academics','student-life','internships','faculty','admissions','curriculum','requirements','resources','regulations','news','events','contact']
 for page in primary:
     path=page+'.html'
     previous=baseline['paragraph_baseline'][path]
@@ -29,7 +29,7 @@ for page in primary:
 
 stories_checked=0
 for prefix in ['', 'zh-']:
-    for page,expected in [('index',4),('introduction',2),('internships',6),('careers',1)]:
+    for page,expected in [('index',4),('introduction',2),('internships',6)]:
         path=prefix+page+'.html'
         tree=LH.parse(str(D/path))
         data=json.loads(tree.xpath('//script[@id="editorial-story-data"]')[0].text)
